@@ -477,7 +477,7 @@ For more information about the different exercises we use in our interview proce
 
 **Title of the Exercise:** **Product Roadmap/Positioning - New/CRL Specific (incl. Take-home exercise work)**
 
-    * **Overview****:** In this interview, you will be getting a sense of how well the candidate understands the basic aspects of product management and how passionate they are about the discipline. 
+    * **Overview:** In this interview, you will be getting a sense of how well the candidate understands the basic aspects of product management and how passionate they are about the discipline. 
 
     * **Follow-up Questions:** What’s your favorite B2B product and why?
 
