@@ -217,27 +217,27 @@ For more information about the different exercises we use in our interview proce
 
 **Title of the Exercise: Activity/Event Planning**
 
-* **Set-up: **15 minute warm-up - present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion. 
+* **Set-up:** 15 minute warm-up - present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion. 
 
-* **Overview: **Cockroach Labs would like to plan an end of summer activity/event, inviting all employees. 
+* **Overview:** Cockroach Labs would like to plan an end of summer activity/event, inviting all employees. 
 
-* **Part 1: **Come up with 5 concepts for a summer activity/event (i.e. Roachella, Cockroach Cares)
+* **Part 1:** Come up with 5 concepts for a summer activity/event (i.e. Roachella, Cockroach Cares)
 
-* **Part 2: **Plan the event (see worksheet)
+* **Part 2:** Plan the event (see worksheet)
 
 * **Considerations:** Based on the culture at Cockroach Labs, please define what type of activity/event it should be (formal vs informal). 
 
-* **Follow-up Question: **After discussing plan with the candidate, ask them what they would then do if the location of the activity/event had a conflict a week out (if outdoor event, rain; if indoor, they double-booked the space).
+* **Follow-up Question:** After discussing plan with the candidate, ask them what they would then do if the location of the activity/event had a conflict a week out (if outdoor event, rain; if indoor, they double-booked the space).
 
 **Job title: Executive Assistant**
 
 **Title of the Exercise: Client Meetings**
 
-* **Set-up: **15 minute warm- up and present problem, 15 minute work time, 15 minute discussion. 
+* **Set-up:** 15 minute warm- up and present problem, 15 minute work time, 15 minute discussion. 
 
-* **Overview: **Schedule two, one-hour client meetings for Co-Founder and VP, Engineering, Peter Mattis. Peter has not met with these individuals before so please be sure to prepare a short bio on both clients by researching publicly available information. Please also be sure to include any information that may be useful for Peter to know (i.e. areas of overlap, current focus in roles, past experience, etc.).
+* **Overview:** Schedule two, one-hour client meetings for Co-Founder and VP, Engineering, Peter Mattis. Peter has not met with these individuals before so please be sure to prepare a short bio on both clients by researching publicly available information. Please also be sure to include any information that may be useful for Peter to know (i.e. areas of overlap, current focus in roles, past experience, etc.).
 
-* **Client Meetings: **
+* **Client Meetings:** 
 
     * Oscar Health - Alan Warren
 
@@ -253,19 +253,19 @@ For more information about the different exercises we use in our interview proce
 
     * Peter’s LinkedIn: [https://www.linkedin.com/in/peter-mattis-46549144](https://www.linkedin.com/in/peter-mattis-46549144)
 
-* **Follow-up Questions: **Peter just received a text that he needs to be home on the 3:30pm train. How would you address this?
+* **Follow-up Questions:** Peter just received a text that he needs to be home on the 3:30pm train. How would you address this?
 
 **Job title: Executive Assistant**
 
 **Title of the Exercise: External Communication and Diplomacy**
 
-* **Set-up: **15 minute warm-up and present problem, 15 minute work time, 15 minute discussion. 
+* **Set-up:** 15 minute warm-up and present problem, 15 minute work time, 15 minute discussion. 
 
-* **Overview: **Your first day at Cockroach Labs is Monday, August 28th. You have been shared on an email communication for an upcoming meeting on Thursday, September 8th and asked to resolve the situation. 
+* **Overview:** Your first day at Cockroach Labs is Monday, August 28th. You have been shared on an email communication for an upcoming meeting on Thursday, September 8th and asked to resolve the situation. 
 
 * **Part 1**: Discuss with the interviewer about how you would resolve the situation. 
 
-* **Key Participants: **
+* **Key Participants:** 
 
     * Founders: Ben Darnell, Peter Mattis and Spencer Kimball
 
@@ -277,15 +277,15 @@ For more information about the different exercises we use in our interview proce
 
 * **Part 3:** Use best judgement to bucket items as confidential or public. Some of these are easier to determine than others. Discuss.
 
-* **Follow-up Questions: **The EA at XCoast, Charlie Brown has determined that since it is your first day, they don’t want to deal directly with you, rather the founders. What would be your next steps?
+* **Follow-up Questions:** The EA at XCoast, Charlie Brown has determined that since it is your first day, they don’t want to deal directly with you, rather the founders. What would be your next steps?
 
 **Job title: Executive Assistant**
 
-**Title of the Exercise: ****Internal Communication & Strategy**
+**Title of the Exercise:** **Internal Communication & Strategy**
 
-* **Overview: **Come up with a plan to provide snacks to our employees on a weekly basis.  
+* **Overview:** Come up with a plan to provide snacks to our employees on a weekly basis.  
 
-* **Set-up: **15 minute warm-up-present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion.  (currently we spend about $1400 a month which is about $14 per employee per week. 
+* **Set-up:** 15 minute warm-up-present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion.  (currently we spend about $1400 a month which is about $14 per employee per week. 
 
     * Tell me a bit about yourself and what interested you in CRL.
 
@@ -293,21 +293,21 @@ For more information about the different exercises we use in our interview proce
 
     * This job objective, straightforward but also touchy feely.  Food seems trivial but it is important and will touch everyone.
 
-* **Part 1: **Identify snacks for the office, including communication to employees.
+* **Part 1:** Identify snacks for the office, including communication to employees.
 
-* **Part 2: **Put together a plan to order snacks weekly to ensure we provide our employees with snacks throughout the day!
+* **Part 2:** Put together a plan to order snacks weekly to ensure we provide our employees with snacks throughout the day!
 
-* **Food Philosophy: **Food at Cockroach Labs also provides means for you to fuel your brain for whatever challenges you are tackling. Beyond meals, we strive to provide our employees with healthy snacks (avoiding heavily processed foods) that help keep you going throughout the day. In determining what snacks we provide, we take into consideration food that supports our philosophy and are appealing to a majority of employees while keeping in line with the budget allocated per employee. 
+* **Food Philosophy:** Food at Cockroach Labs also provides means for you to fuel your brain for whatever challenges you are tackling. Beyond meals, we strive to provide our employees with healthy snacks (avoiding heavily processed foods) that help keep you going throughout the day. In determining what snacks we provide, we take into consideration food that supports our philosophy and are appealing to a majority of employees while keeping in line with the budget allocated per employee. 
 
-* **Follow-up Questions: **Employee sends you the following email. How do you deal with this?
+* **Follow-up Questions:** Employee sends you the following email. How do you deal with this?
 
 ### [File] Documentation
 
 **Job title: Senior Technical Writer**
 
-**Title of the Exercise: ****Technical Writer Information Design**
+**Title of the Exercise:** **Technical Writer Information Design**
 
-* **Part 1****: **Candidate explains topic to interviewer. Interviewer asks candidate to explain/teach something they know a lot about. This can be anything from how a database works to how dogs are trained to the work of a specific author. Interviewer tells candidate to figure out how much they know about the topic and to explain/teach with that in mind. Interviewer asks for clarifications, context, deeper explanations, as necessary.
+* **Part 1****:** Candidate explains topic to interviewer. Interviewer asks candidate to explain/teach something they know a lot about. This can be anything from how a database works to how dogs are trained to the work of a specific author. Interviewer tells candidate to figure out how much they know about the topic and to explain/teach with that in mind. Interviewer asks for clarifications, context, deeper explanations, as necessary.
 
 * **Follow-up Questions:** Interviewer asks candidate to sketch outline for how they would document topic.
 
@@ -329,11 +329,11 @@ For more information about the different exercises we use in our interview proce
 
 **Job title: Senior Technical Writer**
 
-**Title of the Exercise: ****Technical Writer Technical Competency and Documentation 1**
+**Title of the Exercise:** **Technical Writer Technical Competency and Documentation 1**
 
 * **Set-up:** [Distributed Transaction Model](https://docs.google.com/a/cockroachlabs.com/presentation/d/1oTRuDl5VoeZBdAeHGf-gAovrMuG49VfRGmqaLbz_V6Q/edit?usp=sharing) presentation will be shared on the Google doc. Please review the presentation during the interview. 
 
-* **Part 1: **Interviewer explains Distributed Transaction Model. Candidate learns, explains back, and then documents.
+* **Part 1:** Interviewer explains Distributed Transaction Model. Candidate learns, explains back, and then documents.
 
     * Interviewer sets up activity, something like: "I'm going to explain a DB concept to you. I'll ask you to explain it back to me, so ask questions whenever you have them."
 
@@ -363,9 +363,9 @@ For more information about the different exercises we use in our interview proce
 
 **Job title: Senior Technical Writer**
 
-**Title of the Exercise: ****Technical Writer Blog Editing**
+**Title of the Exercise:** **Technical Writer Blog Editing**
 
-* **Overview****: **Edit a technical blog post & create a publishing strategy
+* **Overview****:** Edit a technical blog post & create a publishing strategy
 
     * As part of this exercise, we’ll share with you a draft of a blog post (page 2 of this document) that will run on our blog. Your task is to edit it and present your revisions. You will editing for clarity and readability, as well as identifying areas that could benefit from further detail, technical or otherwise.  
 
@@ -377,7 +377,7 @@ For more information about the different exercises we use in our interview proce
 
     * Create evangelists out of every employee.** **
 
-* **Considerations: **The edit does not have to be fact-perfect. This is a technical post, and in the real world, you would have access to its author for clarifying questions. It does need to get across your vision for the story arc and demonstrate your abilities as a writer and editor.
+* **Considerations:** The edit does not have to be fact-perfect. This is a technical post, and in the real world, you would have access to its author for clarifying questions. It does need to get across your vision for the story arc and demonstrate your abilities as a writer and editor.
 
 ### [File] Marketing
 
@@ -385,9 +385,9 @@ For more information about the different exercises we use in our interview proce
 
 **Title of the Exercise: Community Design**
 
-* **Overview: **Evaluate candidate’s problem-solving, analytical thinking, and ability to collaborate within in a team.
+* **Overview:** Evaluate candidate’s problem-solving, analytical thinking, and ability to collaborate within in a team.
 
-* **Part 1: **Review the creatives, keyword strategy, performance, and landing page of our current AdWords campaign. Problem solve to improve the campaign’s performance.
+* **Part 1:** Review the creatives, keyword strategy, performance, and landing page of our current AdWords campaign. Problem solve to improve the campaign’s performance.
 
 * **Follow-up Questions:**
 
@@ -397,7 +397,7 @@ For more information about the different exercises we use in our interview proce
 
     * How would you optimize a campaign?
 
-* **Part 2: **Have the candidate draft a new campaign for the Cloud Hosted campaign:
+* **Part 2:** Have the candidate draft a new campaign for the Cloud Hosted campaign:
 
     * 3 creatives
 
@@ -411,9 +411,9 @@ For more information about the different exercises we use in our interview proce
 
 **Title of the Exercise: Improve the Company Website**
 
-* **Set-up: **Interview laptop with cockroachlabs.com opened. Recruiter will connect to screen so interviewer can see candidate navigate the website.
+* **Set-up:** Interview laptop with cockroachlabs.com opened. Recruiter will connect to screen so interviewer can see candidate navigate the website.
 
-* **Follow-up Questions: **
+* **Follow-up Questions:** 
 
     * How would you improve the company website?
 
@@ -427,11 +427,11 @@ For more information about the different exercises we use in our interview proce
 
     * How would we improve our inbound organic search traffic?
 
-* **Considerations: **The candidate should give keywords that we are trying to market to, however if they are stuck, please provide keywords.
+* **Considerations:** The candidate should give keywords that we are trying to market to, however if they are stuck, please provide keywords.
 
 * **Additional:** The candidate should look at the navigation on the site, the footer, the main navigation, see what pages are available and how we are surfacing them. The candidate should ask what keywords we think are important. They will have to give a gut analysis on how we are doing the keywords.
 
-* **Part 1: **Based on the discussion, the candidate will have 40 minutes to come up with an outline of suggested actions to improve the website.  You should also give an overview of resources, tools, and timeline.
+* **Part 1:** Based on the discussion, the candidate will have 40 minutes to come up with an outline of suggested actions to improve the website.  You should also give an overview of resources, tools, and timeline.
 
 **Job title: Marketing Manager**
 
@@ -439,7 +439,7 @@ For more information about the different exercises we use in our interview proce
 
 * **Part 1:** Lead Generation on the Site and Engagement. Review our current user engagement on our website.
 
-* **Part 2: **Build a Lead Generation Strategy. How would you turn anyone that you interact with into a customer?
+* **Part 2:** Build a Lead Generation Strategy. How would you turn anyone that you interact with into a customer?
 
 * **Questions**
 
@@ -455,17 +455,17 @@ For more information about the different exercises we use in our interview proce
 
 **Title of the Exercise: Promotion Strategy**
 
-* **Overview: **Create a publishing strategy and supporting content for one blog post. For this exercise, you will be creating a publishing and promotion strategy for a blog post: [Building an Application with CockroachDB and SQLAlchemy ](https://www.cockroachlabs.com/blog/building-application-cockroachdb-sqlalchemy-2/).
+* **Overview:** Create a publishing strategy and supporting content for one blog post. For this exercise, you will be creating a publishing and promotion strategy for a blog post: [Building an Application with CockroachDB and SQLAlchemy ](https://www.cockroachlabs.com/blog/building-application-cockroachdb-sqlalchemy-2/).
 
-* **Resources: ****[Blog Stat**s](https://docs.google.com/spreadsheets/d/1ErkEq6xkwVmTeVPXtCMO7R5dwLZss6SVZzc7zrtFesg/edit?usp=sharing)
+* **Resources:** **[Blog Stat**s](https://docs.google.com/spreadsheets/d/1ErkEq6xkwVmTeVPXtCMO7R5dwLZss6SVZzc7zrtFesg/edit?usp=sharing)
 
-* **Follow-up ****Questions: **
+* **Follow-up ****Questions:** 
 
     * How will you get these posts in front of an interested audience?
 
     * How will you keep them on the blog or website?
 
-* **Considerations: **
+* **Considerations:** 
 
     * Be conscious of character counts for the meta description, tweets (with images and without), and LinkedIn posts.
 
@@ -475,45 +475,45 @@ For more information about the different exercises we use in our interview proce
 
 **Job title: Product Manager**
 
-**Title of the Exercise: ****Product Roadmap/Positioning - New/CRL Specific (incl. Take-home exercise work)**
+**Title of the Exercise:** **Product Roadmap/Positioning - New/CRL Specific (incl. Take-home exercise work)**
 
-    * **Overview****: **In this interview, you will be getting a sense of how well the candidate understands the basic aspects of product management and how passionate they are about the discipline. 
+    * **Overview****:** In this interview, you will be getting a sense of how well the candidate understands the basic aspects of product management and how passionate they are about the discipline. 
 
-    * **Follow-up Questions: **What’s your favorite B2B product and why?
+    * **Follow-up Questions:** What’s your favorite B2B product and why?
 
 **Job title: Product Manager**
 
 **Title of the Exercise: Product Roadmap/Positioning - Work Exp - Tech **
 
-    * **Overview: **In this interview, you are assessing if the candidate has the ability to work well with a Cockroach Labs engineering team to define, communicate, and deliver on a feature roadmap. At this level, candidates may focus on the smaller picture, so the emphasis is placed on the ability to execute against a roadmap, influence and collaborate with internal/external technical stakeholders, and make principled tradeoffs in order to deal with technical or market realities.
+    * **Overview:** In this interview, you are assessing if the candidate has the ability to work well with a Cockroach Labs engineering team to define, communicate, and deliver on a feature roadmap. At this level, candidates may focus on the smaller picture, so the emphasis is placed on the ability to execute against a roadmap, influence and collaborate with internal/external technical stakeholders, and make principled tradeoffs in order to deal with technical or market realities.
 
-    * **Setup: **Candidate will be asked by the recruiter to pick a product (or feature) that they took through to launching to the public. The preference is that they use a product that had technology clients (as opposed to marketing or another department). They will be prepared to discuss the product (or feature) with you.
+    * **Setup:** Candidate will be asked by the recruiter to pick a product (or feature) that they took through to launching to the public. The preference is that they use a product that had technology clients (as opposed to marketing or another department). They will be prepared to discuss the product (or feature) with you.
 
-    * **Part 1: **Work Experience - Ask them to dive into their product/feature from a technical standpoint. They should be able to speak to the technical details in this section. How did the product evolve? From concept to launch or was it pre-existing? 
+    * **Part 1:** Work Experience - Ask them to dive into their product/feature from a technical standpoint. They should be able to speak to the technical details in this section. How did the product evolve? From concept to launch or was it pre-existing? 
 
 **Job title: Product Manager**
 
-**Title of the Exercise: ****Analytical Case**
+**Title of the Exercise:** **Analytical Case**
 
-    * **Overview: **Provide the candidate with this  [excel spreadsheet](https://docs.google.com/spreadsheets/d/12f3kjlTs5QpCmsvXo-ZLOWG5rFdc4DaB6TwJxoQxVOE/edit#gid=0) and have them pull insights. 
+    * **Overview:** Provide the candidate with this  [excel spreadsheet](https://docs.google.com/spreadsheets/d/12f3kjlTs5QpCmsvXo-ZLOWG5rFdc4DaB6TwJxoQxVOE/edit#gid=0) and have them pull insights. 
 
     * **Part 1:** From the attached sheet the candidate should, at the minimum, be able to show new cluster growth and create cluster segments via pivot tables. From this data you can also calculate monthly active clusters and cohort retention, but that’s not a requirement to actually get to. 
 
-    * **Part 2: **[Provide charts](https://docs.google.com/a/cockroachlabs.com/spreadsheets/d/1U49nuhoz4wL3mThxLrIEiXcchObMK-VI3QZX6vbgZ-s/edit?zx=we6r4gilfygy&usp=docs_web). What are the takeaways? Here’s a chart that shows groups of clusters that joined in a given month and what % of those groups were still around 1, 2, 3 etc months later.  What are some of the things that look like their going well? What are some areas you would be concerned about? 
+    * **Part 2:** [Provide charts](https://docs.google.com/a/cockroachlabs.com/spreadsheets/d/1U49nuhoz4wL3mThxLrIEiXcchObMK-VI3QZX6vbgZ-s/edit?zx=we6r4gilfygy&usp=docs_web). What are the takeaways? Here’s a chart that shows groups of clusters that joined in a given month and what % of those groups were still around 1, 2, 3 etc months later.  What are some of the things that look like their going well? What are some areas you would be concerned about? 
 
 ![image alt text](image_0.png)
 
 **Job title: Product Manager**
 
-**Title of the Exercise: ****Understanding your Customers**
+**Title of the Exercise:** **Understanding your Customers**
 
-1. **Overview: **In this interview, you are focusing on the candidate’s ability to understand customers in an enterprise environment where we may not have a lot of data. Product Managers have to know (and have to have frequent contact and communication with) their customers and users. Successful PMs should incorporate real world customer needs and feedback into product development.  
+1. **Overview:** In this interview, you are focusing on the candidate’s ability to understand customers in an enterprise environment where we may not have a lot of data. Product Managers have to know (and have to have frequent contact and communication with) their customers and users. Successful PMs should incorporate real world customer needs and feedback into product development.  
 
 2. **Part 1: Work Experience - **What are some of the ways you’ve gotten to know your customers in the past? 
 
 3. **Part 2: Cockroach Labs**
 
-4. **Follow-up Questions: **
+4. **Follow-up Questions:** 
 
     * Who do you think our users are? Can you describe a few segments? (could be operator vs dev vs DBA or startup, midmarket, enterprise, for example)
 
@@ -537,7 +537,7 @@ For more information about the different exercises we use in our interview proce
 
     * [Battery Memory System Status Monitor](https://itunes.apple.com/us/app/battery-memory-system-status-monitor/id497937231?mt=8) is an application for monitoring your device's performance. The Summary page is the first page users see when they launch the app. Your task is to redesign/reimagine the Summary page for its Android application using Google’s Material Design system. 
 
-* **Part 2: **Portfolio Review
+* **Part 2:** Portfolio Review
 
     * Candidate will come prepared to review a portfolio project with a focus on visual design. Tell us about the project. 
 
@@ -547,17 +547,17 @@ For more information about the different exercises we use in our interview proce
 
 * **Overview:** Interviewer explains the positioning of CockroachDB. After installing CockroachDB and exploring the UI admin, the candidate to show an ability to conduct valuable user research as well as have an opinionated view on how to improve usability.
 
-* **Setup: **Interviewer will discuss CockroachDB and have the candidate define the user group. Candidate should ask insightful questions. 
+* **Setup:** Interviewer will discuss CockroachDB and have the candidate define the user group. Candidate should ask insightful questions. 
 
-* **Part 1: **Candidate will install CockroachDB with the interviewer and explore the UI Admin. The interviewer will use prompt questions to understand how the candidate is thinking about the product and seek for any improvements that they can make. 
+* **Part 1:** Candidate will install CockroachDB with the interviewer and explore the UI Admin. The interviewer will use prompt questions to understand how the candidate is thinking about the product and seek for any improvements that they can make. 
 
 **Job title: Product Designer**
 
 **Title of the Exercise: Whiteboard Exercise: Design an alarm clock**
 
-* **Overview: **Interviewer will draw the interface of an alarm clock, giving the alarm clock two buttons.
+* **Overview:** Interviewer will draw the interface of an alarm clock, giving the alarm clock two buttons.
 
-* **Part 1: **Candidate to use two buttons to set and alarm clock.
+* **Part 1:** Candidate to use two buttons to set and alarm clock.
 
 ### [File] People Operations
 
@@ -565,7 +565,7 @@ For more information about the different exercises we use in our interview proce
 
 **Title of the Exercise: Kick-off Meeting for Android Developer **
 
-* **Set-up: **The candidate’s take-home exercise will be sent to you prior to your interview. The candidate put together this exercise with the intent of kicking-off the process for an Android developer. You have asked them to come prepared with a high-level process and 3 candidate profiles. The candidate will have access to the take-home exercise via their interview template on the laptop. You should encourage them to fine tune the process as you go through your meeting with them. 
+* **Set-up:** The candidate’s take-home exercise will be sent to you prior to your interview. The candidate put together this exercise with the intent of kicking-off the process for an Android developer. You have asked them to come prepared with a high-level process and 3 candidate profiles. The candidate will have access to the take-home exercise via their interview template on the laptop. You should encourage them to fine tune the process as you go through your meeting with them. 
 
 * **Overview****:** Candidate will conduct the kick-off meeting with you as the hiring manager. The candidate should accomplish the following:
 
@@ -579,7 +579,7 @@ For more information about the different exercises we use in our interview proce
 
 **Job title: Recruiter**
 
-**Title of the Exercise: ****Extending an Offer **
+**Title of the Exercise:** **Extending an Offer **
 
 * **Overview****:** In-person extension of an offer for an Android Developer.
 
@@ -597,13 +597,13 @@ For more information about the different exercises we use in our interview proce
 
 **Job title: Recruiter**
 
-**Title of the Exercise: ****Pipeline Development for a Product Designer **
+**Title of the Exercise:** **Pipeline Development for a Product Designer **
 
-* **Overview: **The candidate should have a solid foundation of how we recruit at CRL due to the earlier interview focused on building and identifying talent for an Android Developer. We are going to switch gears on them and have them apply their skills to sourcing a Product Designer. 
+* **Overview:** The candidate should have a solid foundation of how we recruit at CRL due to the earlier interview focused on building and identifying talent for an Android Developer. We are going to switch gears on them and have them apply their skills to sourcing a Product Designer. 
 
 * **Part 1:** Learn about the requisition. What do you look for as a hiring manager?
 
-* **Part 2: **Source and review profiles. 
+* **Part 2:** Source and review profiles. 
 
 * **Follow-up Questions:**
 
@@ -615,11 +615,11 @@ For more information about the different exercises we use in our interview proce
 
 **Job title: Recruiter**
 
-**Title of the Exercise: ****College Recruiting Event **
+**Title of the Exercise:** **College Recruiting Event **
 
-* **Overview: **Cockroach Labs would like to plan an info session at the University of Waterloo. 
+* **Overview:** Cockroach Labs would like to plan an info session at the University of Waterloo. 
 
-* **Part 1: **Decide the date and name of the info session (see [worksheet](https://docs.google.com/a/cockroachlabs.com/document/d/1zVLHHpSqKZKcZTa315-J-_uavJUpjblpVugxPQtH5pc/edit?usp=sharing))
+* **Part 1:** Decide the date and name of the info session (see [worksheet](https://docs.google.com/a/cockroachlabs.com/document/d/1zVLHHpSqKZKcZTa315-J-_uavJUpjblpVugxPQtH5pc/edit?usp=sharing))
 
 * **Part 2:** Plan the event (see [worksheet](https://docs.google.com/a/cockroachlabs.com/document/d/1zVLHHpSqKZKcZTa315-J-_uavJUpjblpVugxPQtH5pc/edit?usp=sharing))
 
@@ -633,9 +633,9 @@ For more information about the different exercises we use in our interview proce
 
 **Job title: Business Development Manager**
 
-**Title of the Exercise: ****Research/Targeting Customers - Identifying Companies **
+**Title of the Exercise:** **Research/Targeting Customers - Identifying Companies **
 
-* **Overview: **Candidate will find three companies that fit the ideal candidate profile that they put together during their take-home exercise. 
+* **Overview:** Candidate will find three companies that fit the ideal candidate profile that they put together during their take-home exercise. 
 
 * **Candidate Setup:**
 
@@ -657,11 +657,11 @@ For more information about the different exercises we use in our interview proce
 
 **Job title: Business Development Manager**
 
-**Title of the Exercise: ****Campaign Process - Customer Outreach**
+**Title of the Exercise:** **Campaign Process - Customer Outreach**
 
-* **Overview: **Candidate is asked to set-up an outbound email campaign (cadence) for the companies they targeted in their first exercise. [Worksheet for Candidate Exercise](https://docs.google.com/a/cockroachlabs.com/document/d/10SJtP7leugjGnxZeaZjrJOOM-8A_OL13wodY1yC9eLQ/edit?usp=sharing)
+* **Overview:** Candidate is asked to set-up an outbound email campaign (cadence) for the companies they targeted in their first exercise. [Worksheet for Candidate Exercise](https://docs.google.com/a/cockroachlabs.com/document/d/10SJtP7leugjGnxZeaZjrJOOM-8A_OL13wodY1yC9eLQ/edit?usp=sharing)
 
-* **Candidate Setup: **Interviewer will ask the candidate to create an automated outbound email campaign for one of the companies they targeted in their first exercise. Interview will present the candidate with a printout of the HubSpot workflows page with all action options: ![image alt text](image_1.png)
+* **Candidate Setup:** Interviewer will ask the candidate to create an automated outbound email campaign for one of the companies they targeted in their first exercise. Interview will present the candidate with a printout of the HubSpot workflows page with all action options: ![image alt text](image_1.png)
 
     * Have the candidate build a campaign cadence on paper using the action items listed on the workflows page.
 
@@ -683,7 +683,7 @@ For more information about the different exercises we use in our interview proce
 
 **Job title: Business Development Manager**
 
-**Title of the Exercise: ****Project Management - Campaign Planning**
+**Title of the Exercise:** **Project Management - Campaign Planning**
 
     * **Overview:** Candidate is asked to plan out their day considering that they have six campaigns that they need to run. Specifically, describe how you plan on preparing and executing on the campaigns, what can you do to customize and personalize. After campaign efforts, describe calling plans. What in addition would you plan on doing to ensure keeping your day filled?
 
@@ -703,11 +703,11 @@ For more information about the different exercises we use in our interview proce
 
 **Job title: Business Development Manager**
 
-**Title of the Exercise: ****Technical Acumen - Database Marketplace**
+**Title of the Exercise:** **Technical Acumen - Database Marketplace**
 
 * **Overview:** It is important that the candidate understands the value of what a solid database solution is. For this interview, the candidate will be asked to engage in a conversation around the value that a database solution can bring to their customers. It is important that they understand why databases are important and have a baseline understanding of how they work and the marketplace in which they exist.
 
-* **Set-up: **Recruiter will send database resources to the candidate and ask them to read the resources in preparation of having a conversation about databases.
+* **Set-up:** Recruiter will send database resources to the candidate and ask them to read the resources in preparation of having a conversation about databases.
 
 * Interviewer will open the conversation with the candidate engaging in dialogue around the following areas:
 
@@ -737,43 +737,42 @@ Contributing Interview Exercises:
 
 If you’d like to contribute an interview exercise, please follow the template below, then either email it to jobs@cockroachlabs.com or submit a pull request on the repo.
 
-**Interview Exercise Template: **
+**Interview Exercise Template:** 
 
-**Job title: **Administrator / Office Manager
+**Job title:** Administrator / Office Manager
 
 **Title of the Exercise:  **Activity/Event Planning
 
-* **Overview: **Cockroach Labs would like to plan an end of summer activity/event, inviting all employees. 
+* **Overview:** Cockroach Labs would like to plan an end of summer activity/event, inviting all employees. 
 
-* **Set-up: **15 minute warm-up - present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion. 
+* **Set-up:** 15 minute warm-up - present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion. 
 
-* **Part 1: **Come up with 5 concepts for a summer activity/event (i.e. Roachella, Cockroach Cares)
+* **Part 1:** Come up with 5 concepts for a summer activity/event (i.e. Roachella, Cockroach Cares)
 
-* **Part 2: **Plan the event (see worksheet)
+* **Part 2:** Plan the event (see worksheet)
 
 * **Considerations:** Based on the culture at Cockroach Labs, please define what type of activity/event it should be (formal vs informal). 
 
-* **Follow-up Question: **After discussing plan with the candidate, ask them what they would then do if the location of the activity/event had a conflict a week out (if outdoor event, rain; if indoor, they double-booked the space).
+* **Follow-up Question:** After discussing plan with the candidate, ask them what they would then do if the location of the activity/event had a conflict a week out (if outdoor event, rain; if indoor, they double-booked the space).
 
 * **Prompts (if any)**
 
-* **[Not included] Curveball Question: **The curveball portion should be an extension of the interview that shows how the candidate thinks on their feet. This portion is not shared with candidates as we want to evaluate how they respond to a problem to find a solution.
+* **[Not included] Curveball Question:** The curveball portion should be an extension of the interview that shows how the candidate thinks on their feet. This portion is not shared with candidates as we want to evaluate how they respond to a problem to find a solution.
 
-**Job title: **
+**Job title:** 
 
-**Title of the Exercise: **
+**Title of the Exercise:** 
 
-* **Overview: **
+* **Overview:** 
 
-* **Set-up: **
+* **Set-up:** 
 
-* **Part 1: **
+* **Part 1:** 
 
-* **Part 2: **
+* **Part 2:** 
 
 * **Considerations:** 
 
-* **Follow-up Question: **
+* **Follow-up Question:** 
 
 * **Prompts (if any)**
-
