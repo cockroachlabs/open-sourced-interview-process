@@ -8,21 +8,21 @@
 
 **Candidate Setup:**
 
-    * Interviewer will set the candidate up with the verticals that they would like the candidate to go after with the expectation that they will find three companies that fit the ICP. 
+- Interviewer will set the candidate up with the verticals that they would like the candidate to go after with the expectation that they will find three companies that fit the ICP. 
 
-    * Interviewer will answer any questions they have and give them guidance before having them independently do this research.
+- Interviewer will answer any questions they have and give them guidance before having them independently do this research.
 
-    * Interviewer will give the candidate 15 minutes to identify 3 companies before coming back into the room to discuss.  
+- Interviewer will give the candidate 15 minutes to identify 3 companies before coming back into the room to discuss.  
 
 **Interviewer Question:**
 
-    * What online tools did you use to identify the companies?
+- What online tools did you use to identify the companies?
 
-    * Walk me through why you identified these three companies?
+- Walk me through why you identified these three companies?
 
-    * Follow-up Questions (if time is remaining):
+- Follow-up Questions (if time is remaining):
 
-    * Walk me through how you would identify the right person to approach within the company?
+- Walk me through how you would identify the right person to approach within the company?
 
 **Job title: Business Development Manager**
 
@@ -32,23 +32,23 @@
 
 **Candidate Setup:** Interviewer will ask the candidate to create an automated outbound email campaign for one of the companies they targeted in their first exercise. Interview will present the candidate with a printout of the HubSpot workflows page with all action options: ![image alt text](image_1.png)
 
-    * Have the candidate build a campaign cadence on paper using the action items listed on the workflows page.
+- Have the candidate build a campaign cadence on paper using the action items listed on the workflows page.
 
-    * The candidate should select three actions from the campaign for which to write out the text and/or select relevant content (blog posts, white papers, podcasts, press, etc.).
+- The candidate should select three actions from the campaign for which to write out the text and/or select relevant content (blog posts, white papers, podcasts, press, etc.).
 
-    * After the cadence is built, the candidate should provide options for personalizing each email to a particular recipient.
+- After the cadence is built, the candidate should provide options for personalizing each email to a particular recipient.
 
 **Candidate is asked to create:**
 
-    * A 5-action campaign cadence (including at least 3 messages) on paper using the action items listed on the workflows page.
+- A 5-action campaign cadence (including at least 3 messages) on paper using the action items listed on the workflows page.
 
-    * Three messages directed at one target company including selecting relevant content that would be of interest the customer (for example: blog posts, events, white papers, news articles).
+- Three messages directed at one target company including selecting relevant content that would be of interest the customer (for example: blog posts, events, white papers, news articles).
 
-    * A timeline for the execution of the campaign.
+- A timeline for the execution of the campaign.
 
 **Interview Questions:**
 
-    * Walk me through the campaign process that you defined.
+- Walk me through the campaign process that you defined.
 
 **Job title: Business Development Manager**
 
