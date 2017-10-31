@@ -1,9 +1,13 @@
-# open-sourced-interview-process
-Open Sourced Interview Process
 
-[[TOC]]
+# Open Sourced Interview Process
 
-# README.md
+- [Getting Started](#getting-started)
+- [Interview Process and Timeline](#interview-process-and-timeline)
+- [For Candidates - Applying to Cockroach Labs](#for-candidates---applying-to-cockroach-labs)
+- [For Recruiters - Resources](#for-recruiters---resources)
+- [Challenging Our Unconcious Bias](#challenging-our-unconscious-bias)
+- [Exercise Based Interview Questions](#exercise-based-interview-questions)
+- [Contributing to the Interview Process Guide](#contributing-to-the-interview-process-guide)
 
 ## Welcome to the Cockroach Labs Interview Process
 
