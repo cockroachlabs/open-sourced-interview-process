@@ -77,9 +77,9 @@ The best way to apply for positions with Cockroach Labs is directly through our 
 
 To apply for a current vacancy:
 
-1. Go to our "[careers page](https://www.cockroachlabs.com/careers/)."
+1. Go to our [careers page](https://www.cockroachlabs.com/careers/).
 
-2. At the bottom of the page, view our "[open roles](https://www.cockroachlabs.com/careers/#jobs)." 
+2. At the bottom of the page, view our [open roles](https://www.cockroachlabs.com/careers/#jobs). 
 
 3. Click on the department you are interested in and review the open positions.
 
