@@ -35,9 +35,9 @@ The following content will provide both candidates and recruiters with valuable 
 
 **For recruiters**
 
-- Leverage the Cockroach Labs interview process and questions for your company’s hiring needs. If you would like access to the curve-ball questions, please reach out direct to [Contact], and we will be happy to share them with you.
+- Leverage the Cockroach Labs interview process and questions for your company’s hiring needs. If you would like access to the curve-ball questions, please reach out direct to jobs@cockroachlabs.com, and we will be happy to share them with you.
 
-- Contributions to the Cockroach Labs Interview Process are welcomed and encouraged! Please see Contributing to the Interview Process Guide [TBC]. If you have created exercises for a new department, please request that this department is added so you can create a branch/fork [Don’t know if this is necessary]. 
+- Contributions to the Cockroach Labs Interview Process are welcomed and encouraged! Please see Contributing to the Interview Process Guide below. If you have created exercises for a new department, please request that this department is added so you can create a branch/fork. 
 
 ## Interview Process and Timeline
 
@@ -55,9 +55,9 @@ A candidate should expect to wait 3-5 business days between each step of the pro
 
 4. **Phone Interview and/or Take-home Exercise**
 
-    1. **Phone interview:** The 1-hour phone interview with a member from the team covering skills related to the role. For technical phone interviews, we use Google Hangouts and [coderpad.io](http://coderpad.io/), covering coding, data structures, and algorithms (i.e., Big-O Notation).
+    - **Phone interview:** The 1-hour phone interview with a member from the team covering skills related to the role. For technical phone interviews, we use Google Hangouts and [coderpad.io](http://coderpad.io/), covering coding, data structures, and algorithms (i.e., Big-O Notation).
 
-    2. **Take-home Exercise:** Typically taking 1-2 hours to complete, the take-home exercise allows for the hiring manager to review a candidate’s output of skills directly related to the position before proceeding to the onsite interview. The take-home exercise replaces one phone interview and one onsite interview, equaling two hours of engagement.  
+    - **Take-home Exercise:** Typically taking 1-2 hours to complete, the take-home exercise allows for the hiring manager to review a candidate’s output of skills directly related to the position before proceeding to the onsite interview. The take-home exercise replaces one phone interview and one onsite interview, equaling two hours of engagement.  
 
 5. **In-person interviews:** Next steps in the process are an onsite interviews. The onsite interview team consists of members from the company that a candidate will work with. We limit the onsite interview to 4-5 exercise based interviews and 1 lunch. The interviews could include people on the direct team or cross teams. The lunch is time for a candidate to relax and ask questions to learn more about Cockroach Labs and get a feel for our culture. The recruiter will share an overview of who the candidate will be meeting before the onsite interview. 
 
@@ -77,11 +77,11 @@ The best way to apply for positions with Cockroach Labs is directly through our 
 
 To apply for a current vacancy:
 
-1. Go to our careers page.
+1. Go to our "[careers page](https://www.cockroachlabs.com/careers/)."
 
-2. At the bottom of the page, view our open roles. 
+2. At the bottom of the page, view our "[open roles](https://www.cockroachlabs.com/careers/#jobs)." 
 
-3. Click on the position and review the job description.
+3. Click on the department you are interested in and review the open positions.
 
 4. If the position is of interest, fill out personal information, provide a resume and cover letter (optional) and click the "Submit Application" button.
 
@@ -135,7 +135,7 @@ For more information about the different exercises we use in our interview proce
 
 ## Contributing to the Interview Process Guide
 
-If you’d like to contribute an interview exercise, please follow the template below, then either email it to jobs@cockroachlabs.com or submit a pull request on the repo. Please use the following template when submitting an exercise:
+If you’d like to contribute an interview exercise, please follow the template below, then either submit a pull request on the repo or email it to jobs@cockroachlabs.com to be added. 
 
 **Interview Exercise Template:** 
 
