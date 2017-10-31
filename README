@@ -11,11 +11,11 @@ You’ve heard it before folks. The interview process is broken. So what are com
 
 **Why are we open sourcing the interview process?**
 
-* **To encourage recruiting professionals, founders, and anyone else to think outside the box regarding their interview process.** What else can we be doing to provide candidates with a process that is fair and inclusive?
+- **To encourage recruiting professionals, founders, and anyone else to think outside the box regarding their interview process.** What else can we be doing to provide candidates with a process that is fair and inclusive?
 
-* **To help candidates to come prepared!** If candidates take the time to research the questions and comes onsite ready to have an engaged discussion, we will be thrilled.
+- **To help candidates to come prepared!** If candidates take the time to research the questions and comes onsite ready to have an engaged discussion, we will be thrilled.
 
-* **To collaborate.** The process is broken, let’s fix it *together. *Let’s all pledge to do better than we have before. We welcome feedback on our process and encourage candidates and recruiting professionals to contribute exercises as well.
+- **To collaborate.** The process is broken, let’s fix it *together. *Let’s all pledge to do better than we have before. We welcome feedback on our process and encourage candidates and recruiting professionals to contribute exercises as well.
 
 Learn more by reading our blog post, ‘[Exercise Based Interviewing at Cockroach Labs](https://www.cockroachlabs.com/blog/exercise-based-interviewing/).’
 
@@ -25,15 +25,15 @@ The following content will provide both candidates and recruiters with valuable 
 
 **For candidates**
 
-* You will leave with a thorough understanding of the interview process at Cockroach Labs, along with visibility into real questions from our onsite interviews. Our recruiters will be happy to confirm which of these questions will be presented during the onsite interview. 
+- You will leave with a thorough understanding of the interview process at Cockroach Labs, along with visibility into real questions from our onsite interviews. Our recruiters will be happy to confirm which of these questions will be presented during the onsite interview. 
 
-* Please note, around 10% of each interview is spent on a curve-ball that we do not include in the exercises below. While you can come prepared for a majority of the interview, we also like to see how candidates think on their toes.
+- Please note, around 10% of each interview is spent on a curve-ball that we do not include in the exercises below. While you can come prepared for a majority of the interview, we also like to see how candidates think on their toes.
 
 **For recruiters**
 
-* Leverage the Cockroach Labs interview process and questions for your company’s hiring needs. If you would like access to the curve-ball questions, please reach out direct to [Contact], and we will be happy to share them with you.
+- Leverage the Cockroach Labs interview process and questions for your company’s hiring needs. If you would like access to the curve-ball questions, please reach out direct to [Contact], and we will be happy to share them with you.
 
-* Contributions to the Cockroach Labs Interview Process are welcomed and encouraged! Please see Contributing to the Interview Process Guide [TBC]. If you have created exercises for a new department, please request that this department is added so you can create a branch/fork [Don’t know if this is necessary]. 
+- Contributions to the Cockroach Labs Interview Process are welcomed and encouraged! Please see Contributing to the Interview Process Guide [TBC]. If you have created exercises for a new department, please request that this department is added so you can create a branch/fork [Don’t know if this is necessary]. 
 
 ## Interview Process and Timeline
 
@@ -85,13 +85,13 @@ To apply for a current vacancy:
 
 These files provide a deep-dive into the various stages of the interview process. It is important that recruiters tailor each stage to the position they are hiring for. Stages included: 
 
-* [Recruiter Phone Screen](RecruiterPhoneScreen.md)
+- [Recruiter Phone Screen](RecruiterPhoneScreen.md)
 
-* [Structuring the Interview](StructuringtheInterview.md)
+- [Structuring the Interview](StructuringtheInterview.md)
 
-* [Interview Feedback and Scoring](InterviewFeedbackandScoring.md)
+- [Interview Feedback and Scoring](InterviewFeedbackandScoring.md)
 
-* [Rejecting Applicants](RejectingApplicants.md)
+- [Rejecting Applicants](RejectingApplicants.md)
 
 ## Challenging our Unconscious Bias
 
@@ -117,17 +117,17 @@ For engineering positions, we use coding and system design questions. For non-te
 
 For more information about the different exercises we use in our interview process, please review the different department areas. 
 
-* [Administrative Exercises](AdministrativeExercises.md)
+- [Administrative Exercises](AdministrativeExercises.md)
 
-* [Documentation Exercises](DocumentationExercises.md)
+- [Documentation Exercises](DocumentationExercises.md)
 
-* [Marketing Exercises](MarketingExercises.md)
+- [Marketing Exercises](MarketingExercises.md)
 
-* [Product Exercises](ProductExercises.md)
+- [Product Exercises](ProductExercises.md)
 
-* [Product Design Exercises](ProductDesignExercises.md)
+- [Product Design Exercises](ProductDesignExercises.md)
 
-* [Recruiting Exercises](RecruitingExercises.md)
+- [Recruiting Exercises](RecruitingExercises.md)
 
 ## Contributing to the Interview Process Guide
 
@@ -139,18 +139,18 @@ If you’d like to contribute an interview exercise, please follow the template 
 
 **Title of the Exercise:** 
 
-* **Overview:** 
+- **Overview:** 
 
-* **Set-up:** 
+- **Set-up:** 
 
-* **Part 1:** 
+- **Part 1:** 
 
-* **Part 2:** 
+- **Part 2:** 
 
-* **Considerations:** 
+- **Considerations:** 
 
-* **Follow-up Question:** 
+- **Follow-up Question:** 
 
-* **Prompts (if any)**
+- **Prompts (if any)**
 
-* **[Not included] Curveball Question:** The curveball portion should be an extension of the interview that shows how the candidate thinks on their feet. This portion is not shared with candidates as we want to evaluate how they respond to a problem to find a solution.
+- **[Not included] Curveball Question:** The curveball portion should be an extension of the interview that shows how the candidate thinks on their feet. This portion is not shared with candidates as we want to evaluate how they respond to a problem to find a solution.
