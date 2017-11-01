@@ -1,8 +1,6 @@
-### Administrative Exercises
+The following are exercises for administrative positions.
 
-## **Job title: Executive Assistant**
-
-- **Title of the Exercise: Activity/Event Planning**
+## **Title of the Exercise: Activity/Event Planning**
 
 - **Set-up:** 15 minute warm-up - present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion. 
 
@@ -16,9 +14,7 @@
 
 - **Follow-up Question:** After discussing plan with the candidate, ask them what they would then do if the location of the activity/event had a conflict a week out (if outdoor event, rain; if indoor, they double-booked the space).
 
-## **Job title: Executive Assistant**
-
-**Title of the Exercise: Client Meetings**
+## **Title of the Exercise: Client Meetings**
 
 - **Set-up:** 15 minute warm- up and present problem, 15 minute work time, 15 minute discussion. 
 
@@ -42,9 +38,7 @@
 
 - **Follow-up Questions:** Peter just received a text that he needs to be home on the 3:30pm train. How would you address this?
 
-## **Job title: Executive Assistant**
-
-**Title of the Exercise: External Communication and Diplomacy**
+## **Title of the Exercise: External Communication and Diplomacy**
 
 - **Set-up:** 15 minute warm-up and present problem, 15 minute work time, 15 minute discussion. 
 
@@ -66,9 +60,7 @@
 
 - **Follow-up Questions:** The EA at XCoast, Charlie Brown has determined that since it is your first day, they don’t want to deal directly with you, rather the founders. What would be your next steps?
 
-## **Job title: Executive Assistant**
-
-**Title of the Exercise:** **Internal Communication & Strategy**
+## **Title of the Exercise:** **Internal Communication & Strategy**
 
 - **Overview:** Come up with a plan to provide snacks to our employees on a weekly basis.  
 
