@@ -7,7 +7,7 @@ The following are exercises for product positions.
 - **Follow-up Questions:** What’s your favorite B2B product and why?
 
 
-## **Title: Product Roadmap/Positioning - Work Exp - Tec**
+## **Title: Product Roadmap/Positioning - Work Exp - Tech**
 
 - **Overview:** In this interview, you are assessing if the candidate has the ability to work well with a Cockroach Labs engineering team to define, communicate, and deliver on a feature roadmap. At this level, candidates may focus on the smaller picture, so the emphasis is placed on the ability to execute against a roadmap, influence and collaborate with internal/external technical stakeholders, and make principled tradeoffs in order to deal with technical or market realities.
 
