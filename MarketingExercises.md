@@ -1,6 +1,6 @@
 The following are exercises for marketing positions.
 
-## **Title of the Exercise: Community Design**
+## **Title: Community Design**
 
 - **Overview:** Evaluate candidate’s problem-solving, analytical thinking, and ability to collaborate within in a team.
 
@@ -25,7 +25,7 @@ The following are exercises for marketing positions.
     - Landing page
 
 
-## **Title of the Exercise: Improve the Company Website**
+## **Title: Improve the Company Website**
 
 - **Set-up:** Interview laptop with cockroachlabs.com opened. Recruiter will connect to screen so interviewer can see candidate navigate the website.
 
@@ -46,7 +46,7 @@ The following are exercises for marketing positions.
 - **Part 2:** Based on the discussion, the candidate will have 40 minutes to come up with an outline of suggested actions to improve the website.  You should also give an overview of resources, tools, and timeline.
 
 
-## **Title of the Exercise: User Engagement and Lead Generation**
+## **Title: User Engagement and Lead Generation**
 
 - **Part 1:** Lead Generation on the Site and Engagement. Review our current user engagement on our website.
 
@@ -61,7 +61,7 @@ The following are exercises for marketing positions.
     - What are some of the key metrics that you would look at quarterly based off of these analytics?
 
 
-## **Title of the Exercise: Promotion Strategy**
+## **Title: Promotion Strategy**
 
 - **Overview:** Create a publishing strategy and supporting content for one blog post. For this exercise, you will be creating a publishing and promotion strategy for a blog post: [Building an Application with CockroachDB and SQLAlchemy ](https://www.cockroachlabs.com/blog/building-application-cockroachdb-sqlalchemy-2/).
 
