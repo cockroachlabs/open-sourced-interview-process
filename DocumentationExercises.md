@@ -1,6 +1,6 @@
 The following are exercises for technical writer positions.
 
-## **Title of the Exercise:** **Technical Writer Information Design**
+## **Title:** **Technical Writer Information Design**
 
 - **Part 1:** Candidate explains topic to interviewer. Interviewer asks candidate to explain/teach something they know a lot about. This can be anything from how a database works to how dogs are trained to the work of a specific author. Interviewer tells candidate to figure out how much they know about the topic and to explain/teach with that in mind. Interviewer asks for clarifications, context, deeper explanations, as necessary.
 
@@ -11,7 +11,7 @@ The following are exercises for technical writer positions.
     - Final documentation of the topic to be written in Google Doc.
 
 
-## **Title of the Exercise:** **Technical Writer Technical Competency and Documentation 1**
+## **Title:** **Technical Writer Technical Competency and Documentation 1**
 
 - **Set-up:** [Distributed Transaction Model](https://docs.google.com/a/cockroachlabs.com/presentation/d/1oTRuDl5VoeZBdAeHGf-gAovrMuG49VfRGmqaLbz_V6Q/edit?usp=sharing) presentation will be shared on the Google doc. Please review the presentation during the interview. 
 
@@ -29,7 +29,7 @@ The following are exercises for technical writer positions.
     - At the end, Interviewer asks the candidate to spend next 40 minutes documenting the concept (in Google Doc).
 
 
-## **Title of the Exercise: Technical Writer Technical Competency and Documentation 2**
+## **Title: Technical Writer Technical Competency and Documentation 2**
 
 - **Overview:** Interviewer explains online schema changes in CockroachDB. Candidate learns, explains back, and then documents.
 
@@ -44,7 +44,7 @@ The following are exercises for technical writer positions.
     - How does CockroachDB change schemas? (This one seems nebulous and doesn’t prod the writer to frame the answer in an interesting way)
 
 
-## **Title of the Exercise:** **Technical Writer Blog Editing**
+## **Title:** **Technical Writer Blog Editing**
 
 - **Overview:** Edit a technical blog post & create a publishing strategy
 
