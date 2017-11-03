@@ -27,17 +27,17 @@ The following are exercises for product positions.
 
 ## **Title:** **Understanding your Customers**
 
-1 **Overview:** In this interview, you are focusing on the candidate’s ability to understand customers in an enterprise environment where we may not have a lot of data. Product Managers have to know (and have to have frequent contact and communication with) their customers and users. Successful PMs should incorporate real world customer needs and feedback into product development.  
+- **Overview:** In this interview, you are focusing on the candidate’s ability to understand customers in an enterprise environment where we may not have a lot of data. Product Managers have to know (and have to have frequent contact and communication with) their customers and users. Successful PMs should incorporate real world customer needs and feedback into product development.  
 
-2 **Part 1: Work Experience:** What are some of the ways you’ve gotten to know your customers in the past?
+- **Part 1: Work Experience:** What are some of the ways you’ve gotten to know your customers in the past?
 
-3 **Part 2: Cockroach Labs**
+- **Part 2: Cockroach Labs**
 
-4 **Follow-up Questions:** 
+- **Follow-up Questions:** 
 
-- Who do you think our users are? Can you describe a few segments? (could be operator vs dev vs DBA or startup, midmarket, enterprise, for example)
+    - Who do you think our users are? Can you describe a few segments? (could be operator vs dev vs DBA or startup, midmarket, enterprise, for example)
 
-- How do you think the differences in those segments impacts their needs from the product? How would you validate this?
+    - How do you think the differences in those segments impacts their needs from the product? How would you validate this?
 
-- How would you approach learning about enterprise users vs core users?
+    - How would you approach learning about enterprise users vs core users?
 
