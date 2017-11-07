@@ -32,6 +32,8 @@
 
 **Candidate Setup:** Interviewer will ask the candidate to create an automated outbound email campaign for one of the companies they targeted in their first exercise. Interview will present the candidate with a printout of the HubSpot workflows page with all action options: ![image alt text](image_1.png)
 
+![](images/CampaignProcessCustomerOutreach.png)
+
 - Have the candidate build a campaign cadence on paper using the action items listed on the workflows page.
 
 - The candidate should select three actions from the campaign for which to write out the text and/or select relevant content (blog posts, white papers, podcasts, press, etc.).
