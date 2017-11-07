@@ -24,6 +24,8 @@ The following are exercises for product positions.
 
 - **Part 2:** [Provide charts](https://docs.google.com/a/cockroachlabs.com/spreadsheets/d/1U49nuhoz4wL3mThxLrIEiXcchObMK-VI3QZX6vbgZ-s/edit?zx=we6r4gilfygy&usp=docs_web). What are the takeaways? Here’s a chart that shows groups of clusters that joined in a given month and what % of those groups were still around 1, 2, 3 etc months later.  What are some of the things that look like their going well? What are some areas you would be concerned about? 
 
+![](images/AnalyticalCase.png)
+
 
 ## **Title:** **Understanding your Customers**
 
