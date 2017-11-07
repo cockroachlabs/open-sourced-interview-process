@@ -1,6 +1,6 @@
 The following are exercises for administrative positions.
 
-## **Title of the Exercise: Activity/Event Planning**
+## **Title: Activity/Event Planning**
 
 - **Set-up:** 15 minute warm-up - present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion. 
 
@@ -12,9 +12,8 @@ The following are exercises for administrative positions.
 
 - **Considerations:** Based on the culture at Cockroach Labs, please define what type of activity/event it should be (formal vs informal). 
 
-- **Follow-up Question:** After discussing plan with the candidate, ask them what they would then do if the location of the activity/event had a conflict a week out (if outdoor event, rain; if indoor, they double-booked the space).
 
-## **Title of the Exercise: Client Meetings**
+## **Title: Client Meetings**
 
 - **Set-up:** 15 minute warm- up and present problem, 15 minute work time, 15 minute discussion. 
 
@@ -36,9 +35,8 @@ The following are exercises for administrative positions.
 
     - Peter’s LinkedIn: [https://www.linkedin.com/in/peter-mattis-46549144](https://www.linkedin.com/in/peter-mattis-46549144)
 
-- **Follow-up Questions:** Peter just received a text that he needs to be home on the 3:30pm train. How would you address this?
 
-## **Title of the Exercise: External Communication and Diplomacy**
+## **Title: External Communication and Diplomacy**
 
 - **Set-up:** 15 minute warm-up and present problem, 15 minute work time, 15 minute discussion. 
 
@@ -58,9 +56,8 @@ The following are exercises for administrative positions.
 
 - **Part 3:** Use best judgement to bucket items as confidential or public. Some of these are easier to determine than others. Discuss.
 
-- **Follow-up Questions:** The EA at XCoast, Charlie Brown has determined that since it is your first day, they don’t want to deal directly with you, rather the founders. What would be your next steps?
 
-## **Title of the Exercise:** **Internal Communication & Strategy**
+## **Title:** **Internal Communication & Strategy**
 
 - **Overview:** Come up with a plan to provide snacks to our employees on a weekly basis.  
 
@@ -77,6 +74,4 @@ The following are exercises for administrative positions.
 - **Part 2:** Put together a plan to order snacks weekly to ensure we provide our employees with snacks throughout the day!
 
 - **Food Philosophy:** Food at Cockroach Labs also provides means for you to fuel your brain for whatever challenges you are tackling. Beyond meals, we strive to provide our employees with healthy snacks (avoiding heavily processed foods) that help keep you going throughout the day. In determining what snacks we provide, we take into consideration food that supports our philosophy and are appealing to a majority of employees while keeping in line with the budget allocated per employee. 
-
-- **Follow-up Questions:** Employee sends you the following email. How do you deal with this?
 
