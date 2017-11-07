@@ -41,9 +41,9 @@ The following content will provide both candidates and recruiters with valuable 
 
 ## Interview Process and Timeline
 
-Overview:
+#### Overview
 
-image removed by export
+![](images/HiringProcess.png)
 
 A candidate should expect to wait 3-5 business days between each step of the process. At any point throughout the process, the candidate can reach out to the recruiter with any questions or an update on their candidacy. 
 
