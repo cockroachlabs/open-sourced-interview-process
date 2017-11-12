@@ -11,7 +11,7 @@
 
 ## Welcome to the Cockroach Labs Interview Process
 
-You’ve heard it before folks. The interview process is broken. So what are companies doing to fix it? At Cockroach Labs, we are exploring new ways to structure our interview process. Instead of focusing on behavioral questions based on past performance or situational questions based on hypothetical future situations, we focus on exercise based interviews with an emphasis on applied skills required for the role. 
+Our mission to build an inclusive culture at Cockroach Labs includes removing bias from our hiring process. We are exploring new ways to structure our interview process. Instead of focusing on behavioral questions based on past performance or situational questions based on hypothetical future situations, we focus on exercise based interviews with an emphasis on applied skills required for the role. 
 
 **Why are we open sourcing the interview process?**
 
@@ -19,7 +19,7 @@ You’ve heard it before folks. The interview process is broken. So what are com
 
 - **To help candidates to come prepared!** If candidates take the time to research the questions and comes onsite ready to have an engaged discussion, we will be thrilled.
 
-- **To collaborate.** The process is broken, let’s fix it *together. *Let’s all pledge to do better than we have before. We welcome feedback on our process and encourage candidates and recruiting professionals to contribute exercises as well.
+- **To collaborate.** Let’s challenge our bias *together.* Let’s all pledge to do better than we have before. We welcome feedback on our process and encourage candidates and recruiting professionals to contribute exercises as well.
 
 Learn more by reading our blog post, ‘[Exercise Based Interviewing at Cockroach Labs](https://www.cockroachlabs.com/blog/exercise-based-interviewing/).’
 
