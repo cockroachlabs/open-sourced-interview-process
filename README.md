@@ -31,7 +31,7 @@ The following content will provide both candidates and recruiters with valuable 
 
 - You will leave with a thorough understanding of the interview process at Cockroach Labs, along with visibility into real questions from our onsite interviews. Our recruiters will be happy to confirm which of these questions will be presented during the onsite interview. 
 
-- Please note, around 10% of each interview is spent on a curve-ball that we do not include in the exercises below. While you can come prepared for a majority of the interview, we also like to see how candidates think on their toes.
+- Please note, around 10% of each interview is spent on a curve-ball that we do not include in the exercises below. While you can come prepared for a majority of the interview, we also like to see how candidates think on their feet.
 
 **For recruiters**
 
@@ -47,7 +47,7 @@ The following content will provide both candidates and recruiters with valuable 
 
 A candidate should expect to wait 3-5 business days between each step of the process. At any point throughout the process, the candidate can reach out to the recruiter with any questions or an update on their candidacy. 
 
-1. **Candidate Application:** Applicants automatically receive confirmation of their application, thanking them for submitting their information. This is an automated message from the Applicant Tracking System (in this case, Greenhouse).
+1. **Candidate Application:** Applicants automatically receive confirmation of their application, thanking them for submitting their information. This is an automated message from the Applicant Tracking System (in this case, [Greenhouse](https://www.greenhouse.io)).
 
 2. **Candidate Application Review:** The recruiter for the position will do the first round of evaluations. If more information is required, a member of the team will reach out to the applicant directly to request it. Disqualified candidates will be sent an email informing them of the rejection. 
 
@@ -55,19 +55,19 @@ A candidate should expect to wait 3-5 business days between each step of the pro
 
 4. **Phone Interview and/or Take-home Exercise**
 
-    - **Phone interview:** The 1-hour phone interview with a member from the team covering skills related to the role. For technical phone interviews, we use Google Hangouts and [coderpad.io](http://coderpad.io/), covering coding, data structures, and algorithms (i.e., Big-O Notation).
+    - **Phone interview:** The 1-hour phone interview with a member from the team covering skills related to the role. For technical phone interviews, we use Google Hangouts and [coderpad.io](http://coderpad.io/), covering coding, data structures, and algorithms.
 
-    - **Take-home Exercise:** Typically taking 1-2 hours to complete, the take-home exercise allows for the hiring manager to review a candidate’s output of skills directly related to the position before proceeding to the onsite interview. The take-home exercise replaces one phone interview and one onsite interview, equaling two hours of engagement.  
+    - **Take-home Exercise:** Typically taking 1-2 hours to complete, the take-home exercise allows for the hiring manager to review a candidate’s demonstration of skills directly related to the position before proceeding to the onsite interview. The take-home exercise replaces one phone interview and one onsite interview, equaling two hours of engagement.  
 
 5. **In-person interviews:** Next steps in the process are an onsite interviews. The onsite interview team consists of members from the company that a candidate will work with. We limit the onsite interview to 4-5 exercise based interviews and 1 lunch. The interviews could include people on the direct team or cross teams. The lunch is time for a candidate to relax and ask questions to learn more about Cockroach Labs and get a feel for our culture. The recruiter will share an overview of who the candidate will be meeting before the onsite interview. 
 
-6. **Hiring Committee Review:** After the onsite interview is complete, feedback from the interview process is shared across the interview team, including the candidate’s resume and recruiter’s prescreen notes. Interview team members review the feedback and independently reach a decision of hire/no-hire based on the comprehensive feedback before the HC Review. At the HC review, the interview team reaches a consensus of if they would like to proceed with or reject the candidate.  
+6. **Hiring Committee Review:** After the onsite interview is complete, feedback from the interview process is shared across the interview team, including the candidate’s resume and recruiter’s prescreen notes. Interview team members review the feedback and independently reach a decision of hire/no-hire based on the comprehensive feedback before the HC Review. At the HC review, the interview team reaches a consensus on whether to proceed with or reject the candidate.  
 
 7. **Reference calls:** The staffing team will make reference calls for promising candidates. At a minimum, two reference calls should be completed - preferring at least one to be a manager or someone who has worked directly with the candidate and can speak to their work. 
 
 8. **Final Review:** After reference calls are completed successfully, the recruiter submits the employee packet to the CEO and Hiring Manager for approval.
 
-9. **Offer Extend:** The recruiter will reach out to schedule time to connect with the candidate to extend the candidate the offer. Initially, this is done verbally but is always followed by the written offer as described in the section on preparing offers. The Hiring Manager and interview team follows-up to answer any questions that the candidate may have, which will hopefully, lead to the candidate accepting the offer. 
+9. **Offer Extend:** The recruiter will reach out to schedule time to connect with the candidate to extend the candidate the offer. Initially, this is done verbally but is always followed by the written offer as described in the section on preparing offers. The Hiring Manager and interview team follows-up to answer any questions that the candidate may have, which will hopefully lead to the candidate accepting the offer. 
 
 10. **Offer Accept/Onboarding:** If the candidate accepts the offer, the onboarding process begins. 
 
@@ -99,7 +99,7 @@ These files provide a deep-dive into the various stages of the interview process
 
 ## Challenging our Unconscious Bias
 
-In the effort of building a diverse workforce, at Cockroach Labs, we ask the question "are we missing strong candidates because of preconceptions or the unconscious biases of the interviewer?" To challenge our bias, we have taken two actions:
+In the effort of building a diverse workforce, at Cockroach Labs, we ask the question "are we missing strong candidates because of preconceptions or unconscious biases of the interviewer?" To challenge our bias, we have taken two actions:
 
 1. Exercise based interviewing
 
@@ -109,9 +109,9 @@ Our hypothesis is that a structured and fair process means better decisions. Eli
 
 ## Exercise Based Interview Questions
 
-The purpose of an interview is to obtain information about a candidate required to predict future performance. To accomplish this purpose, we rely on Exercise-Based Interviewing. Exercise based interviews can include case studies, group exercises involving role play or discussions, individual exercises, or presentations. They allow for our interviewers to witness the direct application of a candidate’s abilities to competencies required for the role. Rather than guess if a candidate can do the job based on their answers to behavioral questions, we ask for candidates to show. During the interview, candidates are asked to complete exercises that are similar to the initiatives they would complete when actually working in the position on a day to day basis.
+The purpose of an interview is to obtain information about a candidate in order to predict future performance. To accomplish this, we rely on Exercise-Based Interviewing. Exercise based interviews can include case studies, group exercises involving role play or discussions, individual exercises, or presentations. They allow for our interviewers to witness the direct application of a candidate’s abilities to competencies required for the role. Rather than guess if a candidate can do the job based on their answers to behavioral questions, we ask for candidates to show. During the interview, candidates are asked to complete exercises that are similar to the initiatives they would complete when actually working in the position on a day to day basis.
 
-For engineering positions, we use coding and system design questions. For non-tech, we use job-based simulations through the form of case studies, individual exercises, and/or presentations. We are not currently open sourcing our technical interview questions, however, the following are some examples of what to expect when going through the interview process with Cockroach Labs:
+For engineering positions, we use coding and system design questions. For non-tech, we use job-based simulations in the form of case studies, individual exercises, and/or presentations. We are not currently open sourcing our technical interview questions, however, the following are some examples of what to expect when going through the interview process with Cockroach Labs:
 
 1. Median Data Structure: Develop a data structure that is better than this "brute force" median computation. The data structure needs to support insert, delete and retrieval of the median.
 
