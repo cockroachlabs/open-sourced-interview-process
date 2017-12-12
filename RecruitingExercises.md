@@ -53,9 +53,9 @@ The following are exercises for recruiting positions.
 
 - **Overview:** Cockroach Labs would like to plan an info session at the University of Waterloo. 
 
-- **Part 1:** Decide the date and name of the info session (see [worksheet](https://docs.google.com/a/cockroachlabs.com/document/d/1zVLHHpSqKZKcZTa315-J-_uavJUpjblpVugxPQtH5pc/edit?usp=sharing))
+- **Part 1:** Decide the date and name of the info session.
 
-- **Part 2:** Plan the event (see [worksheet](https://docs.google.com/a/cockroachlabs.com/document/d/1zVLHHpSqKZKcZTa315-J-_uavJUpjblpVugxPQtH5pc/edit?usp=sharing))
+- **Part 2:** Plan the event.
 
 - **Follow-up Questions:**
 
