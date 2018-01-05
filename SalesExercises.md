@@ -99,3 +99,65 @@ For example: Insert Bank Card into the ATM.  Is there a database interaction and
 For example: Should ATM deposit show up when using smartphone to view account activity and why or why not?
 
 - Describe another industry and/or process aside from banking where these activities and properties are important?
+
+
+**Job title: Sale Engineer**
+
+**Title of the Exercise:** **Sales Process**
+
+**Overview:** Sales Engineers work closely with sellers and should have an in-depth understanding of the sales process and what is required. Specifically around lead generation, project management, competitive situations, and individual expectations. 
+
+**Set-up:** Interviewer will dive into the following areas:
+
+- Lead Generation
+
+- Project Management
+
+- Competitive Situations
+
+- Individual Expectations
+
+**Note:** Candidate should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
+
+
+**Job title: Sale Engineer**
+
+**Title of the Exercise:** **Past Experiences with Databases**
+
+**Overview:** Engineering Interview Sequence interview. This conversation is a deep-dive discussion on a candidate’s technical background, specifically, their technical expertise of databases. The candidate is lead through a discussion so the interview can learn from the candidate about things they didn’t know.  For example, a candidate should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from the candidate what the technical reasons for the trade-offs are.
+
+**Set-up:** The interviewer asks the candidate to pick one of the four technical areas: 
+
+- What is feedback on install 
+
+- What is feedback on monitoring
+
+- What is feedback on elastic scale out / scale in
+
+- [optional ] What is feedback on performance 
+
+
+**Job title: Sale Engineer**
+
+**Title of the Exercise:** **Project Management and Product Knowledge**
+
+**Overview:**  Candidate will walk the interviewer through the take-home exercise and discuss the 4 objectives. 
+
+The objectives of the exercise are:
+
+1. Describe pros/cons of CockroachDB install and monitoring and experience
+ 
+2. Describe throughput characteristics during the insert workload
+
+3. Describe pros/cons of elasticity and availability
+
+4. SE’s view on architectural constraints of CockroachDB design that resulted in observed pros/cons
+
+
+**Job title: Sale Engineer**
+
+**Title of the Exercise:** **Documentation**
+
+**Overview:** Candidate will have to read a lot of documentation. They will have feedback on the docs on how they like Cockroach vs other documentation. In this interview, the candidate will be led through a discussion on the organizational structure of the documentation. 
+
+**Part 1:** Discussion on the organizational structure of the documentation. 
