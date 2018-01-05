@@ -2,7 +2,7 @@
 
 **Job title: Business Development Manager**
 
-**Title of the Exercise:** **Research/Targeting Customers - Identifying Companie**
+**Title of the Exercise:** **Research/Targeting Customers - Identifying Companies**
 
 **Overview:** Candidate will find three companies that fit the ideal candidate profile that they put together during their take-home exercise. 
 
