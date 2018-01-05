@@ -20,9 +20,6 @@
 
 - Walk me through why you identified these three companies?
 
-- Follow-up Questions (if time is remaining):
-
-- Walk me through how you would identify the right person to approach within the company?
 
 **Job title: Business Development Manager**
 
@@ -52,6 +49,7 @@
 
 - Walk me through the campaign process that you defined.
 
+
 **Job title: Business Development Manager**
 
 **Title of the Exercise:** **Project Management - Campaign Planning**
@@ -67,8 +65,6 @@
 - **Interview Questions:**
     -  Walk me through the day you have planned and what campaigns you will focus on.
 
-- **Follow-up Question:**
-    - Pick one of the campaigns and personalize the campaign.
 
 **Job title: Business Development Manager**
 
