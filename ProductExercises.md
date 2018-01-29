@@ -42,4 +42,20 @@ The following are exercises for product positions.
     - How do you think the differences in those segments impacts their needs from the product? How would you validate this?
 
     - How would you approach learning about enterprise users vs core users?
+   
+## **Title:** **Whiteboarding Customer Experience**
 
+- **Overview:** In this interview, you are focusing on the candidate’s ability to understand customer pain points in an enterprise environment and collaborate with design + engineering to create solutions they love. Product Managers have to know (and have frequent contact and communication with) their customers and users. Successful PMs should incorporate real world customer needs and feedback into product development and go beyond the UI when thinking about user experience.
+
+- **Exercise:** We have a new product design prototyping tool that designers use to share mocks with other stakeholders. We need a way to onboard new users. The goal is to provide user stories or user flows that outline this process. 
+
+- **Interview Flow** 
+    1. Context/Discovery - there is a SaaS product for collaborating with design - 5 minutes
+    
+    2. Framing: Goals/Audience - what are you optimizing for and for whom? - 5 minutes
+    
+    3. Tactical execution - what is the actual flow or user stories - 30 minutes
+
+    4. Edge cases - 10 mins
+
+    5. Validation - How can you validate that your solution meets the goals we mentioned earlier? - 10 mins
