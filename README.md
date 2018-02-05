@@ -133,6 +133,8 @@ For more information about the different exercises we use in our interview proce
 
 - [Recruiting Exercises](RecruitingExercises.md)
 
+- [Sales Exercises](SalesExercises.md)
+
 ## Contributing to the Interview Process Guide
 
 If you’d like to contribute an interview exercise, please follow the template below, then either submit a pull request on the correct file for the departments listed or email it to jobs@cockroachlabs.com to be added to the file. Please note, if they department file does not exists, email jobs@cockroachlabs.com so we can create it for you. 
