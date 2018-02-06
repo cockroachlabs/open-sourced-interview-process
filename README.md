@@ -14,7 +14,7 @@ You’ve heard it before folks. The interview process is broken. So what are we 
 
 **Why are we open sourcing the interview process?**
 
-- **To help canddiates feel prepared:** If you spend the time to research Cockroach Labs and our interview process, we will be thrilled.  We think that if candidates spend the time to prepare for engaging discussions with the team, they will be ready to do the same when they join the team! 
+- **To help candidates feel prepared:** If you spend the time to research Cockroach Labs and our interview process, we will be thrilled.  We think that if candidates spend the time to prepare for engaging discussions with the team, they will be ready to do the same when they join the team! 
 
 - **To usher in a new standard of interviewing and transparency:** We want to encourage founders, recruiters, and everyone involved in the hiring process to think outside the box regarding the interview process.  We want candidates to get a realistic preview of what’s to come in their role at Cockroach Labs by setting up relevant simulations and scenarios. We are always asking ourselves, “what else can we be doing to provide candidates with a process that is fair and inclusive?”
 
@@ -27,17 +27,17 @@ Learn more by reading our blog post, ‘[Exercise Based Interviewing at Cockroac
 
 The following content will provide both candidates and recruiters with valuable information. 
 
-**For candidates**
+**For candidates:**
 
 - You will leave with a thorough understanding of the interview process at Cockroach Labs, along with visibility into real questions from our onsite interviews. Our recruiters will be happy to confirm which of these questions will be presented during the onsite interview. 
 
-- Please note, around 10% of each interview is spent on a curve-ball that we do not include in the exercises below. While you can come prepared for a majority of the interview, we also like to see how candidates think on their feet.
+- Please note, around 10% of each interview is spent on a curve-ball question that we do not include in the exercises below. While you can come prepared for a majority of the interview, we also like to see how you think on your feet.
 
-**For recruiters**
+**For recruiters:**
 
-- Leverage the Cockroach Labs interview process and questions for your company’s hiring needs. If you would like access to the curve-ball questions, please reach out direct to jobs@cockroachlabs.com, and we will be happy to share them with you.
+- Leverage the Cockroach Labs interview process and questions for your company’s hiring process. If you would like access to the curveball questions, please reach out direct to recruiting@cockroachlabs.com, and we will be happy to share them with you.
 
-- Contributions to the Cockroach Labs Interview Process are welcomed and encouraged! Please see Contributing to the Interview Process Guide below. If you have created exercises for a new department, please request that this department is added so you can create a branch/fork. 
+- Contributions to the Cockroach Labs Interview Process are welcomed and encouraged! Please see Contributing to the Interview Process Guide below. 
 
 ## Interview Process and Timeline
 
