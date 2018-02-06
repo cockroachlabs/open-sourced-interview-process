@@ -45,31 +45,31 @@ The following content will provide both candidates and recruiters with valuable 
 
 ![](images/HiringProcess.png)
 
-We aim to have our interview process take an average of 3 weeks from start to finish.  Between each step of the interview process, we ask for at most 3 business days for us to to make a decision. While we would love to know whether you'd like to accept an offer from us in 3 days as well, we are happy to extend offer deadlines up to one month, so that you can make the best decision for you and your family.
+We aim to have our interview process take an average of 3 weeks from start to finish.  Between each step of the interview process, we ask for at most 3 business days for us to to make a decision, but at any point during the interview process, please feel comfortable reaching out to us for updates on your candidacy. 
 
-Remember that at any point during the interview process, you can reach out to us for updates on your candidacy.
+Throughout our interview process, it is important to remember that after the Recruiter Phone Screen, the candidate's resume and the recruiter's notes will not be shared with the hiring team. This is one of the ways that we focus on the skills candidates show during the exercises, rather than their past experience. Learn more about this here: "[How We're Fighting Unconscious Bias](https://www.cockroachlabs.com/blog/fighting-unconscious-bias-cockroach-labs/)."
 
 1. **Candidate Application:** Applicants receive an automated message from the Applicant Tracking System (in this case, [Greenhouse](https://www.greenhouse.io)) to confirm receipt of their application. The note thanks them for submitting their information and contains a Cockroach Labs Company Guide that gives applicants an inside look into the company culture.
 
 2. **Candidate Application Review:** The recruiter for the position will do the first round of evaluations and review application submissions. If more information is required, a member of the team will reach out to the applicant directly. Candidates that are disqualified at this stage will be notified by the recruiter.
 
-3. **Recruiter Phone Screen:** If the candidate qualifies, the recruiter will send a confirmation for a 30-minute call to explore the candidate’s background and experience. Depending on the outcome of the screening call, the recruiter will either reject the candidate or move them to the next stage in the process. The candidate will either proceed to a take-home exercise or a technical phone interview. Please note, the candidate’s resume and the recruiter’s notes from the pre-screen are not shared with the hiring team. Learn more about this here: "[How We're Fighting Unconscious Bias](https://www.cockroachlabs.com/blog/fighting-unconscious-bias-cockroach-labs/)."
+3. **Recruiter Phone Screen:** If the candidate qualifies for the role, the recruiter will send an availability request for a 30-minute call to explore their background and experience. Depending on the outcome of the screening call, the candidate will either be rejected or proceed to a take-home exercise or a technical phone interview.
 
 4. **Phone Interview and/or Take-home Exercise**
 
-    - **Phone interview:** The 1-hour phone interview with a member from the team covering skills related to the role. For technical phone interviews, we use Google Hangouts and [coderpad.io](http://coderpad.io/), covering coding, data structures, and algorithms.
+    - **Phone Interview:** The 1-hour phone interview with a member of the team covers skills related to the specific role. For technical phone interviews, we use Google Hangouts and [coderpad.io](http://coderpad.io/) and cover coding, data structures, and algorithms.
 
-    - **Take-home Exercise:** Typically taking 1-2 hours to complete, the take-home exercise allows for the hiring manager to review a candidate’s demonstration of skills directly related to the position before proceeding to the onsite interview. The take-home exercise replaces one phone interview and one onsite interview, equaling two hours of engagement.  
+    - **Take-home Exercise:** The take-home exercise typically takes 1-2 hours to complete and allows the hiring manager to review a candidate’s skills before proceeding to the onsite interview. The take-home exercise replaces one phone interview and one onsite interview, equaling two hours of engagement.  
 
-5. **In-person interviews:** Next steps in the process are an onsite interviews. The onsite interview team consists of members from the company that a candidate will work with. We limit the onsite interview to 4-5 exercise based interviews and 1 lunch. The interviews could include people on the direct team or cross teams. The lunch is time for a candidate to relax and ask questions to learn more about Cockroach Labs and get a feel for our culture. The recruiter will share an overview of who the candidate will be meeting before the onsite interview. 
+5. **In-person Interviews:** Next steps in the process are an onsite interviews. The onsite interview team consists of members from the company that a candidate will work with. We limit the onsite interview to 4-5 exercise based interviews and 1 lunch. The interviews could include people on the direct team or cross teams. The lunch is time for a candidate to relax and ask questions to learn more about Cockroach Labs and get a feel for our culture. The recruiter will share an overview of who the candidate will be meeting before the onsite interview. 
 
 6. **Hiring Committee Review:** After the onsite interview is complete, feedback from the interview process is shared across the interview team, including the candidate’s resume and recruiter’s prescreen notes. Interview team members review the feedback and independently reach a decision of hire/no-hire based on the comprehensive feedback before the HC Review. At the HC review, the interview team reaches a consensus on whether to proceed with or reject the candidate.  
 
-7. **Reference calls:** The staffing team will make reference calls for promising candidates. At a minimum, two reference calls should be completed - preferring at least one to be a manager or someone who has worked directly with the candidate and can speak to their work. 
+7. **Reference Calls:** The staffing team will make reference calls for promising candidates. At a minimum, two reference calls should be completed - preferring at least one to be a manager or someone who has worked directly with the candidate and can speak to their work. 
 
 8. **Final Review:** After reference calls are completed successfully, the recruiter submits the employee packet to the CEO and Hiring Manager for approval.
 
-9. **Offer Extend:** The recruiter will reach out to schedule time to connect with the candidate to extend the candidate the offer. Initially, this is done verbally but is always followed by the written offer as described in the section on preparing offers. The Hiring Manager and interview team follows-up to answer any questions that the candidate may have, which will hopefully lead to the candidate accepting the offer. 
+9. **Offer Extend:** The recruiter will reach out to schedule time to connect with the candidate to extend the candidate the offer. Initially, this is done verbally but is always followed by the written offer as described in the section on preparing offers. The Hiring Manager and interview team follows-up to answer any questions that the candidate may have, which will hopefully lead to the candidate accepting the offer. While we would love to know whether or not you'd like to accept an offer from us in 3 days as well, we are happy to extend offer deadlines up to one month, so that you can make the best decision for you and your family. 
 
 10. **Offer Accept/Onboarding:** If the candidate accepts the offer, the onboarding process begins. 
 
