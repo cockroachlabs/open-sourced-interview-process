@@ -45,11 +45,13 @@ The following content will provide both candidates and recruiters with valuable 
 
 ![](images/HiringProcess.png)
 
-A candidate should expect to wait 3-5 business days between each step of the process. At any point throughout the process, the candidate can reach out to the recruiter with any questions or an update on their candidacy. 
+We aim to have our interview process take an average of 3 weeks from start to finish.  Between each step of the interview process, we ask for at most 3 business days for us to to make a decision. While we would love to know whether you'd like to accept an offer from us in 3 days as well, we are happy to extend offer deadlines up to one month, so that you can make the best decision for you and your family.
 
-1. **Candidate Application:** Applicants automatically receive confirmation of their application, thanking them for submitting their information. This is an automated message from the Applicant Tracking System (in this case, [Greenhouse](https://www.greenhouse.io)).
+Remember that at any point during the interview process, you can reach out to us for updates on your candidacy.
 
-2. **Candidate Application Review:** The recruiter for the position will do the first round of evaluations. If more information is required, a member of the team will reach out to the applicant directly to request it. Disqualified candidates will be sent an email informing them of the rejection. 
+1. **Candidate Application:** Applicants receive an automated message from the Applicant Tracking System (in this case, [Greenhouse](https://www.greenhouse.io)) to confirm receipt of their application. The note thanks them for submitting their information and contains a Cockroach Labs Company Guide that gives applicants an inside look into the company culture.
+
+2. **Candidate Application Review:** The recruiter for the position will do the first round of evaluations and review application submissions. If more information is required, a member of the team will reach out to the applicant directly. Candidates that are disqualified at this stage will be notified by the recruiter.
 
 3. **Recruiter Phone Screen:** If the candidate qualifies, the recruiter will send a confirmation for a 30-minute call to explore the candidate’s background and experience. Depending on the outcome of the screening call, the recruiter will either reject the candidate or move them to the next stage in the process. The candidate will either proceed to a take-home exercise or a technical phone interview. Please note, the candidate’s resume and the recruiter’s notes from the pre-screen are not shared with the hiring team. Learn more about this here: "[How We're Fighting Unconscious Bias](https://www.cockroachlabs.com/blog/fighting-unconscious-bias-cockroach-labs/)."
 
