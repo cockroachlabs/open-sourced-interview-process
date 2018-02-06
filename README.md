@@ -10,16 +10,16 @@
 - [Contributing to the Interview Process Guide](#contributing-to-the-interview-process-guide)
 
 ## Welcome to the Cockroach Labs Interview Process
-
-Our mission to build an inclusive culture at Cockroach Labs includes removing bias from our hiring process. We are exploring new ways to structure our interview process. Instead of focusing on behavioral questions based on past performance or situational questions based on hypothetical future situations, we focus on exercise based interviews with an emphasis on applied skills required for the role. 
+You’ve heard it before folks. The interview process is broken. So what are we doing to fix it? At Cockroach Labs, we are exploring new ways to structure our interview process to account for bias and build an inclusive culture. Instead of asking questions based on past performance or hypothetical future situations, we focus on assessing the skills you’ll use in your role with exercise based interviews. 
 
 **Why are we open sourcing the interview process?**
 
-- **To encourage recruiting professionals, founders, and anyone else to think outside the box regarding their interview process.** What else can we be doing to provide candidates with a process that is fair and inclusive?
+- **To help canddiates feel prepared:** If you spend the time to research Cockroach Labs and our interview process, we will be thrilled.  We think that if candidates spend the time to prepare for engaging discussions with the team, they will be ready to do the same when they join the team! 
 
-- **To help candidates to come prepared!** If candidates take the time to research the questions and comes onsite ready to have an engaged discussion, we will be thrilled.
+- **To usher in a new standard of interviewing and transparency:** We want to encourage founders, recruiters, and everyone involved in the hiring process to think outside the box regarding the interview process.  We want candidates to get a realistic preview of what’s to come in their role at Cockroach Labs by setting up relevant simulations and scenarios. We are always asking ourselves, “what else can we be doing to provide candidates with a process that is fair and inclusive?”
 
-- **To collaborate.** Let’s challenge our bias *together.* Let’s all pledge to do better than we have before. We welcome feedback on our process and encourage candidates and recruiting professionals to contribute exercises as well.
+
+- **To collaborate.** Let’s challenge our bias *together*. Let’s all pledge to do better than we have before. We welcome feedback on our interview process and encourage anyone reading this to contribute your ideas to our process as well!
 
 Learn more by reading our blog post, ‘[Exercise Based Interviewing at Cockroach Labs](https://www.cockroachlabs.com/blog/exercise-based-interviewing/).’
 
