@@ -27,13 +27,13 @@ Learn more by reading our blog post, ‘[Exercise Based Interviewing at Cockroac
 
 The following content will provide both candidates and recruiters with valuable information. 
 
-**For candidates:**
+**For Candidates:**
 
 - You will leave with a thorough understanding of the interview process at Cockroach Labs, along with visibility into real questions from our onsite interviews. Our recruiters will be happy to confirm which of these questions will be presented during the onsite interview. 
 
 - Please note, around 10% of each interview is spent on a curve-ball question that we do not include in the exercises below. While you can come prepared for a majority of the interview, we also like to see how you think on your feet.
 
-**For recruiters:**
+**For Recruiters:**
 
 - Leverage the Cockroach Labs interview process and questions for your company’s hiring process. If you would like access to the curveball questions, please reach out direct to recruiting@cockroachlabs.com, and we will be happy to share them with you.
 
@@ -61,31 +61,33 @@ Throughout our interview process, it is important to remember that after the Rec
 
     - **Take-home Exercise:** The take-home exercise typically takes 1-2 hours to complete and allows the hiring manager to review a candidate’s skills before proceeding to the onsite interview. The take-home exercise replaces one phone interview and one onsite interview, equaling two hours of engagement.  
 
-5. **In-person Interviews:** Next steps in the process are an onsite interviews. The onsite interview team consists of members from the company that a candidate will work with. We limit the onsite interview to 4-5 exercise based interviews and 1 lunch. The interviews could include people on the direct team or cross teams. The lunch is time for a candidate to relax and ask questions to learn more about Cockroach Labs and get a feel for our culture. The recruiter will share an overview of who the candidate will be meeting before the onsite interview. 
+5. **In-person Interviews:** The next step in the interview process is an onsite interview. The onsite interview team consists of people that would be on the candidate's direct team and people on cross-functional teams too.  At least 2 days before the interview, the recruiter will share an overview of who the candidate will be meeting with. The interview itself has 4-5 exercise based interviews, with a break in the middle for lunch with a member of the team. Each session runs about an hour long, including lunch, which is a time for candidates to take a break, relax, and get a feel for our culture at Cockroach Labs. 
 
-6. **Hiring Committee Review:** After the onsite interview is complete, feedback from the interview process is shared across the interview team, including the candidate’s resume and recruiter’s prescreen notes. Interview team members review the feedback and independently reach a decision of hire/no-hire based on the comprehensive feedback before the HC Review. At the HC review, the interview team reaches a consensus on whether to proceed with or reject the candidate.  
+6. **Candidate Survey:** Once the candidate comes onsite, the recruiter will send the candidate a link to complete our candidate survey.  By filling out this short 2-minute survey, candidates help us iterate on our interview process.  
 
-7. **Reference Calls:** The staffing team will make reference calls for promising candidates. At a minimum, two reference calls should be completed - preferring at least one to be a manager or someone who has worked directly with the candidate and can speak to their work. 
+7. **Hiring Committee Review:** After the onsite interview is complete, feedback from the interview process is shared across the interview team. Interview team members review the feedback and independently reach a decision of hire/no-hire based on the comprehensive feedback. At the HC review, the interview team reaches a consensus on whether to reject the candidate or proceed with reference calls.
 
-8. **Final Review:** After reference calls are completed successfully, the recruiter submits the employee packet to the CEO and Hiring Manager for approval.
+8. **Reference Calls:** The recruiting team will make reference calls for promising candidates. At a minimum, two reference calls will be completed.  One should be a candidate's manager and the other someone someone who has worked directly with the candidateand can speak to their past work. 
 
-9. **Offer Extend:** The recruiter will reach out to schedule time to connect with the candidate to extend the candidate the offer. Initially, this is done verbally but is always followed by the written offer as described in the section on preparing offers. The Hiring Manager and interview team follows-up to answer any questions that the candidate may have, which will hopefully lead to the candidate accepting the offer. While we would love to know whether or not you'd like to accept an offer from us in 3 days as well, we are happy to extend offer deadlines up to one month, so that you can make the best decision for you and your family. 
+9. **Final Review:** After successful reference calls, the recruiter submits the employee packet to the CEO and Hiring Manager for final approval.
 
-10. **Offer Accept/Onboarding:** If the candidate accepts the offer, the onboarding process begins. 
+10. **Offer Extend:** The recruiter will reach out to the candidate to schedule time to connect and extend the formal offer. Initially, this is done verbally but is always followed by the written offer as described in the section on preparing offers. The Hiring Manager and interview team follows-up to answer any questions that the candidate may have, which will hopefully lead to the candidate accepting the offer. While we would love to know whether or not you'd like to accept an offer from us in 3 days as well, we are happy to extend offer deadlines up to one month, so that you can make the best decision for you and your family. 
+
+11. **Offer Accept/Onboarding:** If the candidate accepts the offer, the onboarding process begins. 
 
 ## For Candidates - Applying to Cockroach Labs
 
-The best way to apply for positions with Cockroach Labs is directly through our careers page, where all of our open roles are advertised. If there is not a role open, candidates are encouraged to check back in the future. 
+The best way to apply for positions with Cockroach Labs is directly through our careers page, where we list all of our open roles. If there is not a role open that looks interesting to you, we encourage you to reach out to us directly at recruiting@cockroachlabs.com and check back with us in the future as we continue to grow. 
 
-To apply for a current vacancy:
+To apply to Cockroach Labs:
 
 1. Go to our [careers page](https://www.cockroachlabs.com/careers/).
 
-2. At the bottom of the page, view our [open roles](https://www.cockroachlabs.com/careers/#jobs). 
+2. Check out our mission, core values, and benefits on your way to our list of [open roles](https://www.cockroachlabs.com/careers/#jobs). 
 
-3. Click on the department you are interested in and review the open positions.
+3. Click on the team you'd like to join, choose the job you'd like to do, and review the description of the role.
 
-4. If the position is of interest, fill out personal information, provide a resume and cover letter (optional) and click the "Submit Application" button.
+4. If the role sounds interesting to you, fill out the application form at the bottom of the page, then click the "Submit Application" button.  
 
 ## For Recruiters - Resources
 
@@ -139,7 +141,7 @@ For more information about the different exercises we use in our interview proce
 
 ## Contributing to the Interview Process Guide
 
-If you’d like to contribute an interview exercise, please follow the template below, then either submit a pull request on the correct file for the departments listed or email it to jobs@cockroachlabs.com to be added to the file. Please note, if they department file does not exists, email jobs@cockroachlabs.com so we can create it for you. 
+If you’d like to contribute an interview exercise, please follow the template below, then either submit a pull request on the correct file for the departments listed or email it to recruiting@cockroachlabs.com to be added to the file. Please note, if they department file does not exists, email recruiting@cockroachlabs.com so we can create it for you. 
 
 **Interview Exercise Template:** 
 
