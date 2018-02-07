@@ -11,7 +11,7 @@
 
 #### During the interview
 
-1. It’s important to remember that interviews are not natural, and it’s normal to feel a little apprehensive. At Cockroach Labs, we strive to be as friendly and open as we can by setting clear expectations and being transparent. Interviewers will use the following structure: 
+It’s important to remember that interviews are not natural, and it’s normal to feel a little apprehensive. At Cockroach Labs, we strive to be as friendly and open as we can by setting clear expectations and being transparent. Interviewers will use the following structure: 
 
 * Opening (5%)
 
