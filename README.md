@@ -107,13 +107,15 @@ These files provide a deep-dive into the various stages of the interview process
 
 ## Challenging our Unconscious Bias
 
-In the effort of building a diverse workforce, at Cockroach Labs, we ask the question "are we missing strong candidates because of preconceptions or unconscious biases of the interviewer?" To challenge our bias, we have taken two actions:
+In the effort of building a diverse workforce, at Cockroach Labs, we ask the question "are we missing strong candidates because of preconceptions or unconscious biases of the interviewer?" To challenge our bias, we have committed to:
 
 1. Exercise based interviewing
 
 2. Removing resumes
 
-Our hypothesis is that a structured and fair process means better decisions. Eliminating all bias or complete anonymity is not the goal. 
+3. Expectations based job descriptions
+
+Our hypothesis is that a structured and fair process means better decisions. We understand that it is impossible to eliminate all biases, so we want to make sure that we are aware of them and challenge them in whatever ways we can.
 
 ## Exercise Based Interview Questions
 
