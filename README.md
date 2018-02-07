@@ -93,6 +93,8 @@ To apply to Cockroach Labs:
 
 These files provide a deep-dive into the various stages of the interview process. It is important that recruiters tailor each stage to the position they are hiring for. Stages included: 
 
+- [Job Descriptions](JobDescriptions.md)
+
 - [Recruiter Phone Screen](RecruiterPhoneScreen.md)
 
 - [Structuring the Interview](StructuringtheInterview.md)
@@ -100,6 +102,8 @@ These files provide a deep-dive into the various stages of the interview process
 - [Interview Feedback and Scoring](InterviewFeedbackandScoring.md)
 
 - [Rejecting Applicants](RejectingApplicants.md)
+
+- [Candidate Feedback Survey](CandidateFeedbackSurvey.md)
 
 ## Challenging our Unconscious Bias
 
