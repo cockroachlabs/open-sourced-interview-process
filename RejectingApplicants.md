@@ -1,11 +1,9 @@
-### Rejecting applicants
+### Rejecting Applicants
 
-1. At any time during the hiring process the candidate can be rejected or they can withdraw from the process.
+1. At any time during the interview process, the candidate can be rejected by the company or withdraw themselves from the process.
 
-2. The applicant will always be notified if they are rejected. The recruiter is primarily responsible for declining candidates. 
+2. The applicant will be notified by the recruiter within 3 days of the last interview stage to share our hiring decision and explain the next steps in the interview process.  If the candidate asks for further feedback, it will always be related to the job requirements. We encourage candidates to use this feedback to see where they may still have room to grow. 
 
-3. If the candidate asks for further feedback, the feedback will always be related to the job requirements. If a candidate is rejected from the process, we ask that a candidate reflects on the requirements for the role and the interview process to see where they may still have some room to grow. 
+3. It is important to remember that Cockroach Labs is still a small company, so the requirements are specific and there are high expectations for every role. We want to make sure that everyone we hire is successful in their role, and if we feel there is any misalignment with the role, we would rather not move the candidate forward at that time.
 
-4. It is important to remember that Cockroach Lab is still very small so the requirements are very specific and the expectations for the roles are high. Our main objective is to guarantee the success of the candidate if they are hired. If we feel there is any misalignment with the role, even minor, we will reject the candidate from the process. 
-
-5. The recruiter will send out an inquiry to all candidates who come onsite to gather feedback after they have exited the hiring process. The feedback is sent out within 2 days after the applicant has been notified of the rejection or hire. People Ops will review all feedback and use it to improve the hiring process.
+4. The recruiter will send out a feedback survey to all candidates within 2 days of their onsite interview. The Recruiting Team will review all feedback and use it to improve the hiring process.
