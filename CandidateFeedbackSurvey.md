@@ -1,36 +1,39 @@
-### Recruiter Phone Screen
+At Cockroach Labs, we strive to aim to last and build to last. Part of that process is getting feedback from candidates on waht's going well and what we can be doing better.  After candidates come onsite with us, we send out the following 2-minute survey via CultureAmp [CultureAmp](https://www.cultureamp.com/)): 
 
-At Cockroach Labs, we want to know how we can build high and aim to last.  Part of that process is getting feedback from candidates on how we can improve our interviews.  We send out the following 2-minute CultureAmp [CultureAmp](https://www.cultureamp.com/))survey using after candidates interview with us onsite: 
 
-**Overall Impression**
+## Overall Impression
 
-Overall, my recruitment experience at Cockroach Labs was positive. (yes-no) 
-The recruitment process gave me good insight into the company's mission, culture, and values. (yes-no) 
+- Overall, my recruitment experience at Cockroach Labs was positive. (yes-no) 
 
-From what I experienced, I can see myself working at Cockroach Labs. (yes-no)  
+- The recruitment process gave me good insight into the company's mission, culture, and values. (yes-no) 
 
-I would encourage my friends and colleagues to apply to Cockroach Labs. (yes-no) 
+- From what I experienced, I can see myself working at Cockroach Labs. (yes-no)  
 
-What impressed you about Cockroach Labs? (free-text) 
+- I would encourage my friends and colleagues to apply to Cockroach Labs. (yes-no) 
 
-What is one thing we could do to improve the recruitment process? (free-text) 
+- What impressed you about Cockroach Labs? (free-text) 
 
-**Busting Bias**
+- What is one thing we could do to improve the recruitment process? (free-text) 
 
-I felt that the interviewers were able to assess my knowledge, skills, and abilities required for the job based on the exercises we completed rather than my resume. (yes-no)  
 
-The job description was influential in affecting my decision to join Cockroach Labs. (yes-no) 
+## Busting Bias
 
-**Interview Experience**
+- I felt that the interviewers were able to assess my knowledge, skills, and abilities required for the job based on the exercises we completed rather than my resume. (yes-no)  
 
-I was satisfied with the timeliness and responsiveness of my recruiter. (yes-no) 
+- The job description was influential in affecting my decision to join Cockroach Labs. (yes-no) 
 
-After talking with the interviewers, I got a good sense of the objectives and expectations of the role. (yes-no) 
 
-The interview experience gave me a clear understanding of what it would be like to work at Cockroach Labs. (yes-no) 
+## Interview Experience
 
-My interviewers gave me the opportunity to ask my own questions. (yes-no) 
+- I was satisfied with the timeliness and responsiveness of my recruiter. (yes-no) 
 
-**Extra Information**
+- After talking with the interviewers, I got a good sense of the objectives and expectations of the role. (yes-no) 
 
-Please let us know if there is anything else that you would like to share about your recruitment process. (free-text) 
+- The interview experience gave me a clear understanding of what it would be like to work at Cockroach Labs. (yes-no) 
+
+- My interviewers gave me the opportunity to ask my own questions. (yes-no) 
+
+
+## Extra Information
+
+- Please let us know if there is anything else that you would like to share about your recruitment process. (free-text) 
