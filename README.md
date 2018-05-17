@@ -130,6 +130,8 @@ For more information about the different exercises we use in our interview proce
 
 - [Documentation Exercises](DocumentationExercises.md)
 
+- [Engineering Exercises](EngineeringExercises.md)
+
 - [Marketing Exercises](MarketingExercises.md)
 
 - [Product Exercises](ProductExercises.md)
