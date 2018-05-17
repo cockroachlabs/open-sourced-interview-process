@@ -10,11 +10,11 @@ The following are exercises for product positions.
 
 ## **Title: Ops and Tools PM Takehome Exercise: MySQL Migration**
 - **Overview** One of the most important things we can do to drive adoption is to make database migrations frictionless. In this exercise, you will migrate a single table from MySQL to CockroachDB and describe how this process can be improved. This entire exercise should take under an hour.  
-- **Setup**
-    - Download [this CSV file](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.csv) containing employee records for a fictional company (we’ve already converted this to a CockroachDB-compatible CSV format for you) and [the MySQL schema](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.mysql.sql) for this table.
-    - Convert the MySQL schema into a [Cockroach CREATE statement](https://www.cockroachlabs.com/docs/stable/create-table.html#main-content).
-    - [Start a single-node CockroachDB cluster](https://www.cockroachlabs.com/docs/stable/start-a-local-cluster.html). 
-    - [IMPORT the file](https://www.cockroachlabs.com/docs/stable/import.html) into CockroachDB. 
+- **Setup**   
+    - [Start a single-node CockroachDB cluster](https://www.cockroachlabs.com/docs/stable/start-a-local-cluster.html).    
+    - [IMPORT](https://www.cockroachlabs.com/docs/stable/import.html) the [MySQL CSV export file](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.csv) into CockroachDB (*we've provided a standard CSV file rather than the raw [mysqldump](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html) output. No modifications are necessary*).
+        - For IMPORT to work, you'll need to Convert [the original MySQL schema](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.mysql.sql) into a [Cockroach CREATE statement](https://www.cockroachlabs.com/docs/stable/create-table.html#main-content). 
+        - Be sure to create a database before you begin the IMPORT. Example SQL: `CREATE DATABASE exercise; USE exercise;`
 
 - **Exercise**
     - What were some of the shortcomings of the migration experience you just went through? 
