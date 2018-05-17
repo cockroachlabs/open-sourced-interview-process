@@ -1,4 +1,4 @@
-### Interview Feedback and Scoring
+# Interview Feedback and Scoring
 
 After an interview with a candidate, the interviewer will always leave feedback. The goal of collecting feedback is to answer the question, "Would I want this person on my team?" 
 
