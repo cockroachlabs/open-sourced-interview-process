@@ -8,7 +8,20 @@ The following are exercises for product positions.
 
 - **Part 1:** Work Experience - Ask them to dive into their product/feature from a technical standpoint. They should be able to speak to the technical details in this section. How did the product evolve? From concept to launch or was it pre-existing? 
 
-## **Title** **Product Positioning**
+## **Title: Ops and Tools PM Takehome Exercise: MySQL Migration**
+- **Overview** One of the most important things we can do to drive adoption is to make database migrations frictionless. In this exercise, you will migrate a single table from MySQL to CockroachDB and describe how this process can be improved. This entire exercise should take under an hour.  
+- **Setup**
+    - Download [this CSV file](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.csv) containing employee records for a fictional company (we’ve already converted this to a CockroachDB-compatible CSV format for you) and [the MySQL schema](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.mysql.sql) for this table.
+    - Convert the MySQL schema into a [Cockroach CREATE statement](https://www.cockroachlabs.com/docs/stable/create-table.html#main-content).
+    - [Start a single-node CockroachDB cluster](https://www.cockroachlabs.com/docs/stable/start-a-local-cluster.html). 
+    - [IMPORT the file](https://www.cockroachlabs.com/docs/stable/import.html) into CockroachDB. 
+
+- **Exercise**
+    - What were some of the shortcomings of the migration experience you just went through? 
+    - Write 2-3 [user stories](https://www.mountaingoatsoftware.com/agile/user-stories) for a feature or tool that would make the migration process delightful for developers.
+
+
+## **Title: Geneal PM Takehome Exercise: Product Positioning**
 - **Overview** In addition to traditional product management responsibilities, Cockroach Labs PMs are also responsible for positioning their features and producing raw content that can be leveraged by marketing and sales to help promote those enhancements. This exercise is meant to help us understand how PMs think about audiences, differentiation, and value creation. 
 
 - **Setup** Pick any feature from a B2B company and write a one page messaging framework about it. This should at least include: a positioning statement, target audience, elevator pitch, and three messaging pillars. You can read more about messaging frameworks on Google. (Here’s an example from Salesforce to get you started).
