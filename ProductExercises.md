@@ -8,7 +8,23 @@ The following are exercises for product positions.
 
 - **Part 1:** Work Experience - Ask them to dive into their product/feature from a technical standpoint. They should be able to speak to the technical details in this section. How did the product evolve? From concept to launch or was it pre-existing? 
 
-## **Title** **Product Positioning**
+## **Title: Ops and Tools PM Takehome Exercise: MySQL Migration**
+- **Overview** One of the most important things we can do to drive adoption is to make database migrations frictionless. In this exercise, you will migrate a single table from MySQL to CockroachDB and describe how this process can be improved. This entire exercise should take under an hour.  
+- **Setup**   
+    - [Start a single-node CockroachDB cluster](https://www.cockroachlabs.com/docs/stable/start-a-local-cluster.html).    
+    - [IMPORT](https://www.cockroachlabs.com/docs/stable/import.html) the [MySQL CSV export file](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.csv) into CockroachDB (*we've provided a standard CSV file rather than the raw [mysqldump](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html) output. No modifications are necessary*).
+    - Hints: 
+        - For IMPORT to work, you'll need to Convert [the original MySQL schema](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.mysql.sql) into a [Cockroach CREATE statement](https://www.cockroachlabs.com/docs/stable/create-table.html#main-content). 
+        - Be sure to create a database before you begin the IMPORT. Example SQL: `CREATE DATABASE exercise; USE exercise;`
+
+- **Exercise**
+    1. What are some of the shortcomings of this migration experience? 
+    1. In a sentence or two, describe an enhancement that would make the migration process delightful for developers.
+    1. Write 2-3 [user stories](https://www.mountaingoatsoftware.com/agile/user-stories) to further explain this feature. It's OK if the entire feature isn't covered in 2-3 stories.
+    1. How would you validate this feature?
+
+
+## **Title: Geneal PM Takehome Exercise: Product Positioning**
 - **Overview** In addition to traditional product management responsibilities, Cockroach Labs PMs are also responsible for positioning their features and producing raw content that can be leveraged by marketing and sales to help promote those enhancements. This exercise is meant to help us understand how PMs think about audiences, differentiation, and value creation. 
 
 - **Setup** Pick any feature from a B2B company and write a one page messaging framework about it. This should at least include: a positioning statement, target audience, elevator pitch, and three messaging pillars. You can read more about messaging frameworks on Google. (Here’s an example from Salesforce to get you started).
