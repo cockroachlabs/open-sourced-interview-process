@@ -24,10 +24,10 @@ The following are exercises for product positions.
     1. How would you validate this feature?
 
 
-## **Title: Geneal PM Takehome Exercise: Product Positioning**
+## **Title: General PM Takehome Exercise: Product Positioning**
 - **Overview** In addition to traditional product management responsibilities, Cockroach Labs PMs are also responsible for positioning their features and producing raw content that can be leveraged by marketing and sales to help promote those enhancements. This exercise is meant to help us understand how PMs think about audiences, differentiation, and value creation. 
 
-- **Setup** Pick any feature from a B2B company and write a one page messaging framework about it. This should at least include: a positioning statement, target audience, elevator pitch, and three messaging pillars. You can read more about messaging frameworks on Google. (Here’s an example from Salesforce to get you started).
+- **Setup** Pick any feature from a B2B company and write a one page messaging framework about it. This should at least include: a positioning statement, target audience, elevator pitch, and three messaging pillars. You can read more about messaging frameworks on Google. (Here’s [an example from Salesforce](https://www.pardot.com/blog/how-to-create-brand-messaging-that-really-resonates/) to get you started).
 
 ## **Title:** **Product Roadmap - New/CRL Specific**
 
