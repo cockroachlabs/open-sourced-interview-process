@@ -1,38 +1,46 @@
+Please note: We do not dive into the specifics of some of the questions that you will be asked during your interview. However, the following resources will give you insight into what to expect, they types of questions you make be asked, and how to prepare for the interview process.
+
+- [Engineering Interview Process](#engineering-interview-process)
+- [Coding Interviews](#coding-interviews)
+- [Design Interviews](#design-interviews)
+
 # Engineering Interview Process
 
 1. Take-home Exercise Stage (2-3 hrs total)
 
-    1. Take-home Exercise (1-2 hrs)
+    - Take-home Exercise (1-2 hrs)
 
-    2. Take-home Exercise Phone Interview (1 hr)
+    - Take-home Exercise Phone Interview (1 hr)
 
 2. Onsite Interview (5 hrs total)
 
-    3. Coding Interviews (1 hr x2)
+    - Coding Interviews (1 hr x2)
 
-    4. Design Interview 
+   - Design Interview 
 
-        * Choose Your Own Adventure (1 hr)
+        - Choose Your Own Adventure (1 hr)
 
-        * Role-related System Design (1 hr)
+        - Role-related System Design (1 hr)
 
     5. Lunch (1 hr)
 
 **Total interview time: 7-8 hrs**
 
+
 ## Coding Interviews
 
 Coding interviews give the interviewer insight into your the following areas:
 
-* Coding and debugging
+- Coding and debugging
 
-* Algorithms
+- Algorithms
 
-* Data Structures
+- Data Structures
 
-* Code Structure
+- Code Structure
 
-* Design
+- Design
+
 
 All of our coding questions are technical concepts that our engineers focus on within their roles. While we don’t dive into the specifics of our coding questions, we encourage you to refresh core technical concepts. For all coding interviews, we recommend using a language that you are extremely familiar with, rather than one that is new to you, like Go. 
 
