@@ -35,7 +35,7 @@ It’s important to remember that interviews are not natural, and it’s normal 
 
 - Let the candidate know that we’ll be in touch about next steps (phone) or that the next person will be in shortly (onsite).  A quick thank you is always a good way to finish up!
 
-### Some Tips
+## Some tips
 1. Communication is really hard in an interview setting. Candidates should give the interviewer access to their thought process but communicating their thought process. The interviewers will provide prompts to help the candidate through questions if they get stumped. Our objective is not to challenge a candidate to the point of discomfort, rather, open up their mind to learn about how they solve problems.  
 
 2. We do not strive to assess perfect theoretical knowledge that the candidate can google when needed, or give a problem that took you 2 months to dominate yet you expect your interviewee to master in a 30 minutes conversation.
