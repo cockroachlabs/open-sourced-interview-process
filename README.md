@@ -10,7 +10,7 @@
 - [Contributing to the Interview Process Guide](#contributing-to-the-interview-process-guide)
 
 ## Welcome to the Cockroach Labs Interview Process
-You’ve heard it before folks. The interview process is broken. So what are we doing to fix it? At Cockroach Labs, we are exploring new ways to structure our interview process to account for bias and build an inclusive culture. Instead of asking questions based on past performance or hypothetical future situations, we focus on assessing the skills you’ll use in your role with exercise based interviews. 
+At Cockroach Labs, we are exploring new ways to structure our interview process to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions. Instead of asking questions based on past performance or hypothetical future situations, we focus on assessing the skills you’ll use in your role with exercise based interviews. 
 
 **Why are we open sourcing the interview process?**
 
@@ -31,11 +31,11 @@ The following content will provide both candidates and recruiters with valuable 
 
 - You will leave with a thorough understanding of the interview process at Cockroach Labs, along with visibility into real questions from our onsite interviews. Our recruiters will be happy to confirm which of these questions will be presented during the onsite interview. 
 
-- Please note, around 10% of each interview is spent on a curve-ball question that we do not include in the exercises below. While you can come prepared for a majority of the interview, we also like to see how you think on your feet.
+- Please note, around 10-20% of each interview is spent on a curve-ball question that we do not include in the exercises. While you can come prepared for a majority of the interview, we also like to see how you think on your feet.
 
 **For Recruiters:**
 
-- Leverage the Cockroach Labs interview process and questions for your company’s hiring process. If you would like access to the curveball questions, please reach out direct to recruiting@cockroachlabs.com, and we will be happy to share them with you.
+- Leverage the Cockroach Labs interview process and questions for your company’s hiring process. If you would like access to the curveball questions or rubrics, please reach out direct to recruiting@cockroachlabs.com, and we will be happy to share them with you.
 
 - Contributions to the Cockroach Labs Interview Process are welcomed and encouraged! Please see Contributing to the Interview Process Guide below. 
 
@@ -55,19 +55,20 @@ Throughout our interview process, it is important to remember that after the Rec
 
 3. **Recruiter Phone Screen:** If the candidate qualifies for the role, the recruiter will send an availability request for a 30-minute call to explore their background and experience. Depending on the outcome of the screening call, the candidate will either be rejected or proceed to a take-home exercise or a technical phone interview.
 
-4. **Phone Interview and/or Take-home Exercise**
+4. **Take-home Exercise and/or Phone Interview**
 
-    - **Phone Interview:** The 1-hour phone interview with a member of the team covers skills related to the specific role. For technical phone interviews, we use Google Hangouts and [coderpad.io](http://coderpad.io/) and cover coding, data structures, and algorithms.
+    - **Take-home Exercise:** The take-home exercise typically takes 1-2 hours to complete and allows the hiring manager or a memeber of the team to review a candidate’s skills before proceeding to the next step of the hiring process. The take-home exercise replaces one onsite interview, equaling one hour of engagement.  
 
-    - **Take-home Exercise:** The take-home exercise typically takes 1-2 hours to complete and allows the hiring manager to review a candidate’s skills before proceeding to the onsite interview. The take-home exercise replaces one phone interview and one onsite interview, equaling two hours of engagement.  
+    - **Phone Interview:** The 1-hour phone interview with a member of the team covers skills related to the specific role or to review the take-home exercise. For technical phone interviews, we use Google Hangouts and [coderpad.io](http://coderpad.io/) and cover coding and debugging, algorithms, and data structures.
 
-5. **In-person Interviews:** The next step in the interview process is an onsite interview. The onsite interview team consists of people that would be on the candidate's direct team and people on cross-functional teams too.  At least 2 days before the interview, the recruiter will share an overview of who the candidate will be meeting with. The interview itself has 4-5 exercise based interviews, with a break in the middle for lunch with a member of the team. Each session runs about an hour long, including lunch, which is a time for candidates to take a break, relax, and get a feel for our culture at Cockroach Labs. 
+
+5. **In-person Interviews:** The next step in the interview process is an onsite interview. The onsite interview team consists of people that would be on the candidate's direct team and people on cross-functional teams too. The recruiter will share an overview of who the candidate will be meeting with. The interview itself has 4-5 exercise based interviews, with a break in the middle for lunch with a member of the team. Each session runs an hour long, including lunch, which is a time for candidates to take a break, relax, and get a feel for our culture at Cockroach Labs. 
 
 6. **Candidate Survey:** Once the candidate comes onsite, the recruiter will send the candidate a link to complete our candidate survey.  By filling out this short 2-minute survey, candidates help us iterate on our interview process.  
 
 7. **Hiring Committee Review:** After the onsite interview is complete, feedback from the interview process is shared across the interview team. Interview team members review the feedback and independently reach a decision of hire/no-hire based on the comprehensive feedback. At the HC review, the interview team reaches a consensus on whether to reject the candidate or proceed with reference calls.
 
-8. **Reference Calls:** The recruiting team will make reference calls for promising candidates. At a minimum, two reference calls will be completed.  One should be a candidate's manager and the other someone someone who has worked directly with the candidateand can speak to their past work. 
+8. **Reference Calls:** The recruiting team will make reference calls for promising candidates. At a minimum, two reference calls will be completed.  One should be a candidate's manager and the other someone someone who has worked directly with the candidate and can speak to their past work. 
 
 9. **Final Review:** After successful reference calls, the recruiter submits the employee packet to the CEO and Hiring Manager for final approval.
 
@@ -121,13 +122,7 @@ Our hypothesis is that a structured and fair process means better decisions. We 
 
 The purpose of an interview is to obtain information about a candidate in order to predict future performance. To accomplish this, we rely on Exercise-Based Interviewing. Exercise based interviews can include case studies, group exercises involving role play or discussions, individual exercises, or presentations. They allow for our interviewers to witness the direct application of a candidate’s abilities to competencies required for the role. Rather than guess if a candidate can do the job based on their answers to behavioral questions, we ask for candidates to show. During the interview, candidates are asked to complete exercises that are similar to the initiatives they would complete when actually working in the position on a day to day basis.
 
-For engineering positions, we use coding and system design questions. For non-tech, we use job-based simulations in the form of case studies, individual exercises, and/or presentations. We are not currently open sourcing our technical interview questions, however, the following are some examples of what to expect when going through the interview process with Cockroach Labs:
-
-1. Median Data Structure: Develop a data structure that is better than this "brute force" median computation. The data structure needs to support insert, delete and retrieval of the median.
-
-2. Regex engine: Implement a subset of regex matching
-
-3. Minimum snippet window: Given K sets of integers, find the minimum interval containing one from each set
+For engineering positions, we use coding and system design questions. For non-tech, we use job-based simulations in the form of case studies, individual exercises, and/or presentations. 
 
 For more information about the different exercises we use in our interview process, please review the different department areas. 
 
