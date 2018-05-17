@@ -13,12 +13,15 @@ The following are exercises for product positions.
 - **Setup**   
     - [Start a single-node CockroachDB cluster](https://www.cockroachlabs.com/docs/stable/start-a-local-cluster.html).    
     - [IMPORT](https://www.cockroachlabs.com/docs/stable/import.html) the [MySQL CSV export file](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.csv) into CockroachDB (*we've provided a standard CSV file rather than the raw [mysqldump](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html) output. No modifications are necessary*).
+    - Hints: 
         - For IMPORT to work, you'll need to Convert [the original MySQL schema](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.mysql.sql) into a [Cockroach CREATE statement](https://www.cockroachlabs.com/docs/stable/create-table.html#main-content). 
         - Be sure to create a database before you begin the IMPORT. Example SQL: `CREATE DATABASE exercise; USE exercise;`
 
 - **Exercise**
-    - What were some of the shortcomings of the migration experience you just went through? 
-    - Write 2-3 [user stories](https://www.mountaingoatsoftware.com/agile/user-stories) for a feature or tool that would make the migration process delightful for developers.
+    1. What are some of the shortcomings of this migration experience? 
+    1. In a sentence or two, describe an enhancement that would make the migration process delightful for developers.
+    1. Write 2-3 [user stories](https://www.mountaingoatsoftware.com/agile/user-stories) to further explain this feature. It's OK if the entire feature isn't covered in 2-3 stories.
+    1. How would you validate this feature?
 
 
 ## **Title: Geneal PM Takehome Exercise: Product Positioning**
