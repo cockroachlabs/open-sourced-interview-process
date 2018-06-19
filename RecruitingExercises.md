@@ -32,9 +32,9 @@ The following are exercises for recruiting positions.
     - What has been the most difficult offer that you closed? How did you go about closing the offer? What did you learn. 
 
 
-## **Title:** **Pipeline Development for a Product Designer**
+## **Title:** **Pipeline Development for a Product Manager**
 
-- **Overview:** The candidate should have a solid foundation of how we recruit at CRL due to the earlier interview focused on building and identifying talent for an Android Developer. We are going to switch gears on them and have them apply their skills to sourcing a Product Designer. 
+- **Overview:** The candidate should have a solid foundation of how we recruit at CRL due to the earlier interview focused on building and identifying talent for an Android Developer. We are going to switch gears on them and have them apply their skills to sourcing a Product Manager. 
 
 - **Part 1:** Learn about the requisition. What do you look for as a hiring manager?
 
