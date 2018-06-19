@@ -58,3 +58,13 @@ The following are exercises for product positions.
     4. Edge cases - 10 mins
 
     5. Validation - How can you validate that your solution meets the goals we mentioned earlier? - 10 mins
+    
+
+## **Title:** **Sales Engineering**
+
+- **Overview:** In this interview, you are assessing if the candidate has the ability to work well with a Cockroach Labs Sales Engineer to translate customer requirements into roadmap items for our backlog. 
+
+- **Exercise:** This exercise has two parts:
+    1. Take home exercise review - You will go over your take-home exercise with the head of sales engineering, who will ask follow up questions. Depending on your expertise you may be asked to compare this with your experience using another database.
+    2. Triaging real-world customer requests - You will be asked to talk about two customer requests, one that made it onto the roadmap and one that did not. Be prepared to drill into how you made those decisions and managed the customer expectations either directly or indirectly through sales or some other team.
+
