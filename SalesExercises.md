@@ -141,11 +141,11 @@ For example: Should ATM deposit show up when using smartphone to view account ac
 
 ## **Title of the Exercise:** **Mock Sales Presentation**
 
-**Overview:** The candidate will select an enterprise infrastructure or technical software product that you know well or have sold before.  The product need not be related to CockroachDB.  It is best to select a topic that enables the candidate to demonstrate strong product knowledge and confidence. Please come prepared to sell the product to Paypal. 
+**Overview:** The candidate will select an enterprise infrastructure or technical software product that you know well or have sold before.  The product need not be related to CockroachDB.  It is best to select a topic that enables the candidate to demonstrate strong product knowledge and confidence. Please come prepared to sell the product to Square. 
 
 The presentation portion of the interview should last 20 minutes. The candidate should be prepared with a PowerPoint (or similar) presentation and present a business and value proposition with the intent of selling your their software. Concepts of business and light technical value should be included, why they’re selling to you, value and should either present or be able to discuss competitors and why their solution is superior. 
 
-**Candidate Setup:** The candidate will be sent the following information, expecting to sell their product to Paypal If we only have one person, we should be selling to the CTO, if 2 people, we can choose ops or eng. 
+**Candidate Setup:** The candidate will be sent the following information, expecting to sell their product to Square If we only have one person, we should be selling to the CTO, if 2 people, we can choose ops or eng. 
 
 - CTO
 
@@ -161,7 +161,7 @@ The candidate is expected to research the company history, product/service offer
 
 - 5-10 mins - Candidate close. Answer candidate questions. 
 
-**Part 1:** The candidate will walk the client through the mock sales presentation (20 mins). In this case, the client is Paypal. One interviewer will role play as the CTO, while the other role plays as the Engineering or Operations Director. 
+**Part 1:** The candidate will walk the client through the mock sales presentation (20 mins). In this case, the client is Square. One interviewer will role play as the CTO, while the other role plays as the Engineering or Operations Director. 
 
 **Part 2:** Q&A
 
