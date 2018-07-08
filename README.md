@@ -132,6 +132,8 @@ For more information about the different exercises we use in our interview proce
 
 - [Engineering Exercises](EngineeringExercises.md)
 
+- [Human Resources Exercises](HumanResourcesExercises.md)
+
 - [Marketing Exercises](MarketingExercises.md)
 
 - [Product Exercises](ProductExercises.md)
@@ -141,6 +143,8 @@ For more information about the different exercises we use in our interview proce
 - [Recruiting Exercises](RecruitingExercises.md)
 
 - [Sales Exercises](SalesExercises.md)
+
+- [Technical Support Exercises](TechnicalSupportExercises.md)
 
 ## Contributing to the Interview Process Guide
 
