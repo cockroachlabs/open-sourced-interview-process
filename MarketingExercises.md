@@ -79,3 +79,14 @@ The following are exercises for marketing positions.
 
     - Be specific with your cross-promotion strategy. Provide links to all cross-promotion targets.
 
+
+## **Title: Integrated Marketing**
+
+- **Overview:** The candidate just brainstormed positioning ideas with our CEO. Let’s hypothetically say they came up with the perfect story and are ready to start producing content in the context of this positioning. This should be specifically focused on wide-adoption, not sales enablement. In this interview, the candidate should be ready to talk through putting together an integrated strategy. Specifically, systems and processes and ideas on collateral they would create. 
+
+- **Part 1:** How would you take your understanding of what makes CockroachDB different and actually set (or change) people’s perceptions about the product?
+
+- **Part 2:** Scalable org design: what does this process/system look like in 100 days? 
+
+
+
