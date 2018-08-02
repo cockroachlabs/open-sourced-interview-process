@@ -143,3 +143,14 @@ Your task is to redesign the email and landing page for a campaign promoting Coc
 
 - **Considerations** You can use whatever tools you are comfortable with. Pen and paper is fine. If you prefer working off of your laptop, please feel free to bring it with you!
 
+
+## **Title: Brand and Systems Management**
+
+- **Overview:** This role will be a primary voice and stakeholder for the Cockroach brand.  As such the Senior Designer will oversee the design and execution of all digital, print, display and collateral designs.  An important element of being at a young B2B company is to be able to make smart decisions in a fast moving environment that has a focus on shipping creative/content. 
+
+- **Set-up:** CockroachDB is a highly technical product in a highly technical industry.  We are primarily focused on two personas, developers and IT decision makers such as Chief Architect and CIO.  Breaking through to the attention of these audiences is particularly challenging in that they are extremely jaded and marketing wary.  Visual brand consistency is an important element to develop a solid brand ID with the limited promotional vehicles available.
+
+- **Part 1:** Technical Audience Communications. How do you leverage your skills to maximize marketing effectiveness for such a highly technical solution and remain consistently on brand?
+
+- **Part 2:** Quality and Speed. How do you deliver on brand creative while ensuring a fast creative shipping environment?
+
