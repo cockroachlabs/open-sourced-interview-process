@@ -89,4 +89,57 @@ The following are exercises for marketing positions.
 - **Part 2:** Scalable org design: what does this process/system look like in 100 days? 
 
 
+## **Title: Integrated Marketing - Portfolio Review**
+
+- **Overview:** The candidate will select a multi-asset campaign from their portfolio to review with the interviewer. These could be multiple assets from an event, ad/sponsored campaign, digital and print assets from a launch, etc. Some examples: 
+    - web page + booth + printed assets
+    - Ads + email + webpage + printed content
+    - Infographic + ads + guide
+
+- **Part 1:** Review Work - Intgrated Marketing. The candidate will be prepared to explain the design decisions made building out multiple assets all connected to a single campaign. The following are examples of questions asked in this section:
+    - What was the goal of this project? What steps did you take to accomplish this goal?
+    - Walk me through your creative process. What was your approach to the design process for this work?
+
+- **Part 2:** Project Management. The following are examples of questions asked in this section:
+    - What is your process for making your designs a reality? 
+    - How do you set external resources up for success?    
+    
+
+## **Title: Take-home Exercise & Onsite: Email & Landing Page Design**
+
+- **Overview:** Driving lead activity is a critical element of marketing’s role within Cockroach Labs.  Our content is a great asset for engaging our prospects and the community but if they aren’t aware of new content then it’s value is underleveraged.  
+
+Your task is to redesign the email and landing page for a campaign promoting Cockroach Labs content with an eye towards making clear calls to action and communicating efficiently to inspire engagement.
+
+- **Take-home Exercise Goal:** 
+    - Provide clear actions to the email recipient.
+    - Layer the pertinent information so the reader can decide of the content is relevant to them.
+    - Ensure that the landing page experience supports the continued engagement of content.
+
+- **Take-home Exercise Considerations:** 
+    - Leverage the Cockroach Labs style guide to ensure brand consistency.
+    - Please be prepared to explain the design motivations and decisions made during the creative process.
+
+- **Onsite Interview: Part 1:** Take-home Exercise Review Work - Creative Thinnking. The candidate will be prepared to explain the design motivations and decisions made during the creative process for the take-home exercise. The following are examples of questions asked in this section:
+    - Walk us through your creative process?
+    - What was the goal of the work? What steps did you take to accomplish this goal?
+
+- **Onsite Interview: Part 2:** Past Work - Creative Thinking. The candidate to come with an additional piece of work that they would like to share with the interviewer. The following are examples of questions asked in this section:
+    - What is your process for making your designs a reality? 
+    - How do you set external resources up for success?   
+    
+- **Onsite Interview: Part 3:** Collaborative Engagement. This portion will focus on how you work to effectively accomplish your goals. 
+
+
+## **Title: Product and Creative Engagement**
+
+- **Overview:** In this interview, we will give you a chance to show how you can take real product screens, and extract the core visual elements that communicate their value to users.
+
+- **Set-up:** The interviewer will give you a real product screenshot. Your goal is to make this consumable on the web for prospective downloaders. 
+
+- **Part 1:** Ask clarifying questions to ensure you understand what the product functionality is. Try to get a sense for the salient points and how you would represent them without the extra detail of a live product. 
+
+- **Part 2:** Take what you’ve seen from the product, and what you’ve learned from your exercise, to produce 3 low-fidelity images that would ultimately visually describe what the product does to a potential customer.
+
+- **Considerations** You can use whatever tools you are comfortable with. Pen and paper is fine. If you prefer working off of your laptop, please feel free to bring it with you!
 
