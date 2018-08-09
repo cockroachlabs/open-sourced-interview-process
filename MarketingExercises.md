@@ -95,6 +95,7 @@ The following are exercises for marketing positions.
     - web page + booth + printed assets
     - Ads + email + webpage + printed content
     - Infographic + ads + guide
+    - Please note: It is encouraged that you share a campaign that includes print, digital, and environmental. If you do not have an example of this, no problem. Bring what you would like to share the most. 
 
 - **Part 1:** Review Work - Intgrated Marketing. The candidate will be prepared to explain the design decisions made building out multiple assets all connected to a single campaign. The following are examples of questions asked in this section:
     - What was the goal of this project? What steps did you take to accomplish this goal?
