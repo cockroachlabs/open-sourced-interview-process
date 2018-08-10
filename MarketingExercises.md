@@ -175,7 +175,7 @@ Your task is to redesign the email and landing page for a campaign promoting Coc
 
 - **Part 1:** Interviewer will review the campaign exercise with the candidate. 
 
-- **Part 2:** Interviewer will review the candidates marketing campaign with the candidate and dive into follow-up questions. 
+- **Part 2:** Interviewer will review the candidates marketing campaign with the candidate and and dive into follow up questions on ROI, budgeting, metrics, etc.
 
 
 ## **Title: Sales Funnel**
