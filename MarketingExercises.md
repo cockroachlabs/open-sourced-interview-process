@@ -155,3 +155,43 @@ Your task is to redesign the email and landing page for a campaign promoting Coc
 
 - **Part 2:** Quality and Speed. How do you deliver on brand creative while ensuring a fast creative shipping environment?
 
+
+## **Title: Take-home Exercise & Onsite Review - Ads Strategy & Content Leverage**
+
+- **Overview:** Cockroach Labs marketing department has a strong content focus that has generated much of the marketing activity to date.  The content library (primarily blogs and white papers) has a range of persona targets from developer to Chief Architect as well as a range of topics from CockroachDB focused to industry challenges.
+
+- **Set-up:** Cockroach Labs we have been successful in developing a moderately sized promotional email list and slowly growing the list with new names.  Our docs site, HackerNews and related activity have done a good job of growing awareness and engagement from the developer type persona to date.  There is a strong desire to focus on the decision making layer of our personas, Chief Architect and related.  
+
+- **Part 1:** How would leverage our existing content to develop a variety of lead generation campaigns focused on the Chief Architect (and related titles), and how would you structure and sequence those campaigns?  Please identify specific content, channels and rationale for the 2 - 3 campaigns you suggest.
+
+- **Part 2:** What tools would you use to measure the campaigns and what would be your critical KPIs in defining success?  Please also identify how long it might take to define success.
+
+
+## **Title: Marketing Content & Creative**
+
+- **Overview:** In this role, you will need to leverage existing content (blogs, whitepapers, videos, training) as content for campaigns for different channels and purposes (marketing emails, events, ads, etc.). 
+
+- **Set-up:** For this exercise, imagine that Cockroach Labs is hosting an event in New York on October 1st around GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). The candidate will review the content in the campaign exercise doc and build an outline of a marketing campaign in an effort to generate leads and get prospects to the event.  
+
+- **Part 1:** Interviewer will review the campaign exercise with the candidate. 
+
+- **Part 2:** Interviewer will review the candidates marketing campaign with the candidate and dive into follow-up questions. 
+
+
+## **Title: Sales Funnel**
+
+- **Overview:** Candidate will give the interviewer an overview of marketing attribution and ROI models they’ve built in the past. 
+
+- **Set-up:** In this role, you’d be working closely with our sales team to help build out new channels for lead generation and uncover which channels are most effective for lead generation - this includes word of mouth, email marketing, SEO, conferences / trade shows, etc. Once these we’re utilizing new channels, it’s crucial to analyze what’s working and build attribution models.
+
+- **Part 1:** Channel strategy
+
+- **Part 2:** Attribution model
+
+
+## **Title: Marketing Analytics**
+
+- **Overview:** This interview will focus on looking at analytics from website traffic and determine how you would substantiate a campaign. 
+
+- **Part 1:** Review website analytics with the interview and engage in a discussion about the analytics. 
+
