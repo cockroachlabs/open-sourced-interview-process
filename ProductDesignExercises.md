@@ -26,10 +26,9 @@ The following are exercises for product design positions.
 - **Part 1:** Candidate will install CockroachDB with the interviewer and explore the UI Admin. The interviewer will use prompt questions to understand how the candidate is thinking about the product and seek for any improvements that they can make. 
 
 
-## **Title: Whiteboard Exercise: Design an alarm clock**
+## **Title: Whiteboard Exercise - Design a UX for a Self-Driving Car Service**
 
-- **Overview:** Interviewer will draw the interface of an alarm clock, giving the alarm clock two buttons.
+- **Overview:** For this whiteboard exercise, you’ll be designing an end-to-end user experience for WeCoast a made-up self-driving car service. Their current UX is focused on the consumer market and is lacking features that empower business travelers commuting to and from meetings. Your goal is to design an engaging user experience to help increase WeCoast's business traveler user base. 
 
-- **Part 1:** Candidate to use two buttons to set and alarm clock.
 
 
