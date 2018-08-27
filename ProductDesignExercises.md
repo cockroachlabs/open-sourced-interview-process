@@ -19,11 +19,13 @@ The following are exercises for product design positions.
 
 ## **Title: Product Thinking and Problem Solving**
 
-- **Overview:** Interviewer explains the positioning of CockroachDB. After installing CockroachDB and exploring the UI admin, the candidate to show an ability to conduct valuable user research as well as have an opinionated view on how to improve usability.
+- **Overview:** Interviewer demos our internal database-as-a-service and gets feedback on usability and approaches to user testing.
 
-- **Setup:** Interviewer will discuss CockroachDB and have the candidate define the user group. Candidate should ask insightful questions. 
+- **Setup:** 
 
-- **Part 1:** Candidate will install CockroachDB with the interviewer and explore the UI Admin. The interviewer will use prompt questions to understand how the candidate is thinking about the product and seek for any improvements that they can make. 
+- **Part 1 (Product Sense):** The interviewer will demo the application and ask the candidate for thoughts on usability gaps. The goal is to understand how the candidate this about product and how they communicate with engineers.
+
+- **Part 2 (Customer Understanding):** Interviewer will explain  two personas: Developer and Operator. Candidate should ask insightful questions about these two groups. Interviewer will ask the candidate what steps she would take to vet her decision decisions against these two groups.
 
 
 ## **Title: Whiteboard Exercise - Design a UX for a Self-Driving Car Service**
