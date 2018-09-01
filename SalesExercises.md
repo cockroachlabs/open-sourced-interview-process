@@ -1,7 +1,5 @@
 The following are exercises for sales positions. 
 
-# **Job title: Business Development Manager**
-
 ## **Title of the Exercise:** **Research/Targeting Customers - Identifying Companies**
 
 **Overview:** Candidate will find three companies that fit the ideal candidate profile that they put together during their take-home exercise. 
@@ -90,8 +88,6 @@ For example: Should ATM deposit show up when using smartphone to view account ac
 
 - Describe another industry and/or process aside from banking where these activities and properties are important?
 
-
-# **Job title: Enterprise Account Executive**
 
 ## **Title of the Exercise:** **Campaign and BD Relations**
 
@@ -184,9 +180,23 @@ The candidate is expected to research the company history, product/service offer
 See under Business Development Manager exercises. 
 
 
-# **Job title: Sales Engineer**
+## **Title of the Exercise:** **Sales Process - Solutions Engineer**
 
-## **Title of the Exercise:** **Sales Process**
+**Overview:** Solutions Engineers work closely with Sales Engineers and should have a deeper understanding of the technical process over the sales process, using the Sales Engineer as the eyes and ears to the customer. Specifically around project and sales lifecycle success, POC management and competitive situations. 
+
+**Set-up:** Interviewer will dive into the following areas:
+
+- Project Management
+
+- Competitive Situations
+
+- Individual Expectations
+
+- Expectations of the Sales team including Sales and Sales Engineering
+
+**Note:** Candidate should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
+
+## **Title of the Exercise:** **Sales Process - Account Executives**
 
 **Overview:** Sales Engineers work closely with sellers and should have an in-depth understanding of the sales process and what is required. Specifically around lead generation, project management, competitive situations, and individual expectations. 
 
@@ -201,7 +211,6 @@ See under Business Development Manager exercises.
 - Individual Expectations
 
 **Note:** Candidate should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
-
 
 ## **Title of the Exercise:** **Past Experiences with Databases**
 
