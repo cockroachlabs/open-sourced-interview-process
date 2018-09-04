@@ -212,7 +212,7 @@ See under Business Development Manager exercises.
 
 **Note:** Candidate should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
 
-## **Title of the Exercise:** **Past Experiences with Databases**
+## **Title of the Exercise:** **Sales Engineer - Past Experiences with Databases**
 
 **Overview:** Engineering Interview Sequence interview. This conversation is a deep-dive discussion on a candidate’s technical background, specifically, their technical expertise of databases. The candidate is lead through a discussion so the interview can learn from the candidate about things they didn’t know.  For example, a candidate should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from the candidate what the technical reasons for the trade-offs are.
 
@@ -247,3 +247,12 @@ The objectives of the exercise are:
 **Overview:** Candidate will have to read a lot of documentation. They will have feedback on the docs on how they like Cockroach vs other documentation. In this interview, the candidate will be led through a discussion on the organizational structure of the documentation. 
 
 **Part 1:** Discussion on the organizational structure of the documentation. 
+
+## **Title of the Exercise:** **Solutions Engineer - Past Experiences with Databases**
+
+**Overview:** Engineering Interview Sequence interview. This conversation is a deep-dive discussion on a candidate’s technical background, specifically, their technical expertise of databases. The candidate will start by explaining a distributed database architecture that they have worked on in the past.
+
+**Part 1:** The candidate will start by explaining a distributed database architecture that they have worked on in the past. The candidate is encouraged to use the whiteboard for this discussion.
+
+**Part 2:** In the second half of the interview, the candidate leads a Q&A so the interviewer can test the candidate's knowledge of what was just presented.  For example, a candidate should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from the candidate what the technical reasons for the trade-offs are.
+
