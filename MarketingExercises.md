@@ -57,13 +57,20 @@ The following are exercises for marketing positions.
 - **Part 2:** Based on the discussion, the candidate will have 40 minutes to come up with an outline of suggested actions to improve the website.  You should also give an overview of resources, tools, and timeline.
 
 
-## **Title: Integrated Marketing**
+## **Title: Integrated Marketing - CRL-Specific**
 
 - **Overview:** The candidate brainstormed positioning ideas for the take-home exercise or with the previous interviewer. Let’s hypothetically say they came up with the perfect story and are ready to start producing content in the context of this positioning. This should be specifically focused on wide-adoption, not sales enablement. In this interview, the candidate should be ready to talk through putting together an integrated strategy. Specifically, systems and processes and ideas on collateral they would create. 
 
 - **Part 1:** How would you take your understanding of what makes CockroachDB different and actually set (or change) people’s perceptions about the product?
 
 - **Part 2:** Scalable org design: what does this process/system look like in 100 days? 
+
+
+## **Title: Integrated Marketing - General**
+
+- **Overview:** Candidate should be ready to talk through putting together an integrated strategy. Specifically, systems and processes and ideas on collateral you would create. 
+
+- **Context:** You just brainstormed positioning ideas with the interviewer. Let’s hypothetically say you came up with the perfect story and are ready to start producing content in the context of this positioning. This should be specifically focused on wide-adoption, not sales enablement. 
 
 
 ## **Title: Integrated Marketing - Portfolio Review**
@@ -146,13 +153,16 @@ The following are exercises for marketing positions.
 
 ## **Title: Take-home Exercise & Onsite Review - Competitive Positioning**
 
-- **Overview:** Cockroach Labs marketing department has a strong content focus that has generated much of the marketing activity to date.  The content library (primarily blogs and white papers) has a range of persona targets from developer to Chief Architect as well as a range of topics from CockroachDB focused to industry challenges.
+- **Overview:** As a newer entrant to the database space Cockroach has unique elements that can help define our key points of difference against entrenched database companies and other newer entrants.  We’d like to understand your ability to parse the differences and discuss your thoughts on how to position CockroachDB in the market.
 
-- **Set-up:** Cockroach Labs we have been successful in developing a moderately sized promotional email list and slowly growing the list with new names.  Our docs site, HackerNews and related activity have done a good job of growing awareness and engagement from the developer type persona to date.  There is a strong desire to focus on the decision making layer of our personas, Chief Architect and related.  
+- **Part 1:** [Take-home] What are our three primary CockroachDB product positioning/competitive advantage points?
 
-- **Part 1:** How would leverage our existing content to develop a variety of lead generation campaigns focused on the Chief Architect (and related titles), and how would you structure and sequence those campaigns?  Please identify specific content, channels and rationale for the 2 - 3 campaigns you suggest.
+- **Part 2:** [Onsite] Be prepared to whiteboard a competitive matrix reflecting your thoughts on our three primary competitors and how we best matchup against them.
 
-- **Part 2:** What tools would you use to measure the campaigns and what would be your critical KPIs in defining success?  Please also identify how long it might take to define success.
+- **Considerations & Resources** 
+    - Resources: Competitive Matrix (https://www.cockroachlabs.com/docs/stable/cockroachdb-in-comparison.html)
+    - Resources: Blog Page (https://www.cockroachlabs.com/blog/) 
+    - Considerations: Target company profile (size, vertical, etc.)
 
 
 ## **Title: Take-home Exercise & Onsite: Email & Landing Page Design**
@@ -183,13 +193,13 @@ Your task is to redesign the email and landing page for a campaign promoting Coc
 
 ## **Title: Sales Enablement**
 
-- **Overview:** Candidate will give the interviewer an overview of marketing attribution and ROI models they’ve built in the past. 
+- **Overview:** Sales enablement to Sales is a critical requirement of the role and finding the correct models to reach candidates. The role of sales enablement for the Product Marketing role will be critical to reach the prospects in the companies we should be targeting.  
 
-- **Set-up:** In this role, you’d be working closely with our sales team to help build out new channels for lead generation and uncover which channels are most effective for lead generation - this includes word of mouth, email marketing, SEO, conferences / trade shows, etc. Once these we’re utilizing new channels, it’s crucial to analyze what’s working and build attribution models.
+- **Set-up:** Sales enablement (Sales and SEs) can be segmented into two parts - Campaign creation and Sales readiness. Walk the interviewer through the steps to create a full GTM campaign and how you would ready the Sales organization to execute campaign. Target 2 industries Cockroach Labs should be targeting. Tell the interviewer about which method you would use to target each organization.
 
-- **Part 1:** Channel strategy
+- **Part 1:** Walk the interviewer through the process of a delivering a campaign and thinking about competitive factors. 
 
-- **Part 2:** Attribution model
+- **Part 2:** Sales readiness. 
 
 
 ## **Title: Sales Funnel**
@@ -203,15 +213,20 @@ Your task is to redesign the email and landing page for a campaign promoting Coc
 - **Part 2:** Attribution model
 
 
-## **Title: Sales Lines**
+## **Title: Story Lines**
 
-- **Overview:** Candidate will give the interviewer an overview of marketing attribution and ROI models they’ve built in the past. 
+- **Overview:** This exercise covers how you would work with the product team to support GTM on or around product releases.
 
-- **Set-up:** In this role, you’d be working closely with our sales team to help build out new channels for lead generation and uncover which channels are most effective for lead generation - this includes word of mouth, email marketing, SEO, conferences / trade shows, etc. Once these we’re utilizing new channels, it’s crucial to analyze what’s working and build attribution models.
+- **Set-up:** After reviewing our strategy, business opportunity, and customer feedback, we have the following five major features scheduled to come out in the next release of CockroachDB:
+    - **Change Data Capture (CDC)** - Support pushing database changes into Kafka rather than having to run periodic/polling jobs to pull data out.
+    - **Encryption at Rest** - Allow users to encrypt data on a per-store basis.
+    - **Cost-based Query Optimizer** - Provide orders of magnitude query speed-ups by using statistics to improve query plan selection.
+    - **Track and report in-flight query execution stats** - Get more insight into how queries execute.
+    - **Global/ multi-region Kubernetes cluster** - Support running CockroachDB in a K8 cluster across multiple regions so that a developer can have a highly available application, low latency, and fault isolation
 
-- **Part 1:** Channel strategy
+- **Part 1:** How would you think about the story behind this release? 
 
-- **Part 2:** Attribution mode
+- **Part 2:** How would you want to collaborate with the product team in order to support your product marketing activities in future releases.
 
 
 ## **Title: User Engagement and Lead Generation**
