@@ -60,6 +60,34 @@ The following are exercises for sales positions.
 **Part 1:** Discussion on the organizational structure of the documentation. 
 
 
+## **Title of the Exercise:** **Driving Insights & Forecasting**
+
+**Overview:** In this exercise, you will be shared the forecast of the revenue growth for the Company. We ask that you look at this data and turn this into meaningful information that you can share with the Board. It is encouraged that you use presentation format (e.g. PowerPoint or similar). See attached for data. 
+
+Considerations (if any): Sales Stages
+
+- Commit
+
+- Best case
+
+- Pipeline
+
+**Part 1:** Take-home Exercise
+Please review the attached document. From this data, please derive meaningful insight that you feel is relevant to share with the Board. It is encouraged that your response is in presentation format (e.g. PowerPoint or similar). 
+
+**Part 2:** Set-up:
+
+- 5 mins - Introduction
+
+- 15 mins - Take-home Exercise Review with CRO
+
+- 15 mins - [Curveball Question] Based on the discussion with the CRO, come up with 3 metrics that you will be measuring moving forward and a plan to implement them. The candidate is expected to add these to the worksheet. 
+
+- 15 mins - Discuss the above with the CRO. 
+
+- 10 mins - Q&A
+
+
 ## **Title of the Exercise:** **Field Sales Strategy**
 
 **Overview:** Define and storyline your sales strategy. It is encouraged that the candidate leverage the whiteboard for this walk-through. 
@@ -79,6 +107,42 @@ The following are exercises for sales positions.
 - Deal structure
 
 - Deal
+
+
+## **Title of the Exercise:** **Financial Burn**
+
+**Overview:** In this interview, the candidate will look at financial statements and be asked to figure out how to take the last 2-3 quarters of financial statements to update the current model. 
+
+
+## **Title of the Exercise:** **Incentivizing the Sales Team**
+
+**Overview:**  In this interview, we will be diving into how to set up sales compensation plans and incentivizing the sales force. 
+
+**Candidate Setup:**
+
+- 5 mins - Introduction
+
+- 10 mins - Interviewer will share current plans for both outside and inside sales. Review bands for sales compensation plans.
+
+- 20 mins - Candidate will set-up a commission plan for both outside and inside sales.
+
+- 15 mins - Review commission plans and discuss additional ways to incentivize the sales force.
+
+- 10 mins - Candidate asks questions.
+
+**Part 1:** Review current compensation plans with the interviewer:
+
+Outside 3: OTE $300k ($150/150k)
+Outside 2: OTE $250k ($125/125k)
+Outside 1: OTE $200k ($100/100k)
+
+Inside 3: OTE $114k ($80/34k)
+Inside 2: OTE $100k ($70/30k)
+Inside 1: OTE $85k ($60/25k)
+
+Interviewer will ask you to use the worksheet to come up with a commission plan.
+
+**Part 2:** Compensation plan discussion.
 
 
 ## **Title of the Exercise:** **Mock Sales Presentation**
@@ -170,7 +234,6 @@ The objectives of the exercise are:
 - Walk me through why you identified these three companies?
 
 
-
 ## **Title of the Exercise:** **Sales Engineer - Past Experiences with Databases**
 
 **Overview:** Engineering Interview Sequence interview. This conversation is a deep-dive discussion on a candidate’s technical background, specifically, their technical expertise of databases. The candidate is lead through a discussion so the interview can learn from the candidate about things they didn’t know.  For example, a candidate should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from the candidate what the technical reasons for the trade-offs are.
@@ -184,6 +247,19 @@ The objectives of the exercise are:
 - What is feedback on elastic scale out / scale in
 
 - [optional ] What is feedback on performance 
+
+
+## **Title of the Exercise:** **Sales & Marketing Pipeline Analysis**
+
+**Overview:** Salesforce provides the one source of truth for sales and marketing to develop a well understood connected marketing and sales funnel for the business.  There are many challenges in interpreting, making data usable and ensuring data integrity within Salesforce.
+
+**Set-up:** Marketing and Sales want to understand what specific content and channels are generating the most successful sales opportunities.  This will allow us to make smarter investments with the objective of constantly improving our ROI on marketing dollars spent.
+
+**Part 1:** What tiers would make up the core funnel these reports would be built on?  Please be prepared to white board the various marketing and sales stages.
+
+**Part 2:** What are some of the challenges within Salesforce.
+
+**Part 3:** What would you do to ensure and enforce data integrity for this valuable asset of the organization?
 
 
 ## **Title of the Exercise:** **Sales Process - Solutions Engineer**
