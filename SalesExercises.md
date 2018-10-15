@@ -334,3 +334,13 @@ For example: Should ATM deposit show up when using smartphone to view account ac
 - Describe another industry and/or process aside from banking where these activities and properties are important?
 
 
+## **Title of the Exercise:** **Tech Approach & SE Relations**
+
+**Overview:** This interview dives into how Account Executives approach triaging aspects of the sales process. For example, if features don’t exist, how would you handle - customer and internal. 
+
+**Set-up:** Business was sponsoring CockroachDB in order to enter a new market quickly. The operations and DBAs wanted to continue refining Oracle RAC and GoldenGate.  The business provided mission critical workload that is rather complex to test. 
+
+**Part 1:** The operations and DBA have asked CockroachLabs to run an end to end test and provide read out of the results.  They agreed to answer questions as needed.  What is AE’s role with the customer and CockroachLabs.
+
+**Part 2:** Two weeks into the test, CockroachDB is not able to achieve the required SLA without making changes to the application code.  There are three different approaches to change the app; however, it is not 100% guarantee that changes will achieve the SLA, but may close the gap.  What is AE’s next step after hearing this from the CockroachLabs technical team?   
+
