@@ -215,7 +215,7 @@ The objectives of the exercise are:
 4. SE’s view on architectural constraints of CockroachDB design that resulted in observed pros/cons
 
 
-## **Title of the Exercise:** **Research/Targeting Customers - Identifying Companies**
+## **Title of the Exercise:** **Research/Targeting Customers - Prospecting/ICP**
 
 **Overview:** Candidate will find three companies that fit the ideal candidate profile that they put together during their take-home exercise. 
 
