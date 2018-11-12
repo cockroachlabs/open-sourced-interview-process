@@ -305,7 +305,7 @@ The objectives of the exercise are:
 **Part 2:** In the second half of the interview, the candidate leads a Q&A so the interviewer can test the candidate's knowledge of what was just presented.  For example, a candidate should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from the candidate what the technical reasons for the trade-offs are.
 
 
-## **Title of the Exercise:** **Technical Acumen - Database Marketplace**
+## **Title of the Exercise:** **Technical Acumen - Value of a Database**
 
 **Overview:** It is important that the candidate understands the value of what a solid database solution is. For this interview, the candidate will be asked to engage in a conversation around the value that a database solution can bring to their customers. It is important that they understand why databases are important and have a baseline understanding of how they work and the marketplace in which they exist.
 
