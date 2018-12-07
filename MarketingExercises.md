@@ -7,11 +7,11 @@
 - [Product Marketing](#Product-Marketing)
 - [Demand Generation](#Demand-Generation)
 
-## Marketing Coordinator 
+# Marketing Coordinator 
 
 Coming soon
 
-## Marketing Manager 
+# Marketing Manager 
 
 ## **Title: Blog Content & Collaboration** 
 
@@ -56,7 +56,7 @@ edit the blog during the interview.
 you would have access to its author for clarifying questions. It does need to get across
 your vision for the story arc and demonstrate your abilities as a writer and editor.
 
-## Creative
+# Creative
 
 ## **Title: Integrated Marketing - Portfolio Review**
 
@@ -121,11 +121,11 @@ Your task is to redesign the email and landing page for a campaign promoting Coc
     
 - **Onsite Interview: Part 3:** Collaborative Engagement. This portion will focus on how you work to effectively accomplish your goals. 
 
-## Senior Technical Content Marketing Manager
+# Senior Technical Content Marketing Manager
 
 Coming soon
 
-## Product Marketing
+# Product Marketing
 
 ## **Title: Take-home Exercise & Onsite Review - Competitive Positioning**
 
@@ -173,7 +173,7 @@ Coming soon
 - **Context:** You just brainstormed positioning ideas with the interviewer. Let’s hypothetically say you came up with the perfect story and are ready to start producing content in the context of this positioning. This should be specifically focused on wide-adoption, not sales enablement. 
 
 
-## Demand Generation
+# Demand Generation
 
 ## **Title: Marketing Content & Creative**
 
