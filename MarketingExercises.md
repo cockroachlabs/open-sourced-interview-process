@@ -2,7 +2,7 @@
 
 - [Marketing Coordinator](#Marketing-Coordinator)
 - [Marketing Manager](#Marketing-Manager)
-- [Creative Director/Senior Designer](#Creative-Director-/-Senior-Designer)
+- [Creative Director / Senior Designer](#Creative-Director-/-Senior-Designer)
 - [Senior Technical Content Marketing Manager](#Senior-Technical-Content-Marketing-Manager)
 - [Product Marketing](#Product-Marketing)
 - [Demand Generation](#Demand-Generation)
