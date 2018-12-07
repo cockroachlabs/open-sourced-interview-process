@@ -28,7 +28,7 @@ The following are exercises for sales positions.
 
 ## **Title: Campaign Process - Customer Outreach**
 
-**Overview:** You will be asked to set-up an outbound email campaign (cadence) for the companies you targeted in your first exercise. [Worksheet for Candidate Exercise](https://docs.google.com/a/cockroachlabs.com/document/d/10SJtP7leugjGnxZeaZjrJOOM-8A_OL13wodY1yC9eLQ/edit?usp=sharing)Worksheet provided onsite.
+**Overview:** You will be asked to set-up an outbound email campaign (cadence) for the companies you targeted in your first exercise. [Worksheet for Candidate Exercise](https://docs.google.com/a/cockroachlabs.com/document/d/10SJtP7leugjGnxZeaZjrJOOM-8A_OL13wodY1yC9eLQ/edit?usp=sharing) (Worksheet provided onsite.)
 
 **You will be asked to create is asked to create:**
 
