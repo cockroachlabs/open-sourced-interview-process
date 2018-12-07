@@ -2,7 +2,7 @@
 
 - [Marketing Coordinator](#Marketing-Coordinator)
 - [Marketing Manager](#Marketing-Manager)
-- [Creative Director/Senior Designer](#Creative-Director/Senior-Designer)
+- [Creative Director/Senior Designer](#Creative-Director-/-Senior-Designer)
 - [Senior Technical Content Marketing Manager](#Senior-Technical-Content-Marketing-Manager)
 - [Product Marketing](#Product-Marketing)
 - [Demand Generation](#Demand-Generation)
@@ -60,13 +60,13 @@ your vision for the story arc and demonstrate your abilities as a writer and edi
 
 ## **Title: Integrated Marketing - Portfolio Review**
 
-- **Overview:** The candidate will select a multi-asset campaign from their portfolio to review with the interviewer. These could be multiple assets from an event, ad/sponsored campaign, digital and print assets from a launch, etc. Some examples: 
+- **Overview:** You will select a multi-asset campaign from their portfolio to review with the interviewer. These could be multiple assets from an event, ad/sponsored campaign, digital and print assets from a launch, etc. Some examples: 
     - web page + booth + printed assets
     - Ads + email + webpage + printed content
     - Infographic + ads + guide
     - Please note: It is encouraged that you share a campaign that includes print, digital, and environmental. If you do not have an example of this, no problem. Bring what you would like to share the most. 
 
-- **Part 1:** Review Work - Intgrated Marketing. The candidate will be prepared to explain the design decisions made building out multiple assets all connected to a single campaign. The following are examples of questions asked in this section:
+- **Part 1:** Review Work - Intgrated Marketing. Be prepared to explain the design decisions made building out multiple assets all connected to a single campaign. The following are examples of questions asked in this section:
     - What was the goal of this project? What steps did you take to accomplish this goal?
     - Walk me through your creative process. What was your approach to the design process for this work?
 
@@ -111,11 +111,11 @@ Your task is to redesign the email and landing page for a campaign promoting Coc
     - Leverage the Cockroach Labs style guide to ensure brand consistency.
     - Please be prepared to explain the design motivations and decisions made during the creative process.
 
-- **Onsite Interview: Part 1:** Take-home Exercise Review Work - Creative Thinnking. The candidate will be prepared to explain the design motivations and decisions made during the creative process for the take-home exercise. The following are examples of questions asked in this section:
+- **Onsite Interview: Part 1:** Take-home Exercise Review Work - Creative Thinking. You will be prepared to explain the design motivations and decisions made during the creative process for the take-home exercise. The following are examples of questions asked in this section:
     - Walk us through your creative process?
     - What was the goal of the work? What steps did you take to accomplish this goal?
 
-- **Onsite Interview: Part 2:** Past Work - Creative Thinking. The candidate to come with an additional piece of work that they would like to share with the interviewer. The following are examples of questions asked in this section:
+- **Onsite Interview: Part 2:** Past Work - Creative Thinking. Please come with an additional piece of work that you would like to share with the interviewer. The following are examples of questions asked in this section:
     - What is your process for making your designs a reality? 
     - How do you set external resources up for success?   
     
@@ -168,7 +168,7 @@ Coming soon
 
 ## **Title: Integrated Marketing - General**
 
-- **Overview:** Candidate should be ready to talk through putting together an integrated strategy. Specifically, systems and processes and ideas on collateral you would create. 
+- **Overview:** You should be ready to talk through putting together an integrated strategy. Specifically, systems and processes and ideas on collateral you would create. 
 
 - **Context:** You just brainstormed positioning ideas with the interviewer. Let’s hypothetically say you came up with the perfect story and are ready to start producing content in the context of this positioning. This should be specifically focused on wide-adoption, not sales enablement. 
 
@@ -179,15 +179,15 @@ Coming soon
 
 - **Overview:** In this role, you will need to leverage existing content (blogs, whitepapers, videos, training) as content for campaigns for different channels and purposes (marketing emails, events, ads, etc.). 
 
-- **Set-up:** For this exercise, imagine that Cockroach Labs is hosting an event in New York on October 1st around GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). The candidate will review the content in the campaign exercise doc and build an outline of a marketing campaign in an effort to generate leads and get prospects to the event.  
+- **Set-up:** For this exercise, imagine that Cockroach Labs is hosting an event in New York on October 1st around GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). You will review the content in the campaign exercise doc and build an outline of a marketing campaign in an effort to generate leads and get prospects to the event.  
 
-- **Part 1:** Interviewer will review the campaign exercise with the candidate. 
+- **Part 1:** You will review the campaign exercise with the candidate. 
 
-- **Part 2:** Interviewer will review the candidates marketing campaign with the candidate and and dive into follow up questions on ROI, budgeting, metrics, etc.
+- **Part 2:** You will review the candidates marketing campaign with the candidate and and dive into follow up questions on ROI, budgeting, metrics, etc.
 
 ## **Title: Sales Funnel**
 
-- **Overview:** Candidate will give the interviewer an overview of marketing attribution and ROI models they’ve built in the past. 
+- **Overview:** You will give the interviewer an overview of marketing attribution and ROI models they’ve built in the past. 
 
 - **Set-up:** In this role, you’d be working closely with our sales team to help build out new channels for lead generation and uncover which channels are most effective for lead generation - this includes word of mouth, email marketing, SEO, conferences / trade shows, etc. Once these we’re utilizing new channels, it’s crucial to analyze what’s working and build attribution models.
 
@@ -202,7 +202,7 @@ Coming soon
 
 - **Set-up:** Cockroach Labs we have been successful in developing a moderately sized promotional email list and slowly growing the list with new names.  Our docs site, HackerNews and related activity have done a good job of growing awareness and engagement from the developer type persona to date.  There is a strong desire to focus on the decision making layer of our personas, Chief Architect and related.  
 
-- **Part 1:** How would leverage our existing content to develop a variety of lead generation campaigns focused on the Chief Architect (and related titles), and how would you structure and sequence those campaigns?  Please identify specific content, channels and rationale for the 2 - 3 campaigns you suggest.
+- **Part 1:** How would you leverage our existing content to develop a variety of lead generation campaigns focused on the Chief Architect (and related titles), and how would you structure and sequence those campaigns?  Please identify specific content, channels and rationale for the 2 - 3 campaigns you suggest.
 
 - **Part 2:** What tools would you use to measure the campaigns and what would be your critical KPIs in defining success?  Please also identify how long it might take to define success.
 
@@ -215,8 +215,8 @@ Coming soon
 
 - **Overview:** In this role, you will need to leverage existing content (blogs, whitepapers, videos, training) as content for campaigns for different channels and purposes (marketing emails, events, ads, etc.). 
 
-- **Set-up:** For this exercise, imagine that Cockroach Labs is hosting an event in New York on October 1st around GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). The candidate will review the content in the campaign exercise doc and build an outline of a marketing campaign in an effort to generate leads and get prospects to the event.  
+- **Set-up:** For this exercise, imagine that Cockroach Labs is hosting an event in New York on October 1st around GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). You will review the content in the campaign exercise doc and build an outline of a marketing campaign in an effort to generate leads and get prospects to the event.  
 
-- **Part 1:** Interviewer will review the campaign exercise with the candidate. 
+- **Part 1:** You will review the campaign exercise with the candidate. 
 
-- **Part 2:** Interviewer will review the candidates marketing campaign with the candidate and and dive into follow up questions on ROI, budgeting, metrics, etc.
+- **Part 2:** You will review the candidates marketing campaign with the candidate and and dive into follow up questions on ROI, budgeting, metrics, etc.
