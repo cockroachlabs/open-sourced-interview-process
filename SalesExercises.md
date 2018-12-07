@@ -1,5 +1,86 @@
 The following are exercises for sales positions. 
 
+- [Sales Development Representative](#Sales-Developement-Representative)
+- [Enterprise Account Executive](#Enterprise-Account-Executive)
+- [Sales Engineer](#Sales-Engineer)
+- [Solutions Engineer](#Solutions-Engineer)
+- [Sales Operations](#Sales-Operations)
+
+# Sales Development Representative
+
+## **Title of the Exercise:** **Research/Targeting Customers - Prospecting/ICP**
+
+**Overview:** Find three companies that fit the ideal candidate profile that you put together during your take-home exercise. 
+
+**Candidate Setup:**
+
+- Interviewer will provide you with the verticals that they would like you to go after with the expectation that you will find three companies that fit the ICP. 
+
+- Interviewer will answer any questions you have and provide guidance before having you independently do this research.
+
+- Interviewer will give you 20 minutes to identify 3 companies before coming back into the room to discuss.  
+
+**Interviewer Question:**
+
+- What online tools did you use to identify the companies?
+
+- Walk me through why you identified these three companies?
+
+## **Title of the Exercise:** **Campaign Process - Customer Outreach**
+
+**Overview:** You will be asked to set-up an outbound email campaign (cadence) for the companies you targeted in your first exercise. [Worksheet for Candidate Exercise](https://docs.google.com/a/cockroachlabs.com/document/d/10SJtP7leugjGnxZeaZjrJOOM-8A_OL13wodY1yC9eLQ/edit?usp=sharing)Worksheet provided onsite.
+
+**You will be asked to create is asked to create:**
+
+- A 5-action campaign cadence (including at least 3 messages) on paper.
+
+- Three messages directed at one target company including selecting relevant content that would be of interest the customer (for example: blog posts, events, white papers, news articles).
+
+- A timeline for the execution of the campaign.
+
+**Interview Questions:**
+
+- Walk me through the campaign process that you defined.
+
+## **Title of the Exercise:** **Technical Acumen - Value of a Database**
+
+**Overview:** It is important that the candidate understands the value of what a solid database solution is. For this interview, the candidate will be asked to engage in a conversation around the value that a database solution can bring to their customers. It is important that they understand why databases are important and have a baseline understanding of how they work and the marketplace in which they exist.
+
+**Set-up:** Recruiter will send database resources to the candidate and ask them to read the resources in preparation of having a conversation about databases.
+
+- Interviewer will open the conversation with the candidate engaging in dialogue around the following areas:
+
+    - Value of a database.
+
+    - How a database operates.
+
+    - What a database feature is and how it works.
+
+    - Value proposition of CockroachDB vs competitors. 
+
+**Interview Question:**
+
+- Imagine using an ATM to deposit a check.  Couple of minutes later,  use a smartphone to review the account activity and send money overseas to a friend.  
+
+- Steps though the interactions and describe database interactions.  
+For example: Insert Bank Card into the ATM.  Is there a database interaction and what are information to/from the database?
+
+- What properties would be required by database and why are those properties important.
+For example: Should ATM deposit show up when using smartphone to view account activity and why or why not?
+
+- Describe another industry and/or process aside from banking where these activities and properties are important?
+
+# Enterprise Account Executive
+
+## **Title of the Exercise:** **Tech Approach & SE Relations**
+
+**Overview:** This interview dives into how Account Executives approach triaging aspects of the sales process. For example, if features don’t exist, how would you handle - customer and internal. 
+
+**Set-up:** Business was sponsoring CockroachDB in order to enter a new market quickly. The operations and DBAs wanted to continue refining Oracle RAC and GoldenGate.  The business provided mission-critical workload that is rather complex to test. 
+
+**Part 1:** The operations and DBA have asked CockroachLabs to run an end to end test and provide read out of the results.  They agreed to answer questions as needed.  What is AE’s role with the customer and CockroachLabs.
+
+**Part 2:** Two weeks into the test, CockroachDB is not able to achieve the required SLA without making changes to the application code.  There are three different approaches to change the app; however, it is not 100% guarantee that changes will achieve the SLA, but may close the gap.  What is AE’s next step after hearing this from the Cockroach Labs technical team?   
 
 ## **Title of the Exercise:** **Campaign and BD Relations**
 
@@ -25,69 +106,6 @@ The following are exercises for sales positions.
 
 - Handling objections
 
-
-## **Title of the Exercise:** **Campaign Process - Customer Outreach**
-
-**Overview:** Candidate is asked to set-up an outbound email campaign (cadence) for the companies they targeted in their first exercise. [Worksheet for Candidate Exercise](https://docs.google.com/a/cockroachlabs.com/document/d/10SJtP7leugjGnxZeaZjrJOOM-8A_OL13wodY1yC9eLQ/edit?usp=sharing)
-
-**Candidate Setup:** Interviewer will ask the candidate to create an automated outbound email campaign for one of the companies they targeted in their first exercise. Interview will present the candidate with a printout of the HubSpot workflows page with all action options: ![image alt text](image_1.png)
-
-![](images/CampaignProcessCustomerOutreach.png)
-
-- Have the candidate build a campaign cadence on paper using the action items listed on the workflows page.
-
-- The candidate should select three actions from the campaign for which to write out the text and/or select relevant content (blog posts, white papers, podcasts, press, etc.).
-
-- After the cadence is built, the candidate should provide options for personalizing each email to a particular recipient.
-
-**Candidate is asked to create:**
-
-- A 5-action campaign cadence (including at least 3 messages) on paper using the action items listed on the workflows page.
-
-- Three messages directed at one target company including selecting relevant content that would be of interest the customer (for example: blog posts, events, white papers, news articles).
-
-- A timeline for the execution of the campaign.
-
-**Interview Questions:**
-
-- Walk me through the campaign process that you defined.
-
-
-## **Title of the Exercise:** **Documentation**
-
-**Overview:** Candidate will have to read a lot of documentation. They will have feedback on the docs on how they like Cockroach vs other documentation. In this interview, the candidate will be led through a discussion on the organizational structure of the documentation. 
-
-**Part 1:** Discussion on the organizational structure of the documentation. 
-
-
-## **Title of the Exercise:** **Driving Insights & Forecasting**
-
-**Overview:** In this exercise, you will be shared the forecast of the revenue growth for the Company. We ask that you look at this data and turn this into meaningful information that you can share with the Board. It is encouraged that you use presentation format (e.g. PowerPoint or similar). See attached for data. 
-
-Considerations (if any): Sales Stages
-
-- Commit
-
-- Best case
-
-- Pipeline
-
-**Part 1:** Take-home Exercise
-Please review the attached document. From this data, please derive meaningful insight that you feel is relevant to share with the Board. It is encouraged that your response is in presentation format (e.g. PowerPoint or similar). 
-
-**Part 2:** Set-up:
-
-- 5 mins - Introduction
-
-- 15 mins - Take-home Exercise Review with CRO
-
-- 15 mins - [Curveball Question] Based on the discussion with the CRO, come up with 3 metrics that you will be measuring moving forward and a plan to implement them. The candidate is expected to add these to the worksheet. 
-
-- 15 mins - Discuss the above with the CRO. 
-
-- 10 mins - Q&A
-
-
 ## **Title of the Exercise:** **Field Sales Strategy**
 
 **Overview:** Define and storyline your sales strategy. It is encouraged that the candidate leverage the whiteboard for this walk-through. 
@@ -107,43 +125,6 @@ Please review the attached document. From this data, please derive meaningful in
 - Deal structure
 
 - Deal
-
-
-## **Title of the Exercise:** **Financial Burn**
-
-**Overview:** In this interview, the candidate will look at financial statements and be asked to figure out how to take the last 2-3 quarters of financial statements to update the current model. 
-
-
-## **Title of the Exercise:** **Incentivizing the Sales Team**
-
-**Overview:**  In this interview, we will be diving into how to set up sales compensation plans and incentivizing the sales force. 
-
-**Candidate Setup:**
-
-- 5 mins - Introduction
-
-- 10 mins - Interviewer will share current plans for both outside and inside sales. Review bands for sales compensation plans.
-
-- 20 mins - Candidate will set-up a commission plan for both outside and inside sales.
-
-- 15 mins - Review commission plans and discuss additional ways to incentivize the sales force.
-
-- 10 mins - Candidate asks questions.
-
-**Part 1:** Review current compensation plans with the interviewer:
-
-Outside 3: OTE $300k ($150/150k)
-Outside 2: OTE $250k ($125/125k)
-Outside 1: OTE $200k ($100/100k)
-
-Inside 3: OTE $114k ($80/34k)
-Inside 2: OTE $100k ($70/30k)
-Inside 1: OTE $85k ($60/25k)
-
-Interviewer will ask you to use the worksheet to come up with a commission plan.
-
-**Part 2:** Compensation plan discussion.
-
 
 ## **Title of the Exercise:** **Mock Sales Presentation**
 
@@ -185,24 +166,37 @@ The candidate is expected to research the company history, product/service offer
 
 - Conveys a professional image
 
+# Sales Engineer
 
-## **Title of the Exercise:** **Project Management - Campaign Planning**
+## **Title of the Exercise:**Past Experiences with Databases**
 
-- **Overview:** Candidate is asked to plan out their day considering that they have six campaigns that they need to run. Specifically, describe how you plan on preparing and executing on the campaigns, what can you do to customize and personalize. After campaign efforts, describe calling plans. What in addition would you plan on doing to ensure keeping your day filled?
+**Overview:** This conversation is a deep-dive discussion on your technical background, specifically, your technical expertise of databases. You will be led through a discussion so the interviewer can learn from you about things they didn’t know.  For example, you should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from you what the technical reasons for the trade-offs are.
 
-- **Candidate Prep:**
+**Set-up:** The interviewer will ask you to pick one of the four technical areas: 
 
-    - Interviewer will give the candidate six campaigns that they would like for them to run in one day.
+- What is feedback on install 
 
-    - Review the campaigns with the candidate and allow them to ask any questions that they may have.
+- What is feedback on monitoring
 
-- **Interview Questions:**
-    -  Walk me through the day you have planned and what campaigns you will focus on.
+- What is feedback on elastic scale out / scale in
 
+- [optional ] What is feedback on performance 
+
+## **Title of the Exercise:** **Sales Process**
+
+**Overview:** Sales Engineers work closely with sellers and should have an in-depth understanding of the sales process and what is required. Specifically around lead generation, project management, competitive situations, and individual expectations. 
+
+**Set-up:** Interviewer will dive into the following areas:
+- Lead Generation
+- Project Management
+- Competitive Situations
+- Individual Expectations
+
+**Note:** You should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
 
 ## **Title of the Exercise:** **Project Management and Product Knowledge**
 
-**Overview:**  Candidate will walk the interviewer through the take-home exercise and discuss the 4 objectives. 
+**Overview:**  You will walk the interviewer through the take-home exercise and discuss the 4 objectives. 
 
 The objectives of the exercise are:
 
@@ -215,54 +209,15 @@ The objectives of the exercise are:
 4. SE’s view on architectural constraints of CockroachDB design that resulted in observed pros/cons
 
 
-## **Title of the Exercise:** **Research/Targeting Customers - Prospecting/ICP**
+## **Title of the Exercise:** **Documentation**
 
-**Overview:** Candidate will find three companies that fit the ideal candidate profile that they put together during their take-home exercise. 
+**Overview:** You will have to read a lot of documentation. You will provide feedback on the docs on how you like the Cockroach docs vs other documentation. In this interview, you will be led through a discussion on the organizational structure of the documentation. 
 
-**Candidate Setup:**
+**Part 1:** Discussion on the organizational structure of the documentation. 
 
-- Interviewer will set the candidate up with the verticals that they would like the candidate to go after with the expectation that they will find three companies that fit the ICP. 
+# Solutions Engineer
 
-- Interviewer will answer any questions they have and give them guidance before having them independently do this research.
-
-- Interviewer will give the candidate 15 minutes to identify 3 companies before coming back into the room to discuss.  
-
-**Interviewer Question:**
-
-- What online tools did you use to identify the companies?
-
-- Walk me through why you identified these three companies?
-
-
-## **Title of the Exercise:** **Sales Engineer - Past Experiences with Databases**
-
-**Overview:** Engineering Interview Sequence interview. This conversation is a deep-dive discussion on a candidate’s technical background, specifically, their technical expertise of databases. The candidate is lead through a discussion so the interview can learn from the candidate about things they didn’t know.  For example, a candidate should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from the candidate what the technical reasons for the trade-offs are.
-
-**Set-up:** The interviewer asks the candidate to pick one of the four technical areas: 
-
-- What is feedback on install 
-
-- What is feedback on monitoring
-
-- What is feedback on elastic scale out / scale in
-
-- [optional ] What is feedback on performance 
-
-
-## **Title of the Exercise:** **Sales & Marketing Pipeline Analysis**
-
-**Overview:** Salesforce provides the one source of truth for sales and marketing to develop a well understood connected marketing and sales funnel for the business.  There are many challenges in interpreting, making data usable and ensuring data integrity within Salesforce.
-
-**Set-up:** Marketing and Sales want to understand what specific content and channels are generating the most successful sales opportunities.  This will allow us to make smarter investments with the objective of constantly improving our ROI on marketing dollars spent.
-
-**Part 1:** What tiers would make up the core funnel these reports would be built on?  Please be prepared to white board the various marketing and sales stages.
-
-**Part 2:** What are some of the challenges within Salesforce.
-
-**Part 3:** What would you do to ensure and enforce data integrity for this valuable asset of the organization?
-
-
-## **Title of the Exercise:** **Sales Process - Solutions Engineer**
+## **Title of the Exercise:** **Sales Process**
 
 **Overview:** Solutions Engineers work closely with Sales Engineers and should have a deeper understanding of the technical process over the sales process, using the Sales Engineer as the eyes and ears to the customer. Specifically around project and sales lifecycle success, POC management and competitive situations. 
 
@@ -278,69 +233,98 @@ The objectives of the exercise are:
 
 **Note:** Candidate should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
 
+## **Title of the Exercise:**Past Experiences with Databases**
 
-## **Title of the Exercise:** **Sales Process - Account Executives**
+**Overview:** This conversation is a deep-dive discussion on your technical background, specifically, your technical expertise of databases. You will be led through a discussion so the interviewer can learn from you about things they didn’t know.  For example, you should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from you what the technical reasons for the trade-offs are.
 
-**Overview:** Sales Engineers work closely with sellers and should have an in-depth understanding of the sales process and what is required. Specifically around lead generation, project management, competitive situations, and individual expectations. 
+**Set-up:** The interviewer will ask you to pick one of the four technical areas: 
 
-**Set-up:** Interviewer will dive into the following areas:
+- What is feedback on install 
 
-- Lead Generation
+- What is feedback on monitoring
 
-- Project Management
+- What is feedback on elastic scale out / scale in
 
-- Competitive Situations
+- [optional ] What is feedback on performance 
 
-- Individual Expectations
+# Sales Operations
 
-**Note:** Candidate should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
+## **Title of the Exercise:** **Driving Insights & Forecasting**
 
+**Overview:** In this exercise, you will be shared the forecast of the revenue growth for the Company. We ask that you look at this data and turn this into meaningful information that you can share with the Board. It is encouraged that you use presentation format (e.g. PowerPoint or similar). See attached for data. 
 
-## **Title of the Exercise:** **Solutions Engineer - Past Experiences with Databases**
+Considerations (if any): Sales Stages
 
-**Overview:** Engineering Interview Sequence interview. This conversation is a deep-dive discussion on a candidate’s technical background, specifically, their technical expertise of databases. The candidate will start by explaining a distributed database architecture that they have worked on in the past.
+- Commit
 
-**Part 1:** The candidate will start by explaining a distributed database architecture that they have worked on in the past. The candidate is encouraged to use the whiteboard for this discussion.
+- Best case
 
-**Part 2:** In the second half of the interview, the candidate leads a Q&A so the interviewer can test the candidate's knowledge of what was just presented.  For example, a candidate should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from the candidate what the technical reasons for the trade-offs are.
+- Pipeline
 
+**Part 1:** Take-home Exercise
+Please review the attached document. From this data, please derive meaningful insight that you feel is relevant to share with the Board. It is encouraged that your response is in presentation format (e.g. PowerPoint or similar). 
 
-## **Title of the Exercise:** **Technical Acumen - Value of a Database**
+**Part 2:** Set-up:
 
-**Overview:** It is important that the candidate understands the value of what a solid database solution is. For this interview, the candidate will be asked to engage in a conversation around the value that a database solution can bring to their customers. It is important that they understand why databases are important and have a baseline understanding of how they work and the marketplace in which they exist.
+- 5 mins - Introduction
 
-**Set-up:** Recruiter will send database resources to the candidate and ask them to read the resources in preparation of having a conversation about databases.
+- 15 mins - Take-home Exercise Review with CRO
 
-- Interviewer will open the conversation with the candidate engaging in dialogue around the following areas:
+- 15 mins - [Curveball Question] Based on the discussion with the CRO, come up with 3 metrics that you will be measuring moving forward and a plan to implement them. The candidate is expected to add these to the worksheet. 
 
-    - Value of a database.
+- 15 mins - Discuss the above with the CRO. 
 
-    - How a database operates.
+- 10 mins - Q&A
 
-    - What a database feature is and how it works.
+## **Title of the Exercise:** **Financial Burn**
 
-    - Value proposition of CockroachDB vs competitors. 
-
-**Interview Question:**
-
-- Imagine using an ATM to deposit a check.  Couple of minutes later,  use a smartphone to review the account activity and send money overseas to a friend.  
-
-- Steps though the interactions and describe database interactions.  
-For example: Insert Bank Card into the ATM.  Is there a database interaction and what are information to/from the database?
-
-- What properties would be required by database and why are those properties important.
-For example: Should ATM deposit show up when using smartphone to view account activity and why or why not?
-
-- Describe another industry and/or process aside from banking where these activities and properties are important?
+**Overview:** In this interview, you will look at financial statements and be asked to figure out how to take the last 2-3 quarters of financial statements to update the current model. 
 
 
-## **Title of the Exercise:** **Tech Approach & SE Relations**
+## **Title of the Exercise:** **Incentivizing the Sales Team**
 
-**Overview:** This interview dives into how Account Executives approach triaging aspects of the sales process. For example, if features don’t exist, how would you handle - customer and internal. 
+**Overview:**  In this interview, we will be diving into how to set up sales compensation plans and incentivizing the sales force. 
 
-**Set-up:** Business was sponsoring CockroachDB in order to enter a new market quickly. The operations and DBAs wanted to continue refining Oracle RAC and GoldenGate.  The business provided mission-critical workload that is rather complex to test. 
+**Candidate Setup:**
 
-**Part 1:** The operations and DBA have asked CockroachLabs to run an end to end test and provide read out of the results.  They agreed to answer questions as needed.  What is AE’s role with the customer and CockroachLabs.
+- 5 mins - Introduction
 
-**Part 2:** Two weeks into the test, CockroachDB is not able to achieve the required SLA without making changes to the application code.  There are three different approaches to change the app; however, it is not 100% guarantee that changes will achieve the SLA, but may close the gap.  What is AE’s next step after hearing this from the Cockroach Labs technical team?   
+- 10 mins - Interviewer will share current plans for both outside and inside sales. Review bands for sales compensation plans.
+
+- 20 mins - You will set-up a commission plan for both outside and inside sales.
+
+- 15 mins - Review commission plans and discuss additional ways to incentivize the sales force.
+
+- 10 mins - Ask questions.
+
+**Part 1:** Review current compensation plans with the interviewer:
+
+Outside 3: OTE $300k ($150/150k)
+Outside 2: OTE $250k ($125/125k)
+Outside 1: OTE $200k ($100/100k)
+
+Inside 3: OTE $114k ($80/34k)
+Inside 2: OTE $100k ($70/30k)
+Inside 1: OTE $85k ($60/25k)
+
+Interviewer will ask you to use the worksheet to come up with a commission plan.
+
+**Part 2:** Compensation plan discussion.
+
+## **Title of the Exercise:** **Sales & Marketing Pipeline Analysis**
+
+**Overview:** Salesforce provides the one source of truth for sales and marketing to develop a well understood connected marketing and sales funnel for the business.  There are many challenges in interpreting, making data usable and ensuring data integrity within Salesforce.
+
+**Set-up:** Marketing and Sales want to understand what specific content and channels are generating the most successful sales opportunities.  This will allow us to make smarter investments with the objective of constantly improving our ROI on marketing dollars spent.
+
+**Part 1:** What tiers would make up the core funnel these reports would be built on?  Please be prepared to white board the various marketing and sales stages.
+
+**Part 2:** What are some of the challenges within Salesforce.
+
+**Part 3:** What would you do to ensure and enforce data integrity for this valuable asset of the organization?
+
+
+
+
+
 
