@@ -8,7 +8,7 @@ The following are exercises for sales positions.
 
 # Sales Development Representative
 
-## **Title of the Exercise:** **Research/Targeting Customers - Prospecting/ICP**
+## **Title: Research/Targeting Customers - Prospecting/ICP**
 
 **Overview:** Find three companies that fit the ideal candidate profile that you put together during your take-home exercise. 
 
@@ -26,7 +26,7 @@ The following are exercises for sales positions.
 
 - Walk me through why you identified these three companies?
 
-## **Title of the Exercise:** **Campaign Process - Customer Outreach**
+## **Title: Campaign Process - Customer Outreach**
 
 **Overview:** You will be asked to set-up an outbound email campaign (cadence) for the companies you targeted in your first exercise. [Worksheet for Candidate Exercise](https://docs.google.com/a/cockroachlabs.com/document/d/10SJtP7leugjGnxZeaZjrJOOM-8A_OL13wodY1yC9eLQ/edit?usp=sharing)Worksheet provided onsite.
 
@@ -42,7 +42,7 @@ The following are exercises for sales positions.
 
 - Walk me through the campaign process that you defined.
 
-## **Title of the Exercise:** **Technical Acumen - Value of a Database**
+## **Title: Technical Acumen - Value of a Database**
 
 **Overview:** It is important that the candidate understands the value of what a solid database solution is. For this interview, the candidate will be asked to engage in a conversation around the value that a database solution can bring to their customers. It is important that they understand why databases are important and have a baseline understanding of how they work and the marketplace in which they exist.
 
@@ -72,7 +72,7 @@ For example: Should ATM deposit show up when using smartphone to view account ac
 
 # Enterprise Account Executive
 
-## **Title of the Exercise:** **Tech Approach & SE Relations**
+## **Title: Tech Approach & SE Relations**
 
 **Overview:** This interview dives into how Account Executives approach triaging aspects of the sales process. For example, if features don’t exist, how would you handle - customer and internal. 
 
@@ -82,7 +82,7 @@ For example: Should ATM deposit show up when using smartphone to view account ac
 
 **Part 2:** Two weeks into the test, CockroachDB is not able to achieve the required SLA without making changes to the application code.  There are three different approaches to change the app; however, it is not 100% guarantee that changes will achieve the SLA, but may close the gap.  What is AE’s next step after hearing this from the Cockroach Labs technical team?   
 
-## **Title of the Exercise:** **Campaign and BD Relations**
+## **Title: Campaign and BD Relations**
 
 **Overview:** Candidate will give interviewer an overview of their cold outreach strategy. It is encouraged that the candidate leverage the whiteboard for this walk-through. 
 
@@ -106,7 +106,7 @@ For example: Should ATM deposit show up when using smartphone to view account ac
 
 - Handling objections
 
-## **Title of the Exercise:** **Field Sales Strategy**
+## **Title: Field Sales Strategy**
 
 **Overview:** Define and storyline your sales strategy. It is encouraged that the candidate leverage the whiteboard for this walk-through. 
 
@@ -126,7 +126,7 @@ For example: Should ATM deposit show up when using smartphone to view account ac
 
 - Deal
 
-## **Title of the Exercise:** **Mock Sales Presentation**
+## **Title: Mock Sales Presentation**
 
 **Overview:** The candidate will select an enterprise infrastructure or technical software product that you know well or have sold before.  The product need not be related to CockroachDB.  It is best to select a topic that enables the candidate to demonstrate strong product knowledge and confidence. Please come prepared to sell the product to Square. 
 
@@ -168,7 +168,7 @@ The candidate is expected to research the company history, product/service offer
 
 # Sales Engineer
 
-## **Title of the Exercise:**Past Experiences with Databases**
+## **Title: Past Experiences with Databases**
 
 **Overview:** This conversation is a deep-dive discussion on your technical background, specifically, your technical expertise of databases. You will be led through a discussion so the interviewer can learn from you about things they didn’t know.  For example, you should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from you what the technical reasons for the trade-offs are.
 
@@ -182,7 +182,7 @@ The candidate is expected to research the company history, product/service offer
 
 - [optional ] What is feedback on performance 
 
-## **Title of the Exercise:** **Sales Process**
+## **Title: Sales Process**
 
 **Overview:** Sales Engineers work closely with sellers and should have an in-depth understanding of the sales process and what is required. Specifically around lead generation, project management, competitive situations, and individual expectations. 
 
@@ -194,7 +194,7 @@ The candidate is expected to research the company history, product/service offer
 
 **Note:** You should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
 
-## **Title of the Exercise:** **Project Management and Product Knowledge**
+## **Title: Project Management and Product Knowledge**
 
 **Overview:**  You will walk the interviewer through the take-home exercise and discuss the 4 objectives. 
 
@@ -209,7 +209,7 @@ The objectives of the exercise are:
 4. SE’s view on architectural constraints of CockroachDB design that resulted in observed pros/cons
 
 
-## **Title of the Exercise:** **Documentation**
+## **Title: Documentation**
 
 **Overview:** You will have to read a lot of documentation. You will provide feedback on the docs on how you like the Cockroach docs vs other documentation. In this interview, you will be led through a discussion on the organizational structure of the documentation. 
 
@@ -217,7 +217,7 @@ The objectives of the exercise are:
 
 # Solutions Engineer
 
-## **Title of the Exercise:** **Sales Process**
+## **Title: Sales Process**
 
 **Overview:** Solutions Engineers work closely with Sales Engineers and should have a deeper understanding of the technical process over the sales process, using the Sales Engineer as the eyes and ears to the customer. Specifically around project and sales lifecycle success, POC management and competitive situations. 
 
@@ -233,7 +233,7 @@ The objectives of the exercise are:
 
 **Note:** Candidate should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
 
-## **Title of the Exercise:**Past Experiences with Databases**
+## **Title: Past Experiences with Databases**
 
 **Overview:** This conversation is a deep-dive discussion on your technical background, specifically, your technical expertise of databases. You will be led through a discussion so the interviewer can learn from you about things they didn’t know.  For example, you should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from you what the technical reasons for the trade-offs are.
 
@@ -249,7 +249,7 @@ The objectives of the exercise are:
 
 # Sales Operations
 
-## **Title of the Exercise:** **Driving Insights & Forecasting**
+## **Title: Driving Insights & Forecasting**
 
 **Overview:** In this exercise, you will be shared the forecast of the revenue growth for the Company. We ask that you look at this data and turn this into meaningful information that you can share with the Board. It is encouraged that you use presentation format (e.g. PowerPoint or similar). See attached for data. 
 
@@ -276,12 +276,12 @@ Please review the attached document. From this data, please derive meaningful in
 
 - 10 mins - Q&A
 
-## **Title of the Exercise:** **Financial Burn**
+## **Title: Financial Burn**
 
 **Overview:** In this interview, you will look at financial statements and be asked to figure out how to take the last 2-3 quarters of financial statements to update the current model. 
 
 
-## **Title of the Exercise:** **Incentivizing the Sales Team**
+## **Title: Incentivizing the Sales Team**
 
 **Overview:**  In this interview, we will be diving into how to set up sales compensation plans and incentivizing the sales force. 
 
@@ -311,7 +311,7 @@ Interviewer will ask you to use the worksheet to come up with a commission plan.
 
 **Part 2:** Compensation plan discussion.
 
-## **Title of the Exercise:** **Sales & Marketing Pipeline Analysis**
+## **Title: Sales & Marketing Pipeline Analysis**
 
 **Overview:** Salesforce provides the one source of truth for sales and marketing to develop a well understood connected marketing and sales funnel for the business.  There are many challenges in interpreting, making data usable and ensuring data integrity within Salesforce.
 
