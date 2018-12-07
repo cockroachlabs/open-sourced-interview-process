@@ -206,7 +206,7 @@ Coming soon
 
 - **Part 2:** What tools would you use to measure the campaigns and what would be your critical KPIs in defining success?  Please also identify how long it might take to define success.
 
-## **Title: Marketing Analytics
+## Title: Marketing Analytics
 - **Overview:** This interview will focus on looking at analytics from website traffic and determine how you would substantiate a campaign.
 
 - **Part 1:** Review website analytics with the interview and engage in a discussion about the analytics.
