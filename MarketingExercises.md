@@ -2,7 +2,7 @@
 
 - [Marketing Coordinator](#Marketing-Coordinator)
 - [Marketing Manager](#Marketing-Manager)
-- [Creative Director / Senior Designer](#Creative-Director-/-Senior-Designer)
+- [Creative](#Creative)
 - [Senior Technical Content Marketing Manager](#Senior-Technical-Content-Marketing-Manager)
 - [Product Marketing](#Product-Marketing)
 - [Demand Generation](#Demand-Generation)
@@ -56,7 +56,7 @@ edit the blog during the interview.
 you would have access to its author for clarifying questions. It does need to get across
 your vision for the story arc and demonstrate your abilities as a writer and editor.
 
-## Creative Director/Senior Designer
+## Creative
 
 ## **Title: Integrated Marketing - Portfolio Review**
 
