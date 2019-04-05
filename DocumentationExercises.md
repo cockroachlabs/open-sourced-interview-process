@@ -6,7 +6,7 @@ The following are exercises for technical writer positions.
 
 ## **Title:** **Technical Writer Technical Competency and Documentation 1 & 2**
 
-- **Overview:** For these exercises (each will be an hour), the interviewer (member of the engineering team) will explain a technical concept to you. You will learn about the topic and then explain it back to the interviewer to ensure that you understand. For the next 35-40 minutes, you will be asked to document the topic. The interviewer will come back into the room after 40 minutes for a discussion. 
+- **Overview:** For these exercises (each will be 75 minutes), the interviewer (member of the engineering team) will explain a technical concept to you. You will learn about the topic and then explain it back to the interviewer to ensure that you understand. For the next 35-40 minutes, you will be asked to document the topic. The interviewer will come back into the room after 40 minutes for a discussion. 
 
 ## **Title:** **Technical Writer Editing**
 
