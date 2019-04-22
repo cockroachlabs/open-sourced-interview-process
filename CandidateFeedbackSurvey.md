@@ -1,4 +1,4 @@
-At Cockroach Labs, we strive to aim to last and build to last. Part of that process is getting feedback from candidates on waht's going well and what we can be doing better.  After candidates come onsite with us, we send out the following 2-minute survey via CultureAmp [CultureAmp](https://www.cultureamp.com/)): 
+At Cockroach Labs, we strive to aim high and build to last. Part of that process is getting feedback from candidates on what's going well and what we can be doing better.  After candidates come onsite with us, we send out the following 2-minute survey via CultureAmp [CultureAmp](https://www.cultureamp.com/)): 
 
 
 ## Overall Impression
