@@ -9,7 +9,29 @@
 
 # Marketing Coordinator 
 
-Coming soon
+## **Title: Planning for IT tradeshow**
+
+- **Objective:** As part of our marketing plan for a major tradeshow in the IT industry, we have secured a booth in the main exhibit which comes with a set number badges for our team to attend and staff the booth. Your task is to make a plan for the management and execution of the event.
+
+- **Candidate Prep:** You will be developing a budget-driven plan to maximize our outcomes and lead generation. With this goal in mind, think about what actions you would take ahead of and during the event. Please be prepared to discuss how you would set goals for lead collection and measure success.
+
+## **Title: Campaign Development**
+
+- **Objective:** In this exercise, we will share a report our team developed on cloud service performance. Your task will be to develop a campaign to ensure the report's visibility.
+
+- **Candidate Prep:** You will be choosing which strategies and channels to leverage to promote the report. Think about how you will measure your campaign's success, what resources you will need to execute, and how you would ensure that the guide remains useful over time.
+
+## **Title: Prioritization**
+
+- **Objective:** As the Marketing Coordinator, you will often be juggling both expected and unforeseen requests.  Some of those tasks can be completed immediately and others require more planning.  Understanding how to manage and invest time to maximize your output is a critical skill set in this role.
+
+- **Candidate Prep:** You will be ranking a list of priorities in order of most urgent to least. Consider and be prepared to discuss your strategy for prioritization, what actions you might take as part of prioritization, and any relevant considerations.
+
+## **Title: Event Promotion**
+
+- **Objective:** Hosting events is an integral part of our marketing strategy. Not only do events help us evangelize the product, they also allow us to engage with the open-sourced community in a more intimate setting.
+
+- **Candidate Prep:** You will be organizing a meet-up for engineers and our Open-Source community to learn more about our technology. Please keep in mind what considerations you would consider critical to successfully executing a community event, how you would promote the event, and your timeline for event planning. Additionally, think about how you can make this event have a lasting impact upon its attendees and our objectives as a company.
 
 # Marketing Manager 
 
