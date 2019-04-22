@@ -36,10 +36,10 @@ It’s important to remember that interviews are not natural, and it’s normal 
 - Let the candidate know that we’ll be in touch about next steps (phone) or that the next person will be in shortly (onsite).  A quick thank you is always a good way to finish up!
 
 ## Some tips
-1. Communication is really hard in an interview setting. Candidates should give the interviewer access to their thought process but communicating their thought process. The interviewers will provide prompts to help the candidate through questions if they get stumped. Our objective is not to challenge a candidate to the point of discomfort, rather, open up their mind to learn about how they solve problems.  
+1. Communication is really hard in an interview setting. Candidates should give the interviewer access to their thought process by communicating it. The interviewers will provide prompts to help the candidate through questions if they get stumped. Our objective is not to challenge a candidate to the point of discomfort, rather, open up their mind to learn about how they solve problems.  
 
-2. We do not strive to assess perfect theoretical knowledge that the candidate can google when needed, or give a problem that took you 2 months to dominate yet you expect your interviewee to master in a 30 minutes conversation.
+2. We do not strive to assess perfect theoretical knowledge that the candidate can google when needed, or present a problem that took us 2 months to dominate and expect our interviewees to master in a 30 minutes conversation.
 
-3. Come prepared. If you haven’t been interviewing, run through a couple of questions with your friends so you will get back to the mentality of what it feels like to answer interview questions. 
+3. Come prepared. If you haven’t been interviewing, run through a couple of questions with your friends so that you get back into the mentality of what it feels like to answer interview questions. 
 
 4. Come with questions! The interviewer leaves time at the end of the interview to ask questions so please come with them and we will be prepared to answer as thoroughly as we can. 
