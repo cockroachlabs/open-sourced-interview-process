@@ -26,6 +26,16 @@ The following are exercises for sales positions.
 
 - Walk me through why you identified these three companies?
 
+
+## **Title: Project Management - Customer Outreach**
+
+**Please note:** This interview is a build on the Campaign Process interview. 
+
+**Overview:** When an SDR creates a cadence, the process is not simply about starting and sending. It’s building a cadence that ensures the outreach is going to be successful and not sound like spam. 
+
+**Candidate Prep:** Based on the 1-2 profiles that you built with the interviewer in the Campaign Process exercise, outline how you would tailor outreach based on your contact’s role at their company. Keep in mind that it is important for SDRs to send unique content to people in different roles and that the cadence will also shift depending on the role. Additionally, think about how would you determine if the content and cadences are effective.
+
+
 ## **Title: Campaign Process - Customer Outreach**
 
 **Overview:** Please create an outbound campaign of 3-5 steps funneling into the sales flow. Pick one company that you identified in your take-home and choose one person from the company that you would be communicating with.
