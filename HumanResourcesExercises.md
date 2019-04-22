@@ -2,7 +2,7 @@ The following are exercises for human resources positions.
 
 ## **Title: Open-Enrollment Planning**
 
-- **Overview:** Candidate will review the recently collected data from employee’s at Cockroach Labs. Interviewer will engage in a discussion with the candidate on what they would recommend for the upcoming open enrollment.
+- **Overview:** Candidate will review the recently collected data from employees at Cockroach Labs. Interviewer will engage in a discussion with the candidate on what they would recommend for the upcoming open enrollment.
 
 - **Set-up:** Recruiter will share current total compensation philosophy before coming onsite.
 
