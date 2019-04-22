@@ -16,7 +16,9 @@ The following are exercises for sales positions.
 
 ## **Title: Campaign Process - Customer Outreach**
 
-**Overview:** Please create an outbound campaign of 3-5 steps funneling into the sales flow. Pick one company that you identified in your take-home and choose one person from the company that you would be communicating with.
+**Overview:** Please create an outbound campaign of 3-5 steps funneling into the sales flow. 
+
+**Setup:** Pick one company that you identified in your take-home and choose one person from the company that you would be communicating with. You will then build out an email campaign with messaging and intended actions for the person you identified. 
 
 ## **Title: Project Management - Customer Outreach**
 
