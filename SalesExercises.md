@@ -14,18 +14,7 @@ The following are exercises for sales positions.
 
 **Candidate Setup:**
 
-- Interviewer will provide you with the verticals that they would like you to go after with the expectation that you will find three companies that fit the ICP. 
-
-- Interviewer will answer any questions you have and provide guidance before having you independently do this research.
-
-- Interviewer will give you 20 minutes to identify 3 companies before coming back into the room to discuss.  
-
-**Interviewer Question:**
-
-- What online tools did you use to identify the companies?
-
-- Walk me through why you identified these three companies?
-
+- Interviewer will provide you with the verticals that they would like you to go after with the expectation that you will find three companies that fit the ICP. You will have a chance to ask the interviewer questions before you do independent research. You will have 20 minutes to identify 3 companies before the interviewer will come back into the room to discuss. Think about what online tools you would use to identify the companies.
 
 ## **Title: Project Management - Customer Outreach**
 
