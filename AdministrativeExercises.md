@@ -2,9 +2,9 @@ The following are exercises for administrative positions.
 
 ## **Title: Activity/Event Planning**
 
-- **Set-up:** 15 minute warm-up - present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion. 
-
 - **Overview:** Cockroach Labs would like to plan an end of summer activity/event, inviting all employees. 
+
+- **Set-up:** 15 minute warm-up - present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion. 
 
 - **Part 1:** Come up with 5 concepts for a summer activity/event (i.e. Roachella, Cockroach Cares)
 
@@ -15,9 +15,9 @@ The following are exercises for administrative positions.
 
 ## **Title: Client Meetings**
 
-- **Set-up:** 15 minute warm- up and present problem, 15 minute work time, 15 minute discussion. 
-
 - **Overview:** Schedule two, one-hour client meetings for Co-Founder and VP, Engineering, Peter Mattis. Peter has not met with these individuals before so please be sure to prepare a short bio on both clients by researching publicly available information. Please also be sure to include any information that may be useful for Peter to know (i.e. areas of overlap, current focus in roles, past experience, etc.).
+
+- **Set-up:** 15 minute warm- up and present problem, 15 minute work time, 15 minute discussion. 
 
 - **Client Meetings:** 
 
@@ -38,11 +38,11 @@ The following are exercises for administrative positions.
 
 ## **Title: External Communication and Diplomacy**
 
-- **Set-up:** 15 minute warm-up and present problem, 15 minute work time, 15 minute discussion. 
-
 - **Overview:** Your first day at Cockroach Labs is Monday, August 28th. You have been shared on an email communication for an upcoming meeting on Thursday, September 8th and asked to resolve the situation. 
 
-- **Part 1**: Discuss with the interviewer about how you would resolve the situation. 
+- **Set-up:** 15 minute warm-up and present problem, 15 minute work time, 15 minute discussion. 
+
+- **Part 1**: Discuss with the interviewer how you would resolve the situation. 
 
 - **Key Participants:** 
 
@@ -61,17 +61,16 @@ The following are exercises for administrative positions.
 
 - **Overview:** Come up with a plan to provide snacks to our employees on a weekly basis.  
 
-- **Set-up:** 15 minute warm-up-present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion.  (currently we spend about $1400 a month which is about $14 per employee per week. 
+- **Set-up:** 15 minute warm-up-present problem, 15 minute work time, 15 minute discussion.  (currently we spend about $1400 a month which is about $14 per employee per week. 
 
     - Tell me a bit about yourself and what interested you in CRL.
 
     - Give context why we do snacks (minimum bar of entry for the tech industry) - what is your current experience with free food in the office?
 
-    - This job objective, straightforward but also touchy feely.  Food seems trivial but it is important and will touch everyone.
+    - This job objective is straightforward but also touchy feely.  Food seems trivial but it is important and will touch everyone.
 
 - **Part 1:** Identify snacks for the office, including communication to employees.
 
 - **Part 2:** Put together a plan to order snacks weekly to ensure we provide our employees with snacks throughout the day!
 
 - **Food Philosophy:** Food at Cockroach Labs also provides means for you to fuel your brain for whatever challenges you are tackling. Beyond meals, we strive to provide our employees with healthy snacks (avoiding heavily processed foods) that help keep you going throughout the day. In determining what snacks we provide, we take into consideration food that supports our philosophy and are appealing to a majority of employees while keeping in line with the budget allocated per employee. 
-
