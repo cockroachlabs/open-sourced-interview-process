@@ -7,11 +7,11 @@
 - [Product Marketing](#Product-Marketing)
 - [Demand Generation](#Demand-Generation)
 
-# Marketing Coordinator 
+# Events Marketing Manager
 
-## **Title: Planning for IT tradeshow**
+## **Title: Planning for re:Invent tradeshow**
 
-- **Objective:** As part of our marketing plan for a major tradeshow in the IT industry, we have secured a booth in the main exhibit which comes with a set number badges for our team to attend and staff the booth. Your task is to make a plan for the management and execution of the event.
+- **Objective:** As part of our marketing plan for re:Invent, a major tradeshow in the IT industry, we have secured a booth in the main exhibit which comes with a set number badges for our team to attend and staff the booth. Your task is to make a plan for the management and execution of the event.
 
 - **Candidate Prep:** You will be developing a budget-driven plan to maximize our outcomes and lead generation. With this goal in mind, think about what actions you would take ahead of and during the event. Please be prepared to discuss how you would set goals for lead collection and measure success.
 
@@ -23,7 +23,7 @@
 
 ## **Title: Prioritization**
 
-- **Objective:** As the Marketing Coordinator, you will often be juggling both expected and unforeseen requests.  Some of those tasks can be completed immediately and others require more planning.  Understanding how to manage and invest time to maximize your output is a critical skill set in this role.
+- **Objective:** As the Events Marketing Manager, you will often be juggling both expected and unforeseen requests.  Some of those tasks can be completed immediately and others require more planning.  Understanding how to manage and invest time to maximize your output is a critical skill set in this role.
 
 - **Candidate Prep:** You will be ranking a list of priorities in order of most urgent to least. Consider and be prepared to discuss your strategy for prioritization, what actions you might take as part of prioritization, and any relevant considerations.
 
