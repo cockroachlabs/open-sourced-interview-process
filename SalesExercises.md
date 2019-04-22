@@ -28,47 +28,7 @@ The following are exercises for sales positions.
 
 ## **Title: Campaign Process - Customer Outreach**
 
-**Overview:** You will be asked to set-up an outbound email campaign (cadence) for the companies you targeted in your first exercise. [Worksheet for Candidate Exercise](https://docs.google.com/a/cockroachlabs.com/document/d/10SJtP7leugjGnxZeaZjrJOOM-8A_OL13wodY1yC9eLQ/edit?usp=sharing) (Worksheet provided onsite.)
-
-**You will be asked to create is asked to create:**
-
-- A 5-action campaign cadence (including at least 3 messages) on paper.
-
-- Three messages directed at one target company including selecting relevant content that would be of interest the customer (for example: blog posts, events, white papers, news articles).
-
-- A timeline for the execution of the campaign.
-
-**Interview Questions:**
-
-- Walk me through the campaign process that you defined.
-
-## **Title: Technical Acumen - Value of a Database**
-
-**Overview:** It is important that the candidate understands the value of what a solid database solution is. For this interview, the candidate will be asked to engage in a conversation around the value that a database solution can bring to their customers. It is important that they understand why databases are important and have a baseline understanding of how they work and the marketplace in which they exist.
-
-**Set-up:** Recruiter will send database resources to the candidate and ask them to read the resources in preparation of having a conversation about databases.
-
-- Interviewer will open the conversation with the candidate engaging in dialogue around the following areas:
-
-    - Value of a database.
-
-    - How a database operates.
-
-    - What a database feature is and how it works.
-
-    - Value proposition of CockroachDB vs competitors. 
-
-**Interview Question:**
-
-- Imagine using an ATM to deposit a check.  Couple of minutes later,  use a smartphone to review the account activity and send money overseas to a friend.  
-
-- Steps though the interactions and describe database interactions.  
-For example: Insert Bank Card into the ATM.  Is there a database interaction and what are information to/from the database?
-
-- What properties would be required by database and why are those properties important.
-For example: Should ATM deposit show up when using smartphone to view account activity and why or why not?
-
-- Describe another industry and/or process aside from banking where these activities and properties are important?
+**Overview:** Please create an outbound campaign of 3-5 steps funneling into the sales flow. Pick one company that you identified in your take-home and choose one person from the company that you would be communicating with.
 
 # Enterprise Account Executive
 
