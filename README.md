@@ -47,7 +47,7 @@ The following content will provide both candidates and recruiters with valuable 
 
 We aim to have our interview process take an average of 3 weeks from start to finish.  Between each step of the interview process, we ask for at most 3 business days for us to to make a decision, but at any point during the interview process, please feel comfortable reaching out to us for updates on your candidacy. 
 
-Throughout our interview process, it is important to remember that after the Recruiter Phone Screen, the candidate's resume and the recruiter's notes will not be shared with the hiring team. This is one of the ways that we focus on the skills candidates show during the exercises, rather than their past experience. Learn more about this here: "[How We're Fighting Unconscious Bias](https://www.cockroachlabs.com/blog/fighting-unconscious-bias-cockroach-labs/)."
+Throughout our interview process, it is important to remember that after the Recruiter Phone Screen, the candidate's resume and the recruiter's notes will not be shared with the hiring team. This is one of the ways that we focus on the skills candidates show during the exercises rather than their past experience. Learn more about this here: "[How We're Fighting Unconscious Bias](https://www.cockroachlabs.com/blog/fighting-unconscious-bias-cockroach-labs/)."
 
 1. **Candidate Application:** Applicants receive an automated message from the Applicant Tracking System (in this case, [Greenhouse](https://www.greenhouse.io)) to confirm receipt of their application. The note thanks them for submitting their information and contains a Cockroach Labs Company Guide that gives applicants an inside look into the company culture.
 
@@ -57,14 +57,14 @@ Throughout our interview process, it is important to remember that after the Rec
 
 4. **Take-home Exercise and/or Phone Interview**
 
-    - **Take-home Exercise:** The take-home exercise typically takes 1-2 hours to complete and allows the hiring manager or a memeber of the team to review a candidate’s skills before proceeding to the next step of the hiring process. The take-home exercise replaces one onsite interview, equaling one hour of engagement.  
+    - **Take-home Exercise:** The take-home exercise typically takes 1-2 hours to complete and allows the hiring manager or a member of the team to review a candidate’s skills before proceeding to the next step of the hiring process. The take-home exercise replaces one onsite interview, equaling one hour of engagement.  
 
     - **Phone Interview:** The 1-hour phone interview with a member of the team covers skills related to the specific role or to review the take-home exercise. For technical phone interviews, we use Google Hangouts and [coderpad.io](http://coderpad.io/) and cover coding and debugging, algorithms, and data structures.
 
 
-5. **In-person Interviews:** The next step in the interview process is an onsite interview. The onsite interview team consists of people that would be on the candidate's direct team and people on cross-functional teams too. The recruiter will share an overview of who the candidate will be meeting with. The interview itself has 4-5 exercise based interviews, with a break in the middle for lunch with a member of the team. Each session runs an hour long, including lunch, which is a time for candidates to take a break, relax, and get a feel for our culture at Cockroach Labs. 
+5. **In-person Interviews:** The next step in the interview process is an onsite interview. The onsite interview team consists of people that would be on the candidate's direct team and people on cross-functional teams, too. The recruiter will share an overview of the team members with whom the candidate will be meeting. The interview itself has 4-5 exercise based interviews, with a break in the middle for lunch with a member of the team. Each session runs an hour long, including lunch, which is a time for candidates to take a break, relax, and get a feel for our culture at Cockroach Labs. 
 
-6. **Candidate Survey:** Once the candidate comes onsite, the recruiter will send the candidate a link to complete our candidate survey.  By filling out this short 2-minute survey, candidates help us iterate on our interview process.  
+6. **Candidate Survey:** Once the candidate comes onsite, the recruiter will send the candidate a link to complete our candidate survey. By filling out this short 2-minute survey, candidates help us iterate on our interview process.  
 
 7. **Hiring Committee Review:** After the onsite interview is complete, feedback from the interview process is shared across the interview team. Interview team members review the feedback and independently reach a decision of hire/no-hire based on the comprehensive feedback. At the HC review, the interview team reaches a consensus on whether to reject the candidate or proceed with reference calls.
 
@@ -108,7 +108,7 @@ These files provide a deep-dive into the various stages of the interview process
 
 ## Challenging our Unconscious Bias
 
-In the effort of building a diverse workforce, at Cockroach Labs, we ask the question "are we missing strong candidates because of preconceptions or unconscious biases of the interviewer?" To challenge our bias, we have committed to:
+In the effort of building a diverse workforce, at Cockroach Labs, we ask the question: "are we missing strong candidates because of preconceptions or unconscious biases of the interviewer?" To challenge our bias, we have committed to:
 
 1. Exercise based interviewing
 
@@ -120,9 +120,9 @@ Our hypothesis is that a structured and fair process means better decisions. We 
 
 ## Exercise Based Interview Questions
 
-The purpose of an interview is to obtain information about a candidate in order to predict future performance. To accomplish this, we rely on Exercise-Based Interviewing. Exercise based interviews can include case studies, group exercises involving role play or discussions, individual exercises, or presentations. They allow for our interviewers to witness the direct application of a candidate’s abilities to competencies required for the role. Rather than guess if a candidate can do the job based on their answers to behavioral questions, we ask for candidates to show. During the interview, candidates are asked to complete exercises that are similar to the initiatives they would complete when actually working in the position on a day to day basis.
+The purpose of an interview is to obtain information about a candidate in order to predict future performance. To accomplish this, we rely on Exercise-Based Interviewing. Exercise-based interviews can include case studies, group exercises involving role play or discussions, individual exercises, or presentations. They allow for our interviewers to witness the direct application of a candidate’s abilities to competencies required for the role. Rather than guess if a candidate can do the job based on their answers to behavioral questions, we ask for candidates to show. During the interview, candidates are asked to complete exercises that are similar to the initiatives they would complete when actually working in the position on a day to day basis.
 
-For engineering positions, we use coding and system design questions. For non-tech, we use job-based simulations in the form of case studies, individual exercises, and/or presentations. 
+For engineering positions, we use coding and system design questions. For non-tech, we use job-based simulations in the form of case studies, individual exercises, and/or presentations.
 
 For more information about the different exercises we use in our interview process, please review the different department areas. 
 
@@ -148,7 +148,7 @@ For more information about the different exercises we use in our interview proce
 
 ## Contributing to the Interview Process Guide
 
-If you’d like to contribute an interview exercise, please follow the template below, then either submit a pull request on the correct file for the departments listed or email it to recruiting@cockroachlabs.com to be added to the file. Please note, if they department file does not exists, email recruiting@cockroachlabs.com so we can create it for you. 
+If you’d like to contribute an interview exercise, please follow the template below, then either submit a pull request on the correct file for the departments listed or email it to recruiting@cockroachlabs.com to be added to the file. Please note, if the department file does not exist, email recruiting@cockroachlabs.com so that we can create it for you. 
 
 **Interview Exercise Template:** 
 
