@@ -1,8 +1,8 @@
 ### Job Descriptions
 
-At Cockroach Labs, we want to ensure our job descriptions give you a clear picture of the role that you’re applying for. Goals of our job descriptions:
+At Cockroach Labs, we want to ensure our job descriptions give you a clear picture of the role for which you’re applying. Goals of our job descriptions:
 
-1. Insight into the primary responsibilities of the role and the team your would be working with.  
+1. Insight into the primary responsibilities of the role and the team with which you would be working.  
 2. Give you an understanding of the experience you need to be successful in the role. 
 3. Set clear expectations for your first three months.
 
