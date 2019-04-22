@@ -1,6 +1,6 @@
 # Marketing Exercises
 
-- [Marketing Coordinator](#Marketing-Coordinator)
+- [Events Marketing Manager](#Events-Marketing-Manager)
 - [Marketing Manager](#Marketing-Manager)
 - [Creative](#Creative)
 - [Senior Technical Content Marketing Manager](#Senior-Technical-Content-Marketing-Manager)
