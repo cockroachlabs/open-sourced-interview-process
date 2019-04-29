@@ -1,93 +1,28 @@
 The following are exercises for human resources positions.
 
-## **Title: Open-Enrollment Planning**
+## **Title: Open-Enrollment Planning (60 minutes)**
 
-- **Overview:** Candidate will review the recently collected data from employees at Cockroach Labs. Interviewer will engage in a discussion with the candidate on what they would recommend for the upcoming open enrollment.
+- **Objective:** You will be planning our next open-enrollment rollout using recently collected employee engagement data.
 
-- **Set-up:** Recruiter will share current total compensation philosophy before coming onsite.
+- **Candidate Prep:** This exercise will gauge how you approach benefits administration. For the interview, think about how you would put together a robust benefits package, key stakeholders in the plan's development, and how you would measure its efficacy. You should also keep in mind how you would develop a timeline and communication plan for the rollout.
 
-    -  5 mins: Introductions and overview of the interview.
+## **Title: Setting/Measuring Initiatives (60 minutes)**
 
-    -  10 mins: Candidate is presented additional data. Interviewer talks through the data  with them. The candidate can ask any clarifying questions regarding the exercise (if necessary). 
+- **Objective:** You will give an overview of your take-home exercise, in which you are to propose 3 initiatives for the People Operations team based on data you will receive with the take-home prompt. You will discuss your plan(s) in greater depth during this exericse.
 
-    -  20 mins: Given our total compensation philosophy, what are some things that you would suggest for our upcoming Open Enrollment? Think 2-3 years down the line as we scale. How would you scale our Open Enrollment program?
-
-    -  10 mins: Create a structure for the Open Enrollment rollout. 
-
-    -  5 mins: Review the plan. 
-
-    -  10 mins: Q&A
-
-- **Part 1:** Interviewer will present feedback from employee survey. Give the candidate 5 minutes to ask any questions and ask what their suggestions would be. 
-
-- **Part 2:** Ask the candidate to set-up a rollout for Open Enrollment. 
+- **Candidate Prep:** You should be prepared to discuss your plan for the initiative(s) and how you would implement them. During this exercise, it will be important to consider how you would measure your initiative's success, how you would achieve employee engagement, and how you would communicate the initiative(s) to the company.
 
 
-## **Title: Setting/Measuring Initiatives**
+## **Title: Partnership and Performance (60 minutes)**
 
-- **Overview:** This interview will leverage the take-home exercise. The candidate has been asked to come prepared to give an overview of the take-home exercise, specifically, the top 3 initiatives they suggested for the People Operations team to focus on in the upcoming year. The candidate is asked to come prepared with a plan to build out the initiatives and can choose to either go broad and focus on all 3 initiatives or focus on 1 initiative. The candidate can come prepared with notes or any format that allows them to engage in discussing the plan. A whiteboard is also available. The discussion should last ~20 minutes. 
+- **Objective:** A candidate for this role is expected to be a successful business partner with our department heads. In this interview, you and your interviewer will discuss an employee who is struggling on the team. This is the initial meeting with the manager (your interviewer), who is presenting the employee issue to you.
 
-- **Set-up:** Recruiter will share current total compensation philosophy before coming onsite.
-
-    -  5 mins: Introductions and overview of the interview.
-
-    -  5 mins: Candidate can ask any clarifying questions regarding the exercise (if necessary).
-
-    -  10 mins: Present the top 3 initiatives they suggested based on the Employee Engagement Survey. 
-
-    -  15 mins: Review plan to build out initiatives. They can choose to go broad or focus on 1 initiative. They should have examples and a plan to measure ROI.
-
-    -  10 mins: Communication plan for employees (written). 
-
-    -  10 mins: Q&A
-
-- **Part 1:** Present top 3 initiatives, planning, and measuring ROI.
-
-- **Part 2:** [Curveball] 
+- **Candidate Prep:** In this exercise, you will strategize with the employee's manager regarding how to achieve the best-case-scenario for this employee, their team, and the company as a whole. You should serve as an advisor to the manager and feel free to ask any questions that will help you devise next steps for the employee. Keep in mind how you would ensure successful execution of your plan, communication best-practices during performance reviews, and potential outcomes.
 
 
-## **Title: Partnership and Performance**
+## **Title: Cultural Initiatives (60 minutes)**
 
-- **Overview:** A candidate for this role is expected to be a successful business partner with our department heads. In this interview, the interviewer and the candidate will discuss an employee who is struggling on the team. This is the initial meeting with the manager and the manager is presenting the employee issue. 
+- **Objective:** The interview will leverage the take-home exercise by planning a Learning and Development workshop around what aspects of company culture need to be improved most. You will be given a list of seminars and asked to make decisions on which to implement in order to make necessary improvements. Your interviewer will serve as a representative from a third-party professional development company.
 
-- **Set-up:** 
-
-    -  5 mins: Introductions and overview of the interview.
-
-    -  5 mins: Candidate can ask any clarifying questions regarding the exercise (if necessary).
-
-    -  20 mins: Role playing. Interviewer presents that the employee, a software engineer, is struggling on the current project they are working on. 
-
-    -  10 mins: Curveball
-
-    -  10 mins: Q&A
-
-- **Part 1:** Role playing details for interviewer.  
-
-- **Part 2:** Curveball
-
-
-## **Title: Cultural Initiatives**
-
-- **Overview:** The interview will leverage the take-home exercise by planning a Learning and Development workshop around what aspects need to be improved the most. The candidate will be given a list of seminars and the interviewer will walk through the rollout of the seminars. 
-
-- **Set-up:** 
-
-    -  5 mins: Introductions and overview of the interview.
-
-    -  5 mins: Candidate can ask any clarifying questions regarding the exercise (if necessary).
-
-    -  15 mins: Candidate reviews the various workshops and chooses which to schedule for Q1 and Q2.  They should also plan the sequence in which the workshops are scheduled.
-
-    -  15 mins: Review decisions and discuss some customization questions.
-
-    -  10 mins: Curveball 
-
-    -  10 mins: Q&A
-
-- **Part 1:** The candidate will share what decisions they have made, while the interviewer asks questions.  
-
-- **Part 2:** Curveball
-
-
+- **Candidate Prep:** You will be demonstrating your ability to strategically target areas of improvement for our team. Be prepared to discuss with your interviewer how you will tailor these intiatives to both management and individual contributors, how you would communicate these intitiatives to the company, and why you decided upon your chosen workshops. Think about what outcomes you hope to achieve from these workshops.
 
