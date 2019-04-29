@@ -33,6 +33,8 @@ The following content will provide both candidates and recruiters with valuable 
 
 - Please note, around 10-20% of each interview is spent on a curve-ball question that we do not include in the exercises. While you can come prepared for a majority of the interview, we also like to see how you think on your feet.
 
+- Throughout the interview process, we enourage you to share your thought process with your interviewers. This will enable you to put your creativity and approach to problem-solving on display!
+
 **For Recruiters:**
 
 - Leverage the Cockroach Labs interview process and questions for your company’s hiring process. If you would like access to the curveball questions or rubrics, please reach out direct to recruiting@cockroachlabs.com, and we will be happy to share them with you.
