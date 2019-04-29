@@ -1,6 +1,6 @@
 The following are exercises for technical writer positions.
 
-## **Title:** **Technical Writer Information Design **
+## **Title:** **Technical Writer Information Design (60 minutes)**
 
 - **Objective:** You will be asked to explain a topic of your choice to the interviewer. The topic can be anything you’d like, but make sure to pick a topic that you know a lot about - anything from how a database works, to how dogs are trained, to the work of a specific author.
 
