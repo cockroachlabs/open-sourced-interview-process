@@ -1,60 +1,24 @@
 The following are exercises for administrative positions.
 
-## **Title: Activity/Event Planning**
+## **Title: Activity/Event Planning (45 minutes)**
 
-- **Overview:** Cockroach Labs would like to plan an end of summer activity/event, inviting all employees. 
+- **Objective:** You will brainstorm 5 concepts for a company-wide summer event and plan one of those concepts in greater detail.
 
-- **Set-up:** 15 minute warm-up - present problem, discuss concepts for the event, 15 minute work time, 15 minute discussion. 
-
-- **Part 1:** Come up with 5 concepts for a summer activity/event (i.e. Roachella, Cockroach Cares)
-
-- **Part 2:** Plan the event (see worksheet)
-
-- **Considerations:** Based on the culture at Cockroach Labs, please define what type of activity/event it should be (formal vs informal). 
+- **Candidate Prep:** In order to successfully plan this event, keep in mind what you've learned about Cockroach Labs from your research and the interview process thus far. Consider what steps should be taken to ensure success before and during the event as well as what your event will accomplish for the company and your colleagues.
 
 
-## **Title: Client Meetings**
+## **Title: Client Meetings (45 minutes)**
 
-- **Overview:** Schedule two, one-hour client meetings for Co-Founder and VP, Engineering, Peter Mattis. Peter has not met with these individuals before so please be sure to prepare a short bio on both clients by researching publicly available information. Please also be sure to include any information that may be useful for Peter to know (i.e. areas of overlap, current focus in roles, past experience, etc.).
+- **Objective:** You will be scheduling two, one-hour client meetings with executives at Goldman Sachs and Oscar Health for our CTO, Peter Mattis, in order to demonstrate the support and coordination skills needed for this role.
 
-- **Set-up:** 15 minute warm- up and present problem, 15 minute work time, 15 minute discussion. 
-
-- **Client Meetings:** 
-
-    - Oscar Health - Alan Warren
-
-    - Goldman Sachs - R. Martin Chavez
-
-- **Considerations:**
-
-    - Peter typically arrives at the office by 9am. He is traveling from his home in Connecticut via train and takes 4/5/6 from Grand Central.
-
-    - Peter prefers commuting via car, not public transportation for meetings. 
-
-    - Peter likes to have 10 minutes of buffer time before the meetings so he does not feel like he is rushed. 
-
-    - Peter’s LinkedIn: [https://www.linkedin.com/in/peter-mattis-46549144](https://www.linkedin.com/in/peter-mattis-46549144)
+- **Candidate Prep:** As part of this exercise, you should be prepared to account for Peter's travel preferences, his schedule throughout the day, and to provide him with information on the people he will be meeting.
 
 
-## **Title: External Communication and Diplomacy**
+## **Title: External Communication and Diplomacy (45 minutes)**
 
-- **Overview:** Your first day at Cockroach Labs is Monday, August 28th. You have been shared on an email communication for an upcoming meeting on Thursday, September 8th and asked to resolve the situation. 
+- **Objective:** You will resolve a communication misstep with a client ahead of an important meeting between the client and our founders.
 
-- **Set-up:** 15 minute warm-up and present problem, 15 minute work time, 15 minute discussion. 
-
-- **Part 1**: Discuss with the interviewer how you would resolve the situation. 
-
-- **Key Participants:** 
-
-    - Founders: Ben Darnell, Peter Mattis and Spencer Kimball
-
-    - EA from XCoast (a small but valuable investor): Charlie Brown
-
-- **Part 2**: Worksheet (below). Create a communication plan to resolve the situation below. If you have communication via phone or email, be sure to include the communication and any details. 
-
-    - How would you ensure this would not happen again.
-
-- **Part 3:** Use best judgement to bucket items as confidential or public. Some of these are easier to determine than others. Discuss.
+- **Candidate Prep:** Client service and professionalism are important elements of this role. For this exercise, think about how you would resolve miscommunication, prevent it from happening in the future, and ensure the client's continued confidence in the company. Be prepared to discuss the media you would use to resolve this issue.
 
 
 ## **Title:** **Internal Communication & Strategy**
