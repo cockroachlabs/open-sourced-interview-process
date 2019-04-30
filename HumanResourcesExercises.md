@@ -22,7 +22,7 @@ The following are exercises for human resources positions.
 
 ## **Title: Cultural Initiatives (60 minutes)**
 
-- **Objective:** The interview will leverage the take-home exercise by planning a Learning and Development workshop around what aspects of company culture need to be improved most. You will be given a list of seminars and asked to make decisions on which to implement in order to make necessary improvements. Your interviewer will serve as a representative from a third-party professional development company.
+- **Objective:** This interview will leverage the take-home exercise by planning a Learning and Development workshop around what aspects of company culture need to be improved most. You will be given a list of seminars and asked to make decisions on which to implement in order to make necessary improvements. Your interviewer will serve as a representative from a third-party professional development company.
 
 - **Candidate Prep:** You will be demonstrating your ability to strategically target areas of improvement for our team. Be prepared to discuss with your interviewer how you will tailor these intiatives to both management and individual contributors, how you would communicate these intitiatives to the company, and why you decided upon your chosen workshops. Think about what outcomes you hope to achieve from these workshops.
 
