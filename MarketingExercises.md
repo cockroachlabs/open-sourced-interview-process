@@ -37,46 +37,30 @@
 
 ## **Title: Blog Content & Collaboration** 
 
-- **Overview:** The purpose of the exercise is to see how you work across teams and we will be leveraging the
+- **Objective:** The purpose of the exercise is to see how you work across teams and we will be leveraging the
 blog as a medium to discuss this. You will be tasked with extracting information from the
 interviewer (in this case, the Chief People Officer) and then will be asked to use this info to
-create an outline for a blog post. The topic of the post will be provided once onsite but it will surround Cockroach Labs values so please take a look at our careers page. 
+create an outline for a blog post. The topic of the post will be provided once onsite, but it will surround Cockroach Labs values, so please take a look at our careers page. 
 
-Please also discuss how you would promote the post, including which mediums and the cadence of
-posting.
+- **Candidate Prep:** The purpose of the exercise is to see how you work across teams and we will be leveraging the
+blog as a medium to discuss this. For this exercise, you should think about how you effectively structure content, serve as a partner to your colleagues to meet shared goals, and the frequency and methods you would use to promote the content you create.
 
 ## **Title: Project Management - White Paper Launch** 
 
-- **Overview:** The content marketing team will be publishing a white paper (e-book) on network
-latency impact on application performance. Walk me through the process from creating the
+- **Objective:** The content marketing team will be publishing a white paper (e-book) on network
+latency impact on application performance. You will walk your interviewer through the process from creating the
 paper through 30-days after it has been published.
 
-- **Part 1:** How do you get a white paper from concept to finished product?
-
-- **Part 2:** Your white paper is complete. How will you get eyes on it? For this portion of the exercise, you
-only need to account for budget on promotional spend.
+- **Candidate Prep:** You will be developing a plan of action for outlining, writing, publishing, and ultimately promoting a white paper for the company. Ahead of this exercise, you should think about how you would ensure the paper's production on schedule, who should be involved in the process, and how you will promote it upon publication.
 
 ## **Title: Content Editing** 
 
-- **Overview:** The Cockroach Labs Blog allows a look under-the-hood of the architecture, design decisions,
-and culture of CockroachDB. Editing and revising is a collaborative process. Many of the posts
-are written by engineers and are edited and approved by the Director of Marketing and a
-selected group of peers.
+- **Objective:** As part of this exercise, we will share with you a draft of a blog post (provided onsite) that will run
+on our blog. Your task is to edit it and present your revisions as well as a publishing and promotion strategy.
 
-- **Part 1:** As part of this exercise, we’ll share with you a draft of a blog post (provided onsite) that will run
-on our blog. Your task is to edit it and present your revisions as well as a publishing strategy.
-How will you get this blog in front of an interested audience? You’ll have about 30 minutes to
-edit the blog during the interview.
-
-- **Goals of the Cockroach Labs Blog**
-    - Attract readers to our blog.
-    - Inform potential users about features of CockroachDB.
-    - Create evangelists out of every employee.
-    
-- **Considerations**
-    - The edit does not have to be fact-perfect. This is a technical post, and in the real world,
-you would have access to its author for clarifying questions. It does need to get across
-your vision for the story arc and demonstrate your abilities as a writer and editor.
+- **Candidate Prep:** The Cockroach Labs Blog allows a look under-the-hood of the architecture, design decisions,
+and culture at CockroachDB. Editing and revising is a collaborative process. Many of the posts
+are written by engineers and edited by the Director of Marketing and peers with the goal of attracting readers, informing prospective users about our product features, and creating evangelists out of every member of our team. With this goal in mind, think about how you would edit material for promotional purposes. You should also be prepared to discuss how best to roll out a new post and make sure people see it.
 
 # Creative
 
