@@ -66,20 +66,14 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 ## **Title: Integrated Marketing - Portfolio Review**
 
-- **Overview:** You will select a multi-asset campaign from their portfolio to review with the interviewer. These could be multiple assets from an event, ad/sponsored campaign, digital and print assets from a launch, etc. Some examples: 
+- **Objective:** Your will select a multi-asset campaign from your portfolio to review with your interviewer. These could be multiple assets from an event, ad/sponsored campaign, digital and print assets from a launch, etc. Some examples: 
     - web page + booth + printed assets
     - Ads + email + webpage + printed content
     - Infographic + ads + guide
-    - Please note: It is encouraged that you share a campaign that includes print, digital, and environmental. If you do not have an example of this, no problem. Bring what you would like to share the most. 
+    - Please note: It is encouraged that you share a campaign that includes print, digital, and environmental media. If you do not have an example of this, no problem. Bring what you would like to share the most. 
 
-- **Part 1:** Review Work - Intgrated Marketing. Be prepared to explain the design decisions made building out multiple assets all connected to a single campaign. The following are examples of questions asked in this section:
-    - What was the goal of this project? What steps did you take to accomplish this goal?
-    - Walk me through your creative process. What was your approach to the design process for this work?
+- **Candidate Prep:** Be prepared to explain the design decisions made building out multiple assets all connected to a single campaign. What were your objectives throughout the campaign and what steps did you take to achieve them? Think about what your creative process is and how you ensure your collaborators' success, as well.
 
-- **Part 2:** Project Management. The following are examples of questions asked in this section:
-    - What is your process for making your designs a reality? 
-    - How do you set external resources up for success?  
-    
 ## **Title: Product and Creative Engagement**
 
 - **Overview:** In this interview, we will give you a chance to show how you can take real product screens, and extract the core visual elements that communicate their value to users.
