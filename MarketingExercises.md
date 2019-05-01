@@ -78,13 +78,9 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 ## **Title: Brand and Systems Management**
 
-- **Overview:** This role will be a primary voice and stakeholder for the Cockroach brand.  As such the Senior Designer will oversee the design and execution of all digital, print, display and collateral designs.  An important element of being at a young B2B company is to be able to make smart decisions in a fast moving environment that has a focus on shipping creative/content. 
+- **Objective:** You will be having a conversation with the Chief Marketing Officer surrounding to core competencies for this role: 1) how you leverage your skills to maximize marketing effectiveness for highly technical solutions and remain consistently on brand and 2) How you deliver on-brand creative while ensuring a fast creative shipping environment.
 
-- **Set-up:** CockroachDB is a highly technical product in a highly technical industry.  We are primarily focused on two personas, developers and IT decision makers such as Chief Architect and CIO.  Breaking through to the attention of these audiences is particularly challenging in that they are extremely jaded and marketing wary.  Visual brand consistency is an important element to develop a solid brand ID with the limited promotional vehicles available.
-
-- **Part 1:** Technical Audience Communications. How do you leverage your skills to maximize marketing effectiveness for such a highly technical solution and remain consistently on brand?
-
-- **Part 2:** Quality and Speed. How do you deliver on brand creative while ensuring a fast creative shipping environment?
+- **Candidate Prep:** This role serve as a primary voice and stakeholder for the Cockroach brand.  As such, the Senior Designer will oversee the design and execution of all digital, print, display, and collateral content.  An important element of being at a young B2B company is being able to make smart decisions in a fast-moving environment with a focus on shipping creative content. Given that CockroachDB is a highly technical product in a highly technical industry, we target two personas: developers and IT decision-makers (such as Chief Architects and CIOs).  Getting these audiences' attention is particularly challenging-- they are jaded and marketing wary. Visual brand consistency is important to developing a solid brand ID with the limited promotional vehicles available. Think about how you approach the above-mentioned competencies with these goals in mind.
 
 ## **Title: Take-home Exercise & Onsite: Email & Landing Page Design**
 
