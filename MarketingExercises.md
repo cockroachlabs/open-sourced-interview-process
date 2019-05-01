@@ -58,7 +58,7 @@ paper through 30-days after it has been published.
 - **Objective:** As part of this exercise, we will share with you a draft of a blog post (provided onsite) that will run
 on our blog. Your task is to edit it and present your revisions as well as a publishing and promotion strategy.
 
-- **Candidate Prep:** The Cockroach Labs Blog allows a look under-the-hood of the architecture, design decisions,
+- **Candidate Prep:** The Cockroach Labs Blog provides an under-the-hood look into the architecture, design decisions,
 and culture at CockroachDB. Editing and revising is a collaborative process. Many of the posts
 are written by engineers and edited by the Director of Marketing and peers with the goal of attracting readers, informing prospective users about our product features, and creating evangelists out of every member of our team. With this goal in mind, think about how you would edit material for promotional purposes. You should also be prepared to discuss how best to roll out a new post and make sure people see it.
 
