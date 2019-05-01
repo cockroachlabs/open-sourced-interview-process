@@ -87,7 +87,7 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 - **Candidate Prep:** Driving lead activity is a critical element of marketing’s role within Cockroach Labs.  Our content is a great asset for engaging our prospects and the community, but if they aren’t aware of new content, then its value is underleveraged. For this exercise, you should think about how to effectively direct your audience, layer content to convey its relevance, and ensure that your landing page supports engagement. Make sure to leverage the Cockroach Labs style guide to ensure brand consistency.
 
-Once onsite, you should be prepared to discuss your creative process, what you hoped to achieve with your work, and how you went about accomplishing that goal. More generally, think about how you take designs from concept to reality and how you collaborate with others throughout the creative process to achieve success.
+    Once onsite, you should be prepared to discuss your creative process, what you hoped to achieve with your work, and how you went about accomplishing that goal. More generally, think about how you take designs from concept to reality and how you collaborate with others throughout the creative process to achieve success.
 
 # Product Marketing
 
