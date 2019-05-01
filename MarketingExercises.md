@@ -80,23 +80,14 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 - **Objective:** You will be having a conversation with the Chief Marketing Officer surrounding to core competencies for this role: 1) how you leverage your skills to maximize marketing effectiveness for highly technical solutions and remain consistently on brand and 2) How you deliver on-brand creative while ensuring a fast creative shipping environment.
 
-- **Candidate Prep:** As a creative designer, you would serve as a primary voice and stakeholder for the Cockroach brand.  As such, this role involves overseeing the design and execution of all digital, print, display, and collateral content.  An important element of being at a young B2B company is being able to make smart decisions in a fast-moving environment with a focus on shipping creative content. Given that CockroachDB is a highly technical product in a highly technical industry, we target two personas: developers and IT decision-makers (such as Chief Architects and CIOs).  Getting these audiences' attention is particularly challenging-- they are jaded and marketing wary. Visual brand consistency is important to developing a solid brand ID with the limited promotional vehicles available. Think about how you approach the above-mentioned competencies with these goals in mind.
+- **Candidate Prep:** As a creative designer, you would serve as a primary voice and stakeholder for the Cockroach brand.  As such, this role involves overseeing the design and execution of all digital, print, display, and collateral content.  Being at a young B2B company, you will have to make smart decisions in a fast-moving creative environment. Given that CockroachDB is a highly technical product in a highly technical industry, we target two personas: developers and IT decision-makers (such as Chief Architects and CIOs).  Getting these audiences' attention is particularly challenging-- they are jaded and marketing wary. Visual brand consistency is important to developing a solid brand ID with the limited promotional vehicles available. Think about how you approach the above-mentioned competencies with these goals in mind.
 
 ## **Title: Take-home Exercise: Email & Landing Page Design**
 
 - **Objective:** Your task is to redesign the email and landing page for a campaign promoting Cockroach Labs content with an eye towards making clear calls to action and communicating efficiently to inspire engagement.
 
-- **Candidate Prep:** Driving lead activity is a critical element of marketing’s role within Cockroach Labs.  Our content is a great asset for engaging our prospects and the community, but if they aren’t aware of new content, then its value is underleveraged. For this exercise, you should think about how to effectively direct your audience, structure content 
+- **Candidate Prep:** Driving lead activity is a critical element of marketing’s role within Cockroach Labs.  Our content is a great asset for engaging our prospects and the community, but if they aren’t aware of new content, then its value is underleveraged. For this exercise, you should think about how to effectively direct your audience, layer content to convey its relevance, and ensure that your landing page supports engagement. Make sure to leverage the Cockroach Labs style guide to ensure brand consistency.
 
-- **Take-home Exercise Goal:** 
-    - Provide clear actions to the email recipient.
-    - Layer the pertinent information so the reader can decide of the content is relevant to them.
-    - Ensure that the landing page experience supports the continued engagement of content.
-
-- **Take-home Exercise Considerations:** 
-    - Leverage the Cockroach Labs style guide to ensure brand consistency.
-    - Please be prepared to explain the design motivations and decisions made during the creative process.
-    
 ## **Title: Take-home Onsite Review**
 
 - **Objective:** You will be asked to explain your process and decisions while completing the take-home exercise. You will also be asked to bring an additional piece of work to share with the interviewer and discuss it.
