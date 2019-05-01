@@ -3,7 +3,6 @@
 - [Events Marketing Manager](#Events-Marketing-Manager)
 - [Marketing Manager](#Marketing-Manager)
 - [Creative](#Creative)
-- [Senior Technical Content Marketing Manager](#Senior-Technical-Content-Marketing-Manager)
 - [Product Marketing](#Product-Marketing)
 - [Demand Generation](#Demand-Generation)
 
@@ -93,10 +92,6 @@ are written by engineers and edited by the Director of Marketing and peers with 
 - **Objective:** You will be asked to explain your process and decisions while completing the take-home exercise. You will also be asked to bring an additional piece of work to share with the interviewer and discuss it.
 
 - **Candidate Prep:** As part of this exercise, you should be prepared to discuss your creative process, what you hoped to achieve with your work, and how you went about accomplishing that goal. More generally, think about how you take designs from concept to reality and how you collaborate with others throughout the creative process to achieve success.
-
-# Senior Technical Content Marketing Manager
-
-Coming soon
 
 # Product Marketing
 
