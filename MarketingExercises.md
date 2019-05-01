@@ -66,13 +66,9 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 ## **Title: Integrated Marketing - Portfolio Review**
 
-- **Objective:** Your will select a multi-asset campaign from your portfolio to review with your interviewer. These could be multiple assets from an event, ad/sponsored campaign, digital and print assets from a launch, etc. Some examples: 
-    - web page + booth + printed assets
-    - Ads + email + webpage + printed content
-    - Infographic + ads + guide
-    - Please note: It is encouraged that you share a campaign that includes print, digital, and environmental media. If you do not have an example of this, no problem. Bring what you would like to share the most. 
+- **Objective:** Your will select a multi-asset campaign from your portfolio to review with your interviewer. These could be multiple assets from an event, ad/sponsored campaign, digital and print assets from a launch, etc.
 
-- **Candidate Prep:** Be prepared to explain the design decisions made building out multiple assets all connected to a single campaign. What were your objectives throughout the campaign and what steps did you take to achieve them? Think about what your creative process is and how you ensure your collaborators' success, as well.
+- **Candidate Prep:** Some examples of assets include: web page + booth + printed assets or; Ads + email + webpage + printed content or; Infographic + ads + guide. It is encouraged that you share a campaign that includes print, digital, and environmental media. If you do not have an example of this, no worries! Bring what you would like to share the most. Be prepared to explain the design decisions made building out multiple assets all connected to a single campaign. What were your objectives throughout the campaign and what steps did you take to achieve them? Think about what your creative process is and how you ensure your collaborators' success, as well.
 
 ## **Title: Product and Creative Engagement**
 
