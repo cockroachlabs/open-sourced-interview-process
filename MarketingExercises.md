@@ -77,7 +77,7 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 ## **Title: Brand and Systems Management**
 
-- **Objective:** You will be having a conversation with the Chief Marketing Officer surrounding to core competencies for this role: 1) how you leverage your skills to maximize marketing effectiveness for highly technical solutions and remain consistently on brand and 2) How you deliver on-brand creative while ensuring a fast creative shipping environment.
+- **Objective:** You will be having a conversation with the Chief Marketing Officer surrounding two core competencies needed for this role: 1) how you leverage your skills to maximize marketing effectiveness for highly technical solutions and remain consistently on brand and 2) How you deliver on-brand creative while ensuring a fast creative shipping environment.
 
 - **Candidate Prep:** As a creative designer, you would serve as a primary voice and stakeholder for the Cockroach brand.  As such, this role involves overseeing the design and execution of all digital, print, display, and collateral content.  Being at a young B2B company, you will have to make smart decisions in a fast-moving creative environment. Given that CockroachDB is a highly technical product in a highly technical industry, we target two personas: developers and IT decision-makers (such as Chief Architects and CIOs).  Getting these audiences' attention is particularly challenging-- they are jaded and marketing wary. Visual brand consistency is important to developing a solid brand ID with the limited promotional vehicles available. Think about how you approach the above-mentioned competencies with these goals in mind.
 
@@ -95,33 +95,19 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 - **Objective:** You will be asked to summarize CockroachDB's three primary product positioning and competitive advantage points. Once onsite, you will be asked to whiteboard a competitive matrix reflecting your thoughts on our three primary competitors and how we best measure up against them.
 
-- **Candidate Prep:** As a newer entrant to the database space, Cockroach has unique elements that can help define our key points of difference against entrenched database companies and other, newer entrants.  We’d like to understand your ability to parse the differences and discuss your thoughts on how to position CockroachDB in the market. We will provide you with content to review to prepare for this exercise.
+- **Candidate Prep:** As a newer entrant to the database space, Cockroach has unique elements that can help define our key points of difference against entrenched database companies and other, newer entrants.  We’d like to understand your ability to parse the differences and discuss your thoughts on how to position CockroachDB in the market. We will provide you with content and resources to help prepare you for this exercise.
 
 ## **Title: Sales Enablement**
 
-- **Overview:** Sales enablement to Sales is a critical requirement of the role and finding the correct models to reach candidates. The role of sales enablement for the Product Marketing role will be critical to reach the prospects in the companies we should be targeting.  
+- **Objective:** You will be asked to walk your interviewer through the steps of creating a full go-to-market campaign and discuss how you would prepare the Sales team to execute it.
 
-- **Set-up:** Sales enablement (Sales and SEs) can be segmented into two parts - Campaign creation and Sales readiness. Walk the interviewer through the steps to create a full GTM campaign and how you would ready the Sales organization to execute campaign. Target 2 industries Cockroach Labs should be targeting. Tell the interviewer about which method you would use to target each organization.
-
-- **Part 1:** Walk the interviewer through the process of a delivering a campaign and thinking about competitive factors. 
-
-- **Part 2:** Sales readiness. 
-
+- **Candidate Prep:** Sales enablement and finding the correct models to reach prospective customers are critical requirements for this role. In order to effectively target new customers, our marketing team must provide the sales team with necessary tools to spread our messaging. For this exercise, think about how you would tailor a go-to-market campaign to our primary audience, the industries Cockroach labs should be targeting, and how we should target them. You should also keep in mind any necessary considerations for campaign project management.
 
 ## **Title: Story Lines**
 
-- **Overview:** This exercise covers how you would work with the product team to support GTM on or around product releases.
+- **Objective:** For this exercise, we will provide you with a list of feature additions slated for CockroachDB's upcoming release. You will then be asked to strategize story development ahead of our next release and develop a collaboration plan to work with the product team on marketing activities in the future.
 
-- **Set-up:** After reviewing our strategy, business opportunity, and customer feedback, we have the following five major features scheduled to come out in the next release of CockroachDB:
-    - **Change Data Capture (CDC)** - Support pushing database changes into Kafka rather than having to run periodic/polling jobs to pull data out.
-    - **Encryption at Rest** - Allow users to encrypt data on a per-store basis.
-    - **Cost-based Query Optimizer** - Provide orders of magnitude query speed-ups by using statistics to improve query plan selection.
-    - **Track and report in-flight query execution stats** - Get more insight into how queries execute.
-    - **Global/ multi-region Kubernetes cluster** - Support running CockroachDB in a K8 cluster across multiple regions so that a developer can have a highly available application, low latency, and fault isolation
-
-- **Part 1:** How would you think about the story behind this release? 
-
-- **Part 2:** How would you want to collaborate with the product team in order to support your product marketing activities in future releases.
+- **Candidate Prep:** For this exercise, you should think about how you develop storylines to engage users and generate excitement. You should also be prepared to discuss your plan for working with the product team to streamline product marketing efforts moving forward.
 
 ## **Title: Integrated Marketing - General**
 
