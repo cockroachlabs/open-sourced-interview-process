@@ -81,33 +81,22 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 - **Candidate Prep:** As a creative designer, you would serve as a primary voice and stakeholder for the Cockroach brand.  As such, this role involves overseeing the design and execution of all digital, print, display, and collateral content.  Being at a young B2B company, you will have to make smart decisions in a fast-moving creative environment. Given that CockroachDB is a highly technical product in a highly technical industry, we target two personas: developers and IT decision-makers (such as Chief Architects and CIOs).  Getting these audiences' attention is particularly challenging-- they are jaded and marketing wary. Visual brand consistency is important to developing a solid brand ID with the limited promotional vehicles available. Think about how you approach the above-mentioned competencies with these goals in mind.
 
-## **Title: Take-home Exercise: Email & Landing Page Design**
+## **Title: Take-home Exercise and Onsite Review: Email & Landing Page Design**
 
-- **Objective:** Your task is to redesign the email and landing page for a campaign promoting Cockroach Labs content with an eye towards making clear calls to action and communicating efficiently to inspire engagement.
+- **Objective:** Your task is to redesign the email and landing page for a campaign promoting Cockroach Labs content with an eye towards making clear calls to action and communicating efficiently to inspire engagement. Once onsite, you will be asked to explain your process and decisions while completing the take-home exercise. You will also be asked to bring an additional piece of work to share with the interviewer and discuss it.
 
 - **Candidate Prep:** Driving lead activity is a critical element of marketing’s role within Cockroach Labs.  Our content is a great asset for engaging our prospects and the community, but if they aren’t aware of new content, then its value is underleveraged. For this exercise, you should think about how to effectively direct your audience, layer content to convey its relevance, and ensure that your landing page supports engagement. Make sure to leverage the Cockroach Labs style guide to ensure brand consistency.
 
-## **Title: Take-home Onsite Review**
-
-- **Objective:** You will be asked to explain your process and decisions while completing the take-home exercise. You will also be asked to bring an additional piece of work to share with the interviewer and discuss it.
-
-- **Candidate Prep:** As part of this exercise, you should be prepared to discuss your creative process, what you hoped to achieve with your work, and how you went about accomplishing that goal. More generally, think about how you take designs from concept to reality and how you collaborate with others throughout the creative process to achieve success.
+Once onsite, you should be prepared to discuss your creative process, what you hoped to achieve with your work, and how you went about accomplishing that goal. More generally, think about how you take designs from concept to reality and how you collaborate with others throughout the creative process to achieve success.
 
 # Product Marketing
 
 ## **Title: Take-home Exercise & Onsite Review - Competitive Positioning**
 
-- **Overview:** As a newer entrant to the database space Cockroach has unique elements that can help define our key points of difference against entrenched database companies and other newer entrants.  We’d like to understand your ability to parse the differences and discuss your thoughts on how to position CockroachDB in the market.
+- **Objective:** You will be asked to summarize CockroachDB's three primary product positioning and competitive advantage points. Once onsite, you will be asked to whiteboard a competitive matrix reflecting your thoughts on our three primary competitors and how we best measure up against them.
 
-- **Part 1:** [Take-home] What are our three primary CockroachDB product positioning/competitive advantage points?
+- **Candidate Prep:** As a newer entrant to the database space, Cockroach has unique elements that can help define our key points of difference against entrenched database companies and other, newer entrants.  We’d like to understand your ability to parse the differences and discuss your thoughts on how to position CockroachDB in the market. We will provide you with content to review to prepare for this exercise.
 
-- **Part 2:** [Onsite] Be prepared to whiteboard a competitive matrix reflecting your thoughts on our three primary competitors and how we best matchup against them.
-
-- **Considerations & Resources** 
-    - Resources: Competitive Matrix (https://www.cockroachlabs.com/docs/stable/cockroachdb-in-comparison.html)
-    - Resources: Blog Page (https://www.cockroachlabs.com/blog/) 
-    - Considerations: Target company profile (size, vertical, etc.)
-    
 ## **Title: Sales Enablement**
 
 - **Overview:** Sales enablement to Sales is a critical requirement of the role and finding the correct models to reach candidates. The role of sales enablement for the Product Marketing role will be critical to reach the prospects in the companies we should be targeting.  
