@@ -80,12 +80,13 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 - **Objective:** You will be having a conversation with the Chief Marketing Officer surrounding to core competencies for this role: 1) how you leverage your skills to maximize marketing effectiveness for highly technical solutions and remain consistently on brand and 2) How you deliver on-brand creative while ensuring a fast creative shipping environment.
 
-- **Candidate Prep:** This role serve as a primary voice and stakeholder for the Cockroach brand.  As such, the Senior Designer will oversee the design and execution of all digital, print, display, and collateral content.  An important element of being at a young B2B company is being able to make smart decisions in a fast-moving environment with a focus on shipping creative content. Given that CockroachDB is a highly technical product in a highly technical industry, we target two personas: developers and IT decision-makers (such as Chief Architects and CIOs).  Getting these audiences' attention is particularly challenging-- they are jaded and marketing wary. Visual brand consistency is important to developing a solid brand ID with the limited promotional vehicles available. Think about how you approach the above-mentioned competencies with these goals in mind.
+- **Candidate Prep:** As a creative designer, you would serve as a primary voice and stakeholder for the Cockroach brand.  As such, this role involves overseeing the design and execution of all digital, print, display, and collateral content.  An important element of being at a young B2B company is being able to make smart decisions in a fast-moving environment with a focus on shipping creative content. Given that CockroachDB is a highly technical product in a highly technical industry, we target two personas: developers and IT decision-makers (such as Chief Architects and CIOs).  Getting these audiences' attention is particularly challenging-- they are jaded and marketing wary. Visual brand consistency is important to developing a solid brand ID with the limited promotional vehicles available. Think about how you approach the above-mentioned competencies with these goals in mind.
 
-## **Title: Take-home Exercise & Onsite: Email & Landing Page Design**
+## **Title: Take-home Exercise: Email & Landing Page Design**
 
-- **Overview:** Driving lead activity is a critical element of marketing’s role within Cockroach Labs.  Our content is a great asset for engaging our prospects and the community but if they aren’t aware of new content then it’s value is underleveraged.  
-Your task is to redesign the email and landing page for a campaign promoting Cockroach Labs content with an eye towards making clear calls to action and communicating efficiently to inspire engagement.
+- **Objective:** Your task is to redesign the email and landing page for a campaign promoting Cockroach Labs content with an eye towards making clear calls to action and communicating efficiently to inspire engagement.
+
+- **Candidate Prep:** Driving lead activity is a critical element of marketing’s role within Cockroach Labs.  Our content is a great asset for engaging our prospects and the community, but if they aren’t aware of new content, then its value is underleveraged. For this exercise, you should think about how to effectively direct your audience, structure content 
 
 - **Take-home Exercise Goal:** 
     - Provide clear actions to the email recipient.
@@ -95,16 +96,12 @@ Your task is to redesign the email and landing page for a campaign promoting Coc
 - **Take-home Exercise Considerations:** 
     - Leverage the Cockroach Labs style guide to ensure brand consistency.
     - Please be prepared to explain the design motivations and decisions made during the creative process.
-
-- **Onsite Interview: Part 1:** Take-home Exercise Review Work - Creative Thinking. You will be prepared to explain the design motivations and decisions made during the creative process for the take-home exercise. The following are examples of questions asked in this section:
-    - Walk us through your creative process?
-    - What was the goal of the work? What steps did you take to accomplish this goal?
-
-- **Onsite Interview: Part 2:** Past Work - Creative Thinking. Please come with an additional piece of work that you would like to share with the interviewer. The following are examples of questions asked in this section:
-    - What is your process for making your designs a reality? 
-    - How do you set external resources up for success?   
     
-- **Onsite Interview: Part 3:** Collaborative Engagement. This portion will focus on how you work to effectively accomplish your goals. 
+## **Title: Take-home Onsite Review**
+
+- **Objective:** You will be asked to explain your process and decisions while completing the take-home exercise. You will also be asked to bring an additional piece of work to share with the interviewer and discuss it.
+
+- **Candidate Prep:** As part of this exercise, you should be prepared to discuss your creative process, what you hoped to achieve with your work, and how you went about accomplishing that goal. More generally, think about how you take designs from concept to reality and how you collaborate with others throughout the creative process to achieve success.
 
 # Senior Technical Content Marketing Manager
 
