@@ -72,16 +72,9 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 ## **Title: Product and Creative Engagement**
 
-- **Overview:** In this interview, we will give you a chance to show how you can take real product screens, and extract the core visual elements that communicate their value to users.
+- **Objective:** In this interview, we will ask you to demonstrate how you can take real product screens and extract the core visual elements that communicate their value to users. You will then be asked to produce 3 low-fidelity images to visually describe the product's functions.
 
-- **Set-up:** The interviewer will give you a real product screenshot. Your goal is to make this consumable on the web for prospective downloaders. 
-
-- **Part 1:** Ask clarifying questions to ensure you understand what the product functionality is. Try to get a sense for the salient points and how you would represent them without the extra detail of a live product. 
-
-- **Part 2:** Take what you’ve seen from the product, and what you’ve learned from your exercise, to produce 3 low-fidelity images that would ultimately visually describe what the product does to a potential customer.
-
-- **Considerations** You can use whatever tools you are comfortable with. Pen and paper is fine. If you prefer working off of your laptop, please feel free to bring it with you!
-
+- **Candidate Prep:** The interviewer will give you a real product screenshot. Your goal is to make this consumable on the web for prospective downloaders. You are encouraged to ask questions to better understand product functionality and synthesize it for an audience. Please note that you can use the medium with which you're most comfortable, so feel free to bring your computer or other device!
 
 ## **Title: Brand and Systems Management**
 
