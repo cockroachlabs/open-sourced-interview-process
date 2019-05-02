@@ -37,8 +37,7 @@
 
 ## **Title: Blog Content & Collaboration** 
 
-- **Objective:** The purpose of the exercise is to see how you work across teams and we will be leveraging the
-blog as a medium to discuss this. You will be tasked with extracting information from the
+- **Objective:** TYou will be tasked with extracting information from the
 interviewer (in this case, the Chief People Officer) and then will be asked to use this info to
 create an outline for a blog post. The topic of the post will be provided once onsite, but it will surround Cockroach Labs values, so please take a look at our careers page. 
 
@@ -79,9 +78,9 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 ## **Title: Brand and Systems Management**
 
-- **Objective:** You will be having a conversation with the Chief Marketing Officer surrounding two core competencies needed for this role: 1) how you leverage your skills to maximize marketing effectiveness for highly technical solutions and remain consistently on brand and 2) How you deliver on-brand creative while ensuring a fast creative shipping environment.
+- **Objective:** You will have a conversation with the Chief Marketing Officer surrounding two core competencies needed for this role: 1) how you leverage your skills to maximize marketing effectiveness for highly technical solutions and remain consistently on brand and 2) How you deliver on-brand creative while ensuring a fast creative shipping environment.
 
-- **Candidate Prep:** As a creative designer, you would serve as a primary voice and stakeholder for the Cockroach brand.  As such, this role involves overseeing the design and execution of all digital, print, display, and collateral content.  Being at a young B2B company, you will have to make smart decisions in a fast-moving creative environment. Given that CockroachDB is a highly technical product in a highly technical industry, we target two personas: developers and IT decision-makers (such as Chief Architects and CIOs).  Getting these audiences' attention is particularly challenging-- they are jaded and marketing wary. Visual brand consistency is important to developing a solid brand ID with the limited promotional vehicles available. Think about how you approach the above-mentioned competencies with these goals in mind.
+- **Candidate Prep:** As a creative designer, you would serve as a primary voice and stakeholder for the Cockroach brand.  As such, this role involves overseeing the design and execution of all digital, print, display, and collateral content.  Being at a young B2B company, you will have to make smart decisions in a fast-moving creative environment. Given that CockroachDB is a highly technical product in a highly technical industry, we target two personas: developers and IT decision-makers (such as Chief Architects and CIOs).  Getting these audiences' attention is particularly challenging-- they are jaded and marketing wary. Visual brand consistency is important to developing a solid brand ID with the limited promotional vehicles available. Think about how you approach design to meet the above-mentioned goals.
 
 ## **Title: Take-home Exercise and Onsite Review: Email & Landing Page Design**
 
@@ -143,8 +142,7 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 - **Objective:** You will be asked to suggest 2-3 campaigns with specific content, channels, and rationale using our existing content to target Chief Architects for lead generation purposes.
 
-
-- **Candidate Prep:** The Cockroach Labs marketing department has a strong content focus that has guided much of the marketing activity to date.  The content library (primarily blogs and white papers) has a range of target personas from developer to Chief Architect and encompasses a range of topics from CockroachDB-focused content to industry challenges. We have a strong desire to focus on the decision-making layer of our target audience, which means that we must reach Chief Architects and those in related positions. With these goals in mind, we ask that you be prepared to demonstrate how you would leverage our existing content to develop a variety of lead generation campaigns targeting Chief Architects. Vital considerations for this exercise are campaign structure and sequencing, strategies for measuring campaign performance, and quantifiable goal-setting.
+- **Candidate Prep:** The Cockroach Labs marketing department has a strong content focus that has guided much of the marketing activity to date.  The content library (primarily blogs and white papers) has a range of target personas from developer to Chief Architect and encompasses a range of topics from CockroachDB-focused content to industry challenges. We would like to focus on the decision-making layer of our target audience, which means that we must reach Chief Architects and those in related positions. With these goals in mind, we ask that you be prepared to demonstrate how you would leverage our existing content to develop a variety of lead generation campaigns targeting Chief Architects. Vital considerations for this exercise are campaign structure and sequencing, strategies for measuring campaign performance, and quantifiable goal-setting.
 
 ## Title: Marketing Analytics
 
