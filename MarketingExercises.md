@@ -32,6 +32,7 @@
 
 - **Candidate Prep:** You will be organizing a meet-up for engineers and our Open-Source community to learn more about our technology. Please keep in mind what considerations you would consider critical to successfully executing a community event, how you would promote the event, and your timeline for event planning. Additionally, think about how you can make this event have a lasting impact upon its attendees and our objectives as a company.
 
+
 # Marketing Manager 
 
 ## **Title: Blog Content & Collaboration** 
@@ -61,6 +62,7 @@ on our blog. Your task is to edit it and present your revisions as well as a pub
 and culture at CockroachDB. Editing and revising is a collaborative process. Many of the posts
 are written by engineers and edited by the Director of Marketing and peers with the goal of attracting readers, informing prospective users about our product features, and creating evangelists out of every member of our team. With this goal in mind, think about how you would edit material for promotional purposes. You should also be prepared to discuss how best to roll out a new post and make sure people see it.
 
+
 # Creative
 
 ## **Title: Integrated Marketing - Portfolio Review**
@@ -89,6 +91,7 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
     Once onsite, you should be prepared to discuss your creative process, what you hoped to achieve with your work, and how you went about accomplishing that goal. More generally, think about how you take designs from concept to reality and how you collaborate with others throughout the creative process to achieve success.
 
+
 # Product Marketing
 
 ## **Title: Take-home Exercise & Onsite Review - Competitive Positioning**
@@ -111,22 +114,24 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 ## **Title: Integrated Marketing - General**
 
-- **Overview:** You should be ready to talk through putting together an integrated strategy. Specifically, systems and processes and ideas on collateral you would create. 
+- **Objective:** You will be asked to walk your interviewer through how you would develop an integrated marketing strategy. Specifically, your plan will focus on systems, processes, and ideas on collateral you would create to move these efforts forward.
 
-- **Context:** You just brainstormed positioning ideas with the interviewer. Let’s hypothetically say you came up with the perfect story and are ready to start producing content in the context of this positioning. This should be specifically focused on wide-adoption, not sales enablement. 
+- **Candidate Prep:** You just brainstormed positioning ideas with your interviewer. Let’s say, hypothetically, that you came up with the perfect story and are ready to start producing content in the context of this positioning. Your strategy should be specifically focused on wide-adoption, not sales enablement. To prepare for this conversation, think about who you would target and how, developing a scalable marketing process, and how you would ensure that your campaign can be modified over time.
 
 
 # Demand Generation
 
+## **Title: Campaign Creation**
+
+- **Objective:** You will be asked to assemble a multimedia, multichannel campaign for lead generation surrounding GDPR GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). The content you create in this portion will be used for the Marketing Content & Creative exercise below.
+
+- **Candidate Prep:** For this exercise, it is a good idea to acquaint yourself with the most effective methods for marketing across a number of different channels. You should think about who you'll target and why, how you will ensure your campaign's success, 
+
 ## **Title: Marketing Content & Creative**
 
-- **Overview:** In this role, you will need to leverage existing content (blogs, whitepapers, videos, training) as content for campaigns for different channels and purposes (marketing emails, events, ads, etc.). 
+- **Objective:** In this exercise, you will be asked to imagine that Cockroach Labs is hosting an event in New York on October 1st around GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). You will review the content in the campaign exercise document (we will provide it to you at the appropriate time) and build an outline of a marketing campaign to to generate leads and get prospects to the event. 
 
-- **Set-up:** For this exercise, imagine that Cockroach Labs is hosting an event in New York on October 1st around GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). You will review the content in the campaign exercise doc and build an outline of a marketing campaign in an effort to generate leads and get prospects to the event.  
-
-- **Part 1:** You will review the campaign exercise with the candidate. 
-
-- **Part 2:** You will review the candidates marketing campaign with the candidate and and dive into follow up questions on ROI, budgeting, metrics, etc.
+- **Cadidate Prep:** In this role, you will need to leverage existing content (blogs, whitepapers, videos, training) as content for campaigns for different channels and purposes (marketing emails, events, ads, etc.). 
 
 ## **Title: Sales Funnel**
 
