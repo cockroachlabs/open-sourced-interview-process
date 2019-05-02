@@ -2,69 +2,36 @@ The following are exercises for product positions.
 
 ## **Title: Product Roadmap/Positioning - Work Exp - Tech**
 
-- **Overview:** In this interview, you are assessing if the candidate has the ability to work well with a Cockroach Labs engineering team to define, communicate, and deliver on a feature roadmap. At this level, candidates may focus on the smaller picture, so the emphasis is placed on the ability to execute against a roadmap, influence and collaborate with internal/external technical stakeholders, and make principled tradeoffs in order to deal with technical or market realities.
+- **Objective:** You will be asked to pick a product (or feature) that you took from concept to public launch (preferably a technology-based product) and discuss this process with your interviewer.
 
-- **Setup:** Candidate will be asked by the recruiter to pick a product (or feature) that they took through to launching to the public. The preference is that they use a product that had technology clients (as opposed to marketing or another department). They will be prepared to discuss the product (or feature) with you.
-
-- **Part 1:** Work Experience - Ask them to dive into their product/feature from a technical standpoint. They should be able to speak to the technical details in this section. How did the product evolve? From concept to launch or was it pre-existing? 
+- **Candidate Prep:** As a product manager for a highly technical offering, it is important that you demonstrate your ability to collaborate cross-functionally, prepare and deliver on a roadmap, and negotiate between ideal-case product scenarios and external constraints. Keep in mind that you will be asked to discuss the technical aspect of the product, as well.
 
 ## **Title: Ops and Tools Takehome Exercise: MySQL Migration**
-- **Overview** One of the most important things we can do to drive adoption is to make database migrations frictionless. In this exercise, you will migrate a single table from MySQL to CockroachDB and describe how this process can be improved. This entire exercise should take under an hour.  
-- **Setup**   
-    - [Start a single-node CockroachDB cluster](https://www.cockroachlabs.com/docs/stable/start-a-local-cluster.html).    
-    - [IMPORT](https://www.cockroachlabs.com/docs/stable/import.html) a [MySQL CSV export](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.csv) containing employee records for a fictional company into CockroachDB (*For this exercise, we've provided a standard CSV file rather than the raw [mysqldump](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html) output; no modifications are necessary*).
-    - Hints: 
-        - For IMPORT to work, you'll need to Convert [the original MySQL schema](https://raw.githubusercontent.com/cockroachlabs/open-sourced-interview-process/master/files/product/employees.mysql.sql) into a [CockroachDB table format](https://www.cockroachlabs.com/docs/stable/import.html#use-create-table-statement-from-a-statement). 
-        - Be sure to create a database before you begin the IMPORT. Example SQL: `CREATE DATABASE exercise; USE exercise;`
 
-- **Exercise**
-    1. What are some of the shortcomings of this migration experience? 
-    1. In a sentence or two, describe an enhancement that would make the migration process delightful for developers.
-    1. Write 2-3 [user stories](https://www.mountaingoatsoftware.com/agile/user-stories) to further explain this feature. It's OK if the entire feature isn't covered in 2-3 stories.
-    1. How would you validate this feature?
+- **Objective** One of the most important things we can do to drive adoption is to make database migrations frictionless. In this exercise, you will migrate a single table from MySQL to CockroachDB and describe how this process can be improved. This entire exercise should take under an hour. You will also be asked to suggest improvements to this function and write user stories to explain it.
 
+- **Candidate Prep:** In addition to the migration you will perform, think about how you evaluate areas of improvement, drive messaging, and ensure that expectations are aligned with reality for a product or feature.
 
 ## **Title: General PM Takehome Exercise: Product Positioning**
-- **Overview** In addition to traditional product management responsibilities, Cockroach Labs PMs are also responsible for positioning their features and producing raw content that can be leveraged by marketing and sales to help promote those enhancements. This exercise is meant to help us understand how PMs think about audiences, differentiation, and value creation. 
 
-- **Setup** Pick any feature from a B2B company and write a one page messaging framework about it. This should at least include: a positioning statement, target audience, elevator pitch, and three messaging pillars. You can read more about messaging frameworks on Google. (Here’s [an example from Salesforce](https://www.pardot.com/blog/how-to-create-brand-messaging-that-really-resonates/) to get you started).
+- **Objective:** Pick any feature from a B2B company and write a one page messaging framework about it. This should at least include: a positioning statement, target audience, elevator pitch, and three messaging pillars. You can read more about messaging frameworks on Google. (Here’s [an example from Salesforce](https://www.pardot.com/blog/how-to-create-brand-messaging-that-really-resonates/) to get you started).
+
+- **Candidate Prep:** In addition to traditional product management responsibilities, Cockroach Labs PMs are also responsible for positioning their features and producing raw content that can be leveraged by marketing and sales to help promote those enhancements. This exercise is meant to help us understand how PMs think about audiences, differentiation, and value creation. 
 
 ## **Title:** **Product Roadmap - New/CRL Specific**
 
-- **Overview:** In this interview, you will be getting a sense of how well the candidate understands the basic aspects of product management and how passionate they are about the discipline.
+- **Objective:** You will be asked to discuss product management basics and your favorite B2B product.
 
-- **Setup:** In three minutes or less, walk me through your favorite B2B product.
+- **Candidate Prep:** This exercise will gauge your excitement for product management and core competencies in the field. To prepare for this conversation, think about the product management discipline holistically and the role it plays in the products and services we use every day.
 
 ## **Title:** **Analytical Case**
 
-- **Overview:** Provide the candidate with this  [excel spreadsheet](https://docs.google.com/spreadsheets/d/12f3kjlTs5QpCmsvXo-ZLOWG5rFdc4DaB6TwJxoQxVOE/edit#gid=0) of fictional telemetry and have them pull insights. 
+- **Objective:** You will be presented with a spreadsheet containing fictional telemetry and tasked with navigating and visualizing the data to understand adoption rates.
 
-- **Exercise:** Expectations are for the candiate to navigate the data and visualize it in a way that tells a story of adoption (or lack thereof). 
+- **Candidate Prep:** This exercise will help us understand how you use data to tell a story. It 
 
-   
-## **Title:** **Whiteboarding Customer Experience**
+## **Title:** **Sales Engineering and Triaging Customer Needs**
 
-- **Overview:** In this interview, you are focusing on the candidate’s ability to understand customer pain points in an enterprise environment and collaborate with design + engineering to create solutions they love. Product Managers have to know (and have frequent contact and communication with) their customers and users. Successful PMs should incorporate real world customer needs and feedback into product development and go beyond the UI when thinking about user experience.
+- **Objective:** You will be asked to review your take home exercise with the Head of Sales Engineering and to discuss past experiences with customer requests.
 
-- **Exercise:** We have a new product design prototyping tool that designers use to share mocks with other stakeholders. We need a way to onboard new users. The goal is to provide user stories or user flows that outline this process. 
-
-- **Interview Flow** 
-    1. Context/Discovery - there is a SaaS product for collaborating with design - 5 minutes
-    
-    2. Framing: Goals/Audience - what are you optimizing for and for whom? - 5 minutes
-    
-    3. Tactical execution - what is the actual flow or user stories - 30 minutes
-
-    4. Edge cases - 10 mins
-
-    5. Validation - How can you validate that your solution meets the goals we mentioned earlier? - 10 mins
-    
-
-## **Title:** **Sales Engineering**
-
-- **Overview:** In this interview, you are assessing if the candidate has the ability to work well with a Cockroach Labs Sales Engineer to translate customer requirements into roadmap items for our backlog. 
-
-- **Exercise:** This exercise has two parts:
-    1. Take home exercise review - You will go over your take-home exercise with the head of sales engineering, who will ask follow up questions. Depending on your expertise you may be asked to compare this with your experience using another database.
-    2. Triaging real-world customer requests - You will be asked to talk about two customer requests, one that made it onto the roadmap and one that did not. Be prepared to drill into how you made those decisions and managed the customer expectations either directly or indirectly through sales or some other team.
-
+- **Candidate Prep:** A critical component of product management is guiding decisions on feature development. To prepare for this exercise, reflect on past customer requests and be prepared to discuss your decision-making process for prioritizing them in your roadmap and how you communicated these decisions to customer.
