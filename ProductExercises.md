@@ -28,7 +28,7 @@ The following are exercises for product positions.
 
 - **Objective:** You will be presented with a spreadsheet containing fictional telemetry and tasked with navigating and visualizing the data to understand adoption rates.
 
-- **Candidate Prep:** This exercise will help us understand how you use data to tell a story. It 
+- **Candidate Prep:** This exercise will help us understand how you use data to tell a story. Feel free to ask any questions that better prepare you to present all necessary information to your audience.
 
 ## **Title:** **Sales Engineering and Triaging Customer Needs**
 
