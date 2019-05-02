@@ -37,12 +37,9 @@
 
 ## **Title: Blog Content & Collaboration** 
 
-- **Objective:** TYou will be tasked with extracting information from the
-interviewer (in this case, the Chief People Officer) and then will be asked to use this info to
-create an outline for a blog post. The topic of the post will be provided once onsite, but it will surround Cockroach Labs values, so please take a look at our careers page. 
+- **Objective:** You will be tasked with extracting information from the interviewer (in this case, the Chief People Officer) and then will be asked to use this info to create an outline for a blog post. The topic of the post will be provided once onsite, but it will surround Cockroach Labs values, so please take a look at our careers page. 
 
-- **Candidate Prep:** The purpose of the exercise is to see how you work across teams and we will be leveraging the
-blog as a medium to discuss this. For this exercise, you should think about how you effectively structure content, serve as a partner to your colleagues to meet shared goals, and the frequency and methods you would use to promote the content you create.
+- **Candidate Prep:** The purpose of the exercise is to see how you work across teams. We will be leveraging the blog as a medium for this discussion. For this exercise, you should think about how to effectively structure content, serve as a partner to your colleagues to meet shared goals, and the frequency and methods you would use to promote the content you create.
 
 ## **Title: Project Management - White Paper Launch** 
 
