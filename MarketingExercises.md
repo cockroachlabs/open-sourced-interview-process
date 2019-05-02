@@ -73,7 +73,7 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 ## **Title: Product and Creative Engagement**
 
-- **Objective:** In this interview, we will ask you to demonstrate how you can take real product screens and extract the core visual elements that communicate their value to users. You will then be asked to produce 3 low-fidelity images to visually describe the product's functions.
+- **Objective:** In this interview, we will ask you to demonstrate how you can take real product screens and extract the core visual elements that communicate their value to users. You will then be asked to produce three low-fidelity images to visually describe the product's functions.
 
 - **Candidate Prep:** The interviewer will give you a real product screenshot. Your goal is to make this consumable on the web for prospective downloaders. You are encouraged to ask questions to better understand product functionality and synthesize it for an audience. Please note that you can use the medium with which you're most comfortable, so feel free to bring your computer or other device!
 
@@ -123,48 +123,31 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 ## **Title: Campaign Creation**
 
-- **Objective:** You will be asked to assemble a multimedia, multichannel campaign for lead generation surrounding GDPR GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). The content you create in this portion will be used for the Marketing Content & Creative exercise below.
+- **Objective:** You will be asked to assemble a multimedia, multichannel campaign for lead generation surrounding GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). The content you create in this portion will be used for the Marketing Content & Creative exercise below.
 
-- **Candidate Prep:** For this exercise, it is a good idea to acquaint yourself with the most effective methods for marketing across a number of different channels. You should think about who you'll target and why, how you will ensure your campaign's success, 
+- **Candidate Prep:** For this exercise, it is a good idea to acquaint yourself with the most effective methods for marketing across a number of different channels. You should think about who you'll target and why, how you will ensure your campaign's success, what tools you will use throughout the campaign, and how you collaborate with key stakeholders in the marketing process.
 
 ## **Title: Marketing Content & Creative**
 
-- **Objective:** In this exercise, you will be asked to imagine that Cockroach Labs is hosting an event in New York on October 1st around GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). You will review the content in the campaign exercise document (we will provide it to you at the appropriate time) and build an outline of a marketing campaign to to generate leads and get prospects to the event. 
+- **Objective:** In this exercise, you will be asked to imagine that Cockroach Labs is hosting an event in New York on October 1st around GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). You will review the content from the campaign exercise with your interviewer and build an outline of a marketing campaign to generate leads and get prospects to the event. 
 
-- **Cadidate Prep:** In this role, you will need to leverage existing content (blogs, whitepapers, videos, training) as content for campaigns for different channels and purposes (marketing emails, events, ads, etc.). 
+- **Candidate Prep:** In this role, you will need to leverage existing content (blogs, whitepapers, videos, training) as content for campaigns for different channels and purposes (marketing emails, events, ads, etc.). Consider how you would differentiate content depending on the medium and adapt existing content to increase lead generation.
 
 ## **Title: Sales Funnel**
 
-- **Overview:** You will give the interviewer an overview of marketing attribution and ROI models they’ve built in the past. 
+- **Objective:** You will give the interviewer an overview of marketing attribution and ROI models you’ve built in the past. 
 
-- **Set-up:** In this role, you’d be working closely with our sales team to help build out new channels for lead generation and uncover which channels are most effective for lead generation - this includes word of mouth, email marketing, SEO, conferences / trade shows, etc. Once these we’re utilizing new channels, it’s crucial to analyze what’s working and build attribution models.
-
-- **Part 1:** Channel strategy
-
-- **Part 2:** Attribution model
-
+- **Candidate Prep:** In this role, you’d be working closely with our sales team to help build out new channels for lead generation and uncover which channels are most effective for lead generation - this includes word of mouth, email marketing, SEO, and conferences / trade shows. Once we’re utilizing new channels, it’s crucial to analyze what’s working and build attribution models. Please prepare for your interview with these goals and guidelines in mind.
 
 ## **Title: Take-home Exercise & Onsite Review - Ads Strategy & Content Leverage**
 
-- **Overview:** Cockroach Labs marketing department has a strong content focus that has generated much of the marketing activity to date.  The content library (primarily blogs and white papers) has a range of persona targets from developer to Chief Architect as well as a range of topics from CockroachDB focused to industry challenges.
+- **Objective:** You will be asked to suggest 2-3 campaigns with specific content, channels, and rationale using our existing content to target Chief Architects for lead generation purposes.
 
-- **Set-up:** Cockroach Labs we have been successful in developing a moderately sized promotional email list and slowly growing the list with new names.  Our docs site, HackerNews and related activity have done a good job of growing awareness and engagement from the developer type persona to date.  There is a strong desire to focus on the decision making layer of our personas, Chief Architect and related.  
 
-- **Part 1:** How would you leverage our existing content to develop a variety of lead generation campaigns focused on the Chief Architect (and related titles), and how would you structure and sequence those campaigns?  Please identify specific content, channels and rationale for the 2 - 3 campaigns you suggest.
-
-- **Part 2:** What tools would you use to measure the campaigns and what would be your critical KPIs in defining success?  Please also identify how long it might take to define success.
+- **Candidate Prep:** The Cockroach Labs marketing department has a strong content focus that has guided much of the marketing activity to date.  The content library (primarily blogs and white papers) has a range of target personas from developer to Chief Architect and encompasses a range of topics from CockroachDB-focused content to industry challenges. We have a strong desire to focus on the decision-making layer of our target audience, which means that we must reach Chief Architects and those in related positions. With these goals in mind, we ask that you be prepared to demonstrate how you would leverage our existing content to develop a variety of lead generation campaigns targeting Chief Architects. Vital considerations for this exercise are campaign structure and sequencing, strategies for measuring campaign performance, and quantifiable goal-setting.
 
 ## Title: Marketing Analytics
-- **Overview:** This interview will focus on looking at analytics from website traffic and determine how you would substantiate a campaign.
 
-- **Part 1:** Review website analytics with the interview and engage in a discussion about the analytics.
+- **Objective:** You will review our web traffic analytics with your interviewer and discuss ways that this data can be used and/or improved for marketing campaigns.
 
-## **Title: Marketing Content & Creative**
-
-- **Overview:** In this role, you will need to leverage existing content (blogs, whitepapers, videos, training) as content for campaigns for different channels and purposes (marketing emails, events, ads, etc.). 
-
-- **Set-up:** For this exercise, imagine that Cockroach Labs is hosting an event in New York on October 1st around GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). You will review the content in the campaign exercise doc and build an outline of a marketing campaign in an effort to generate leads and get prospects to the event.  
-
-- **Part 1:** You will review the campaign exercise with the candidate. 
-
-- **Part 2:** You will review the candidates marketing campaign with the candidate and and dive into follow up questions on ROI, budgeting, metrics, etc.
+- **Candidate Prep:** To prepare for this exercise, think about how web analytics can be used to guide and improve marketing efforts. Keep in mind what tools and metrics you find powerful for tracking campaign performance and how these analytics could be leveraged to track the campaigns you've conceptualized throughout your interviews.
