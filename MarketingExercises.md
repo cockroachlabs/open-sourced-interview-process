@@ -125,7 +125,7 @@ are written by engineers and edited by the Director of Marketing and peers with 
 
 ## **Title: Marketing Content & Creative**
 
-- **Objective:** In this exercise, you will be asked to imagine that Cockroach Labs is hosting an event in New York on October 1st around GDPR (https://www.investopedia.com/terms/g/general-data-protection-regulation-gdpr.asp). You will review the content from the campaign exercise with your interviewer and build an outline of a marketing campaign to generate leads and get prospects to the event. 
+- **Objective:** You will review the content from the campaign exercise with your interviewer and build an outline of a marketing campaign to generate leads and get prospects to the event. 
 
 - **Candidate Prep:** In this role, you will need to leverage existing content (blogs, whitepapers, videos, training) as content for campaigns for different channels and purposes (marketing emails, events, ads, etc.). Consider how you would differentiate content depending on the medium and adapt existing content to increase lead generation.
 
