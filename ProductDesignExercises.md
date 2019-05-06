@@ -1,36 +1,23 @@
 The following are exercises for product design positions.
 
-## **Title: Design Exercise/Portfolio Panel Discussion**
+## **Title: Design Exercise/Portfolio Panel Discussion (60 minutes)**
 
-- **Overview:**
+- **Objective:** You will review the take-home exercise with your interviewer and be prepared to discuss one of your portfolio projects.
 
-    - Part 1: Take-home Exercise Review - Product thinking, a little touch on design
+- **Candidate Prep:** Be prepared to discuss your design process with your interviewer and how you arrived at your design choices for the take-home project. For your portfolio discussion, please choose a project with a visual focus.
 
-    - Part 2: Portfolio Review - Visual design project and trade-offs 
+## **Title: Cockroach Demo and User Focus (60 minutes)**
 
-- **Part 1:** Take-home Exercise Review. The panel will first ask the candidate to present their take-home exercise. Exercise is attached. Redesign of an iphone performance app. 
+- **Objective:** Your interviewer will demo our internal database-as-a-service and ask you for feedback on usability and approaches to user testing.
 
-    - [Battery Memory System Status Monitor](https://itunes.apple.com/us/app/battery-memory-system-status-monitor/id497937231?mt=8) is an application for monitoring your device's performance. The Summary page is the first page users see when they launch the app. Your task is to redesign/reimagine the Summary page for its Android application using Google’s Material Design system. 
+- **Candidate Prep:** This exercise will help us understand how you communicate with engineers, how you think about product, and your approach to user experience. Be prepared to discuss how you would vet your design choices against customer groups with different needs.
 
-- **Part 2:** Portfolio Review
+## **Title: Product Thinking and Problem Solving (60 minutes)**
 
-    - Candidate will come prepared to review a portfolio project with a focus on visual design. Tell us about the project. 
+- **Objective:** You will be asked to decide how a product will work based on basic physical characteristics we will share with you during the interview.
 
+- **Candidate Prep:** This exercise focuses on how you solve problems. Feel free to collaborate with your interviewer and ask questions as needed.
 
-## **Title: Product Thinking and Problem Solving**
+## **Title: Design Process and Discussion (60 minutes)**
 
-- **Overview:** Interviewer demos our internal database-as-a-service and gets feedback on usability and approaches to user testing.
-
-- **Setup:** 
-
-- **Part 1 (Product Sense):** The interviewer will demo the application and ask the candidate for thoughts on usability gaps. The goal is to understand how the candidate this about product and how they communicate with engineers.
-
-- **Part 2 (Customer Understanding):** Interviewer will explain  two personas: Developer and Operator. Candidate should ask insightful questions about these two groups. Interviewer will ask the candidate what steps she would take to vet her decision decisions against these two groups.
-
-
-## **Title: Whiteboard Exercise - Design a UX for a Self-Driving Car Service**
-
-- **Overview:** For this whiteboard exercise, you’ll be designing an end-to-end user experience for WeCoast a made-up self-driving car service. Their current UX is focused on the consumer market and is lacking features that empower business travelers commuting to and from meetings. Your goal is to design an engaging user experience to help increase WeCoast's business traveler user base. 
-
-
-
+- **Objective:** This exercise will be a discussion of your design process from concept to creation. You will also discuss research, project management, and past experiences in design.
