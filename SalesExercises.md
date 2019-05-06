@@ -70,6 +70,7 @@ The following are exercises for sales positions.
 ## **Title: Project Management and Product Knowledge**
 
 **Objective:**  You will walk the interviewer through the take-home exercise and discuss the 4 objectives we shared with you.  
+
 **Candidate Prep:** The objectives of the exercise are: Describe pros/cons of CockroachDB install and monitoring and experience, throughput characteristics during the insert workload, pros/cons of elasticity and availability, and SE’s view on architectural constraints of CockroachDB design that resulted in observed pros/cons
 
 ## **Title: Documentation**
