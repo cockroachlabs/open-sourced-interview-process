@@ -84,7 +84,7 @@ The following are exercises for sales positions.
 
 **Objective:** This exercise is a deep-dive discussion on your technical background and specifically, your technical expertise of databases. 
 
-**Cncaidate Prep:**  You should be able to explain what X component of a database is and then describe its trade-offs. Your interviewer should also learn from you what the technical reasons for the trade-offs are. You will be asked to discuss one of the four technical areas: feedback on monitoring, install, elastic scale out/scale in, or performance.
+**Candidate Prep:**  You should be able to explain what X component of a database is and then describe its trade-offs. Your interviewer should also learn from you what the technical reasons for the trade-offs are. You will be asked to discuss one of the four technical areas: feedback on monitoring, install, elastic scale out/scale in, or performance.
 
 ## **Title: Past Experiences with Databases**
 
@@ -108,10 +108,10 @@ The following are exercises for sales positions.
 
 **Objective:**  In this interview, we will be diving into how to set up sales compensation plans and incentive the sales force. We will provide you with sample compensation plans on-site.
 
-**Candidate Prep:** Think about effective eways to structure commission and provide detail on how to supplement it. Feel free to ask any questions needed to make thoughtful recommendations.
+**Candidate Prep:** Think about effective ways to structure commission and provide detail on how to supplement it. Feel free to ask any questions needed to make thoughtful recommendations.
 
 ## **Title: Sales & Marketing Pipeline Analysis**
 
-**Objective:** Salesforce provides the one source of truth for sales and marketing to develop a well-understood, connected marketing and sales funnel for the business.  There are many challenges in interpreting data, making it usabl,e and ensuring its integrity within Salesforce.
+**Objective:** Salesforce provides the one source of truth for sales and marketing to develop a well-understood, connected marketing and sales funnel for the business.  There are many challenges in interpreting data, making it usable, and ensuring its integrity within Salesforce.
 
 **Candidate Prep:** Marketing and Sales want to understand what specific content and channels are generating the most successful sales opportunities. This will allow us to make smarter investments with the objective of constantly improving our ROI on marketing dollars spent. Think about how you would build reporting specific to various marketing and sales stages (what tiers would make up the core funnel?), common Salesforce challenges, and how you ensure and enforce data integrity using this tool.
