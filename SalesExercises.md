@@ -106,7 +106,7 @@ The following are exercises for sales positions.
 
 ## **Title: Incentivizing the Sales Team**
 
-**Obnjective:**  In this interview, we will be diving into how to set up sales compensation plans and incentive the sales force. We will provide you with sample compensation plans on-site.
+**Objective:**  In this interview, we will be diving into how to set up sales compensation plans and incentive the sales force. We will provide you with sample compensation plans on-site.
 
 **Candidate Prep:** Think about effective eways to structure commission and provide detail on how to supplement it. Feel free to ask any questions needed to make thoughtful recommendations.
 
