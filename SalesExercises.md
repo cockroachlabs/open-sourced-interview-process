@@ -59,7 +59,7 @@ The following are exercises for sales positions.
 
 **Objective:** This exercise is a deep-dive discussion on your technical background and specifically, your technical expertise of databases. 
 
-**Cncaidate Prep:**  You should be able to explain what X component of a database is and then describe its trade-offs. Your interviewer should also learn from you what the technical reasons for the trade-offs are. You will be asked to discuss one of the four technical areas: feedback on monitoring, install, elastic scale out/scale in, or performance.
+**Candidate Prep:**  You should be able to explain what X component of a database is and then describe its trade-offs. Your interviewer should also learn from you what the technical reasons for the trade-offs are. You will be asked to discuss one of the four technical areas: feedback on monitoring, install, elastic scale out/scale in, or performance.
 
 ## **Title: Sales Process**
 
