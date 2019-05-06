@@ -10,280 +10,108 @@ The following are exercises for sales positions.
 
 ## **Title: Research/Targeting Customers - Prospecting/ICP**
 
-**Overview:** Find three companies that fit the ideal candidate profile that you put together during your take-home exercise. 
+**Objective:** Find three companies that fit the ideal candidate profile that you put together during your take-home exercise. Your interviewer will provide you with the verticals that they would like you to go after with the expectation that you will find three companies that fit the ICP. You will have a chance to ask the interviewer questions before you do independent research.
 
-**Setup:** Interviewer will provide you with the verticals that they would like you to go after with the expectation that you will find three companies that fit the ICP. You will have a chance to ask the interviewer questions before you do independent research. You will have 20 minutes to identify 3 companies before the interviewer will come back into the room to discuss. Think about what online tools you would use to identify the companies.
+**Candidate Prep:** You will have 20 minutes to identify 3 companies before the interviewer will come back into the room to discuss. To prepare for this interview, think about what online tools you would use to identify the companies.
 
 ## **Title: Campaign Process - Customer Outreach**
 
-**Overview:** Please create an outbound campaign of 3-5 steps funneling into the sales flow. 
+**Objective:** Please create an outbound campaign of 3-5 steps funneling into the sales flow. 
 
-**Setup:** Pick one company that you identified in your take-home and choose one person from the company that you would be communicating with. You will then build out an email campaign with messaging and intended actions for the person you identified. 
+**Candidate Prep:** Pick one company that you identified in your take-home and choose one person from the company that you would be communicating with. You will then build out an email campaign with messaging and intended actions for the person you identified. 
 
 ## **Title: Project Management - Customer Outreach**
 
-**Please note:** This interview is a build on the Campaign Process interview. 
+**Objective:** This interview is a build on the Campaign Process interview. When an SDR creates a cadence, the process is not simply about starting and sending. It’s building a cadence that ensures the outreach is going to be successful and not sound like spam. Based on the 1-2 profiles that you built with the interviewer in the Campaign Process exercise, outline how you would tailor outreach based on your contact’s role at their company.
 
-**Overview:** When an SDR creates a cadence, the process is not simply about starting and sending. It’s building a cadence that ensures the outreach is going to be successful and not sound like spam. 
-
-**Setup:** Based on the 1-2 profiles that you built with the interviewer in the Campaign Process exercise, outline how you would tailor outreach based on your contact’s role at their company. Keep in mind that it is important for SDRs to send unique content to people in different roles and that the cadence will also shift depending on the role. Additionally, think about how would you determine if the content and cadences are effective.
+**Candidate Prep:** Keep in mind that it is important for SDRs to send unique content to people in different roles and that the cadence will also shift depending on the role. Additionally, think about how would you determine if the content and cadences are effective.
 
 
 # Enterprise Account Executive
 
 ## **Title: Tech Approach & SE Relations**
 
-**Overview:** This interview dives into how Account Executives approach triaging aspects of the sales process. For example, if features don’t exist, how would you handle - customer and internal. 
+**Overview:** This interview dives into how Account Executives approach triaging aspects of the sales process. For example, if features don’t exist that a customer is looking for, how would you handle this from customer and internal angles?
 
-**Set-up:** Business was sponsoring CockroachDB in order to enter a new market quickly. The operations and DBAs wanted to continue refining Oracle RAC and GoldenGate.  The business provided mission-critical workload that is rather complex to test. 
-
-**Part 1:** The operations and DBA have asked CockroachLabs to run an end to end test and provide read out of the results.  They agreed to answer questions as needed.  What is AE’s role with the customer and CockroachLabs.
-
-**Part 2:** Two weeks into the test, CockroachDB is not able to achieve the required SLA without making changes to the application code.  There are three different approaches to change the app; however, it is not 100% guarantee that changes will achieve the SLA, but may close the gap.  What is AE’s next step after hearing this from the Cockroach Labs technical team?   
+**Candidate Prep:** For this exercise, consider how you would balance customer needs and reasonable expectations for the technical team. In addition, think about how you communicate in delicate situations to maintain both customer and internal relationships as well as how you manage customer expectations.
 
 ## **Title: Campaign and BD Relations**
 
-**Overview:** Candidate will give interviewer an overview of their cold outreach strategy. It is encouraged that the candidate leverage the whiteboard for this walk-through. 
+**Objective:** You will give interviewer an overview of your cold outreach strategy.
 
-**Candidate Setup:**
-
-- To close deals, you must turn leads into qualified leads, and then nurture them until they become a core or enterprise customer. Knowing who to reach out to within organizations, your process behind outreach and how to nurture leads are all very important. 
-
-**Part 1:** Cold outreach strategies
-
-- Cold outreach
-
-- Tools
-
-- Provide an overview of how you would go about prospecting and finding leads in a specific sector. 
-
-**Part 2:** Relationship building
-
-- BD / sales relationship
-
-- Marketing / sales relationship
-
-- Handling objections
+**Candidate Prep:** To close deals, you must turn leads into qualified leads, and then nurture them until they become a core or enterprise customer. Knowing who to reach out to within organizations, your process behind outreach and how to nurture leads are all very important. To prepare for this exercise, think about how you navigate objections, what tools you use for outreach campaigns, and your business development process more generally. You are encouraged to use the whiteboard.
 
 ## **Title: Field Sales Strategy**
 
-**Overview:** Define and storyline your sales strategy. It is encouraged that the candidate leverage the whiteboard for this walk-through. 
+**Objective:** You will define and storyline your sales strategy.
 
-**Candidate Setup:**
+**Candidate Setup:** Driving revenue for any territory requires a well thought out plan. Knowing the customer, territory, product and strategy plan in advance will define your success and allow you to hit the ground running. Consider how to effectively develop a go-to-market strategy, what steps you would take throughout the process, and how you would structure deals. You are encouraged to use the whiteboard.
 
-- Driving revenue for any territory requires a well thought out plan. Knowing the customer, territory, product and strategy plan in advance will define your success and allow you to hit the ground running. 
+## **Title: Take-Home Mock Sales Presentation**
 
-**Part 1:** Need to be descriptive in the steps needed to deliver your GTM strategy, objectives and tactical steps to deliver revenue to the territory.
+**Objective:** You will select an enterprise infrastructure or technical software product that you know well or have sold before.  The product need not be related to CockroachDB.  It is best to select a topic that enables the candidate to demonstrate strong product knowledge and confidence. Please come prepared to sell the product to Square. 
 
-**Part 2:** This part of the interview will build on Part 1 and move into deal related strategy
-
-- Team relationships
-
-- Deal process and managing an opportunity
-
-- Deal structure
-
-- Deal
-
-## **Title: Mock Sales Presentation**
-
-**Overview:** The candidate will select an enterprise infrastructure or technical software product that you know well or have sold before.  The product need not be related to CockroachDB.  It is best to select a topic that enables the candidate to demonstrate strong product knowledge and confidence. Please come prepared to sell the product to Square. 
-
-The presentation portion of the interview should last 20 minutes. The candidate should be prepared with a PowerPoint (or similar) presentation and present a business and value proposition with the intent of selling your their software. Concepts of business and light technical value should be included, why they’re selling to you, value and should either present or be able to discuss competitors and why their solution is superior. 
-
-**Candidate Setup:** The candidate will be sent the following information, expecting to sell their product to Square If we only have one person, we should be selling to the CTO, if 2 people, we can choose ops or eng. 
-
-- CTO
-
-- Engineering Director OR Operations Director
-
-The candidate is expected to research the company history, product/service offering, understand our target market, and other generally available information. If the information is not public, the candidate should not be expected to know about this information.
-
-- 5-10 mins - Opening/Introduction
-
-- 20 mins - Part 1
-
-- 20 mins - Part 2
-
-- 5-10 mins - Candidate close. Answer candidate questions. 
-
-**Part 1:** The candidate will walk the client through the mock sales presentation (20 mins). In this case, the client is Square. One interviewer will role play as the CTO, while the other role plays as the Engineering or Operations Director. 
-
-**Part 2:** Q&A
-
-**Considerations** Candidate should be able to:
-
-- Builds rapport and engages others
-
-- Demonstrates product knowledge and personal confidence
-
-- Educates the customer
-
-- Presents in a focused and succinct manner
-
-- Effectively handles objections
-
-- Conveys a professional image
+**Candidate Prep:** The presentation portion of the interview should last 20 minutes. You should be prepared with a PowerPoint (or similar) presentation and present a business and value proposition with the intent of selling your software. Concepts of business and light technical value should be included, why they’re selling to you, value and should either present or be able to discuss competitors and why their solution is superior. 
 
 # Sales Engineer
 
 ## **Title: Past Experiences with Databases**
 
-**Overview:** This conversation is a deep-dive discussion on your technical background, specifically, your technical expertise of databases. You will be led through a discussion so the interviewer can learn from you about things they didn’t know.  For example, you should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from you what the technical reasons for the trade-offs are.
+**Objective:** This exercise is a deep-dive discussion on your technical background and specifically, your technical expertise of databases. 
 
-**Set-up:** The interviewer will ask you to pick one of the four technical areas: 
-
-- What is feedback on install 
-
-- What is feedback on monitoring
-
-- What is feedback on elastic scale out / scale in
-
-- [optional ] What is feedback on performance 
+**Cncaidate Prep:**  You should be able to explain what X component of a database is and then describe its trade-offs. Your interviewer should also learn from you what the technical reasons for the trade-offs are. You will be asked to discuss one of the four technical areas: feedback on monitoring, install, elastic scale out/scale in, or performance.
 
 ## **Title: Sales Process**
 
-**Overview:** Sales Engineers work closely with sellers and should have an in-depth understanding of the sales process and what is required. Specifically around lead generation, project management, competitive situations, and individual expectations. 
+**Objective:** Your interviewer will ask you to discuss lead generation, project management, competitive situations, and individual expectations in sales processes.
 
-**Set-up:** Interviewer will dive into the following areas:
-- Lead Generation
-- Project Management
-- Competitive Situations
-- Individual Expectations
-
-**Note:** You should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
+**Candidate Prep:**  Sales Engineers work closely with sellers and should have an in-depth understanding of the sales process and what is required. You should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
 
 ## **Title: Project Management and Product Knowledge**
 
-**Overview:**  You will walk the interviewer through the take-home exercise and discuss the 4 objectives. 
-
-The objectives of the exercise are:
-
-1. Describe pros/cons of CockroachDB install and monitoring and experience
- 
-2. Describe throughput characteristics during the insert workload
-
-3. Describe pros/cons of elasticity and availability
-
-4. SE’s view on architectural constraints of CockroachDB design that resulted in observed pros/cons
-
+**Objective:**  You will walk the interviewer through the take-home exercise and discuss the 4 objectives we shared with you.  
+**Candidate Prep:** The objectives of the exercise are: Describe pros/cons of CockroachDB install and monitoring and experience, throughput characteristics during the insert workload, pros/cons of elasticity and availability, and SE’s view on architectural constraints of CockroachDB design that resulted in observed pros/cons
 
 ## **Title: Documentation**
 
-**Overview:** You will have to read a lot of documentation. You will provide feedback on the docs on how you like the Cockroach docs vs other documentation. In this interview, you will be led through a discussion on the organizational structure of the documentation. 
+**Objective:** In this interview, you will be led through a discussion on the organizational structure of Cockroach Labs' documentation. You will provide feedback on these docs and compare them to others you've seen in the past.
 
-**Part 1:** Discussion on the organizational structure of the documentation. 
+**Candidate Prep:** Discussion on the organizational structure of the documentation. 
 
 # Solutions Engineer
 
 ## **Title: Sales Process**
 
-**Overview:** Solutions Engineers work closely with Sales Engineers and should have a deeper understanding of the technical process over the sales process, using the Sales Engineer as the eyes and ears to the customer. Specifically around project and sales lifecycle success, POC management and competitive situations. 
+**Objective:** This exercise is a deep-dive discussion on your technical background and specifically, your technical expertise of databases. 
 
-**Set-up:** Interviewer will dive into the following areas:
-
-- Project Management
-
-- Competitive Situations
-
-- Individual Expectations
-
-- Expectations of the Sales team including Sales and Sales Engineering
-
-**Note:** Candidate should come prepared knowing how CRDB is different from other platforms and the benefits the product presents. 
+**Cncaidate Prep:**  You should be able to explain what X component of a database is and then describe its trade-offs. Your interviewer should also learn from you what the technical reasons for the trade-offs are. You will be asked to discuss one of the four technical areas: feedback on monitoring, install, elastic scale out/scale in, or performance.
 
 ## **Title: Past Experiences with Databases**
 
-**Overview:** This conversation is a deep-dive discussion on your technical background, specifically, your technical expertise of databases. You will be led through a discussion so the interviewer can learn from you about things they didn’t know.  For example, you should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from you what the technical reasons for the trade-offs are.
+**Objective:** This conversation is a deep-dive discussion on your technical background, specifically, your technical expertise of databases. For example, you should be able to explain what X is and then describe the trade-offs. The interviewer should also learn from you what the technical reasons for the trade-offs are.
 
-**Set-up:** The interviewer will ask you to pick one of the four technical areas: 
-
-- What is feedback on install 
-
-- What is feedback on monitoring
-
-- What is feedback on elastic scale out / scale in
-
-- [optional ] What is feedback on performance 
+**Candidate Prep:** The interviewer will ask you to pick one of the four technical areas: feedback on install, monitoring, elastic scale out / scale in, or performance.
 
 # Sales Operations
 
-## **Title: Driving Insights & Forecasting**
+## **Title: Take-Home Driving Insights & Forecasting**
 
-**Overview:** In this exercise, you will be shared the forecast of the revenue growth for the Company. We ask that you look at this data and turn this into meaningful information that you can share with the Board. It is encouraged that you use presentation format (e.g. PowerPoint or similar). See attached for data. 
+**Objective:** In this exercise, we will share the forecast of the revenue growth for the company with you. We ask that you look at this data and turn this into meaningful information that you can share with the board. On-site, you will review this presentation and discuss further considerations with your interviewer.
 
-Considerations (if any): Sales Stages
-
-- Commit
-
-- Best case
-
-- Pipeline
-
-**Part 1:** Take-home Exercise
-Please review the attached document. From this data, please derive meaningful insight that you feel is relevant to share with the Board. It is encouraged that your response is in presentation format (e.g. PowerPoint or similar). 
-
-**Part 2:** Set-up:
-
-- 5 mins - Introduction
-
-- 15 mins - Take-home Exercise Review with CRO
-
-- 15 mins - [Curveball Question] Based on the discussion with the CRO, come up with 3 metrics that you will be measuring moving forward and a plan to implement them. The candidate is expected to add these to the worksheet. 
-
-- 15 mins - Discuss the above with the CRO. 
-
-- 10 mins - Q&A
+**Candidate Prep:** It is encouraged that you use presentation format (e.g. PowerPoint or similar).
 
 ## **Title: Financial Burn**
 
-**Overview:** In this interview, you will look at financial statements and be asked to figure out how to take the last 2-3 quarters of financial statements to update the current model. 
-
+**Objective:** In this interview, you will look at financial statements and be asked to figure out how to take the last 2-3 quarters of financial statements to update the current model. 
 
 ## **Title: Incentivizing the Sales Team**
 
-**Overview:**  In this interview, we will be diving into how to set up sales compensation plans and incentivizing the sales force. 
+**Obnjective:**  In this interview, we will be diving into how to set up sales compensation plans and incentive the sales force. We will provide you with sample compensation plans on-site.
 
-**Candidate Setup:**
-
-- 5 mins - Introduction
-
-- 10 mins - Interviewer will share current plans for both outside and inside sales. Review bands for sales compensation plans.
-
-- 20 mins - You will set-up a commission plan for both outside and inside sales.
-
-- 15 mins - Review commission plans and discuss additional ways to incentivize the sales force.
-
-- 10 mins - Ask questions.
-
-**Part 1:** Review current compensation plans with the interviewer:
-
-Outside 3: OTE $300k ($150/150k)
-Outside 2: OTE $250k ($125/125k)
-Outside 1: OTE $200k ($100/100k)
-
-Inside 3: OTE $114k ($80/34k)
-Inside 2: OTE $100k ($70/30k)
-Inside 1: OTE $85k ($60/25k)
-
-Interviewer will ask you to use the worksheet to come up with a commission plan.
-
-**Part 2:** Compensation plan discussion.
+**Candidate Prep:** Think about effective eways to structure commission and provide detail on how to supplement it. Feel free to ask any questions needed to make thoughtful recommendations.
 
 ## **Title: Sales & Marketing Pipeline Analysis**
 
-**Overview:** Salesforce provides the one source of truth for sales and marketing to develop a well understood connected marketing and sales funnel for the business.  There are many challenges in interpreting, making data usable and ensuring data integrity within Salesforce.
+**Objective:** Salesforce provides the one source of truth for sales and marketing to develop a well-understood, connected marketing and sales funnel for the business.  There are many challenges in interpreting data, making it usabl,e and ensuring its integrity within Salesforce.
 
-**Set-up:** Marketing and Sales want to understand what specific content and channels are generating the most successful sales opportunities.  This will allow us to make smarter investments with the objective of constantly improving our ROI on marketing dollars spent.
-
-**Part 1:** What tiers would make up the core funnel these reports would be built on?  Please be prepared to white board the various marketing and sales stages.
-
-**Part 2:** What are some of the challenges within Salesforce.
-
-**Part 3:** What would you do to ensure and enforce data integrity for this valuable asset of the organization?
-
-
-
-
-
-
+**Candidate Prep:** Marketing and Sales want to understand what specific content and channels are generating the most successful sales opportunities. This will allow us to make smarter investments with the objective of constantly improving our ROI on marketing dollars spent. Think about how you would build reporting specific to various marketing and sales stages (what tiers would make up the core funnel?), common Salesforce challenges, and how you ensure and enforce data integrity using this tool.
