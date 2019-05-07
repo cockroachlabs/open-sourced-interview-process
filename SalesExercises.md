@@ -45,7 +45,7 @@ The following are exercises for sales positions.
 
 **Objective:** You will define and storyline your sales strategy.
 
-**Candidate Setup:** Driving revenue for any territory requires a well thought out plan. Knowing the customer, territory, product and strategy plan in advance will define your success and allow you to hit the ground running. Consider how to effectively develop a go-to-market strategy, what steps you would take throughout the process, and how you would structure deals. You are encouraged to use the whiteboard.
+**Candidate Prep:** Driving revenue for any territory requires a well thought out plan. Knowing the customer, territory, product and strategy plan in advance will define your success and allow you to hit the ground running. Consider how to effectively develop a go-to-market strategy, what steps you would take throughout the process, and how you would structure deals. You are encouraged to use the whiteboard.
 
 ## **Title: Take-Home Mock Sales Presentation**
 
