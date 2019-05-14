@@ -8,6 +8,7 @@
 - [Challenging Our Unconcious Bias](#challenging-our-unconscious-bias)
 - [Exercise Based Interview Questions](#exercise-based-interview-questions)
 - [Contributing to the Interview Process Guide](#contributing-to-the-interview-process-guide)
+- [Life After the Interview](#life-after-the-interview)
 
 ## Welcome to the Cockroach Labs Interview Process
 At Cockroach Labs, we are exploring new ways to structure our interview process to create familiarity for candidates and account for bias, resulting in a better candidate experience and hiring decisions. Instead of asking questions based on past performance or hypothetical future situations, we focus on assessing the skills you’ll use in your role with exercise based interviews. 
@@ -171,3 +172,5 @@ If you’d like to contribute an interview exercise, please follow the template 
 - **Prompts (if any)**
 
 - **[Not included] Curveball Question:** The curveball portion should be an extension of the interview that shows how the candidate thinks on their feet. This portion is not shared with candidates as we want to evaluate how they respond to a problem to find a solution.
+
+## Life After the Interview
