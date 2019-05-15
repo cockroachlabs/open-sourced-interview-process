@@ -174,3 +174,7 @@ If you’d like to contribute an interview exercise, please follow the template 
 - **[Not included] Curveball Question:** The curveball portion should be an extension of the interview that shows how the candidate thinks on their feet. This portion is not shared with candidates as we want to evaluate how they respond to a problem to find a solution.
 
 ## Life After the Interview
+
+We believe that setting you up for success does not end with the hiring process— our commitment to ensuring that you are well-prepared to join our team is the cornerstone of our onboarding process. If you would like to explore what onboarding and your first few months at Cockroach Labs might look like, feel free to browse our documentation.
+
+- [What to Expect: Engineering Interns](CRLInternship.md)
