@@ -2,7 +2,7 @@
 
 **Timeline**
 
-To set your expectations for your internship, here is a timeline of feedback loops leading up to receiving a potential offer.
+To set your expectations for your internship, here is a timeline of feedback loops leading up to receiving a potential offer to return.
 
 - 30 Day New Hire Survey
   - When: 30 days after your start date
