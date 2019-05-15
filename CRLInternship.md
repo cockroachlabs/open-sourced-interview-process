@@ -19,6 +19,8 @@ To set your expectations for your internship, here is a timeline of feedback loo
   - Who: You and your manager
   - What: Prior to this meeting, People Ops meets with your manager to discuss your performance during your internship and prepare your offer, if applicable. During this meeting, your manager may extend an offer to you.
   
+## Resources
+  
 **Mentor / Roachmate**
 
 Your Roachmate will be your Mentor during your internship at Cockroach Labs.  During your first week at Cockroach Labs, your Mentor will sit down with you to lay out your starter project. The explanation will include not just what your project entails, but also a crash course on the existing components in CockroachDB.  It’s tough to take all this information in at once. That’s okay! You should feel no shame in asking your Mentor to verbatim re-explain these details a day, a week, or a month later.
@@ -31,11 +33,7 @@ The Manager of the team will also be accessible to your during your internship. 
 
 **Learning and Development**
 
-You are welcome to attend all and any Lunch and Learns, Reading Groups, Fireside Chats and workshops. During your last week, you will present the project that you have been working on for the duration of your internship.  This will be treated as a Lunch & Learn. Here are some examples of past internship presentations:
-
-Yahor - Window Functions
-Paul - Joins
-Richard - Interleaved Tables
+You are welcome to attend all and any Lunch and Learns, Reading Groups, Fireside Chats and workshops. During your last week, you will present the project that you have been working on for the duration of your internship.  This will be treated as a Lunch & Learn. 
 
 **NYC Stipend**
 
