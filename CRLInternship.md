@@ -1,24 +1,6 @@
 ## What to Expect During Your Engineering Internship
 
-**Timeline**
 
-To set your expectations for your internship, here is a timeline of feedback loops leading up to receiving a potential offer to return.
-
-- 30 Day New Hire Survey
-  - When: 30 days after your start date
-  - Who: You
-  - What: 30-day surveys are a great way for us to share whether your initial expectations of working at Cockroach Labs are being met. The intent is to learn more about what is going well and what could be going better. You will play an active role with how we can continue to make Cockroach a great place to work for Roachers. If you are interested in meeting with Chelsea to give more direct feedback about the program, please reach out to schedule time with her. Understanding how our employees work within our company allows us to focus on areas that are important to Roachers.
-  
-- Mid Internship Check-in
-  - When: Halfway through your Internship
-  - Who: You and your manager
-  - What: Your mid-internship check-in is a way for your manager to give you feedback on your internship and performance thus far. The check-in also lets you know if there are any skills that you need to develop or work on to receive a return offer at the end of your internship.
-  
-- End of Internship Check-in
-  - When: 2 weeks before your end of internship
-  - Who: You and your manager
-  - What: Prior to this meeting, People Ops meets with your manager to discuss your performance during your internship and prepare your offer, if applicable. During this meeting, your manager may extend an offer to you.
-  
 ## Resources
   
 **Mentor / Roachmate**
@@ -45,3 +27,23 @@ Whether this is your first time living in NYC or you know the subway like the ba
 - Top of the Rock
 - See a comedy show
 - Chelsea Piers
+
+
+## Feedback Timeline
+
+To set your expectations for your internship, here is a timeline of feedback loops leading up to receiving a potential offer to return.
+
+- 30 Day New Hire Survey
+  - When: 30 days after your start date
+  - Who: You
+  - What: 30-day surveys are a great way for us to share whether your initial expectations of working at Cockroach Labs are being met. The intent is to learn more about what is going well and what could be going better. You will play an active role with how we can continue to make Cockroach a great place to work for Roachers. If you are interested in meeting with Chelsea to give more direct feedback about the program, please reach out to schedule time with her. Understanding how our employees work within our company allows us to focus on areas that are important to Roachers.
+  
+- Mid Internship Check-in
+  - When: Halfway through your Internship
+  - Who: You and your manager
+  - What: Your mid-internship check-in is a way for your manager to give you feedback on your internship and performance thus far. The check-in also lets you know if there are any skills that you need to develop or work on to receive a return offer at the end of your internship.
+  
+- End of Internship Check-in
+  - When: 2 weeks before your end of internship
+  - Who: You and your manager
+  - What: Prior to this meeting, People Ops meets with your manager to discuss your performance during your internship and prepare your offer, if applicable. During this meeting, your manager may extend an offer to you.
