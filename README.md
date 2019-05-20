@@ -177,4 +177,5 @@ If you’d like to contribute an interview exercise, please follow the template 
 
 We believe that setting you up for success does not end with the hiring process— our commitment to ensuring that you are well-prepared to join our team is the cornerstone of our onboarding program. If you would like to explore what onboarding and your first few months at Cockroach Labs might look like, feel free to browse our documentation.
 
+- [Your First Weeks at Cockroach Labs](firstweeks.md)
 - [What to Expect: Engineering Interns](CRLInternship.md)
