@@ -12,11 +12,11 @@ The following are exercises for the technical support positions.
 
 - **Candidate Prep:** To prepare for this exercise, think about tools you find helpful in the support process, how to streamline tickets from multiple channels, handling support for both clients and users, and how to organize support structures.
  
-## **Title: Working with SQL**
+## **Title: Technical Learning and Competency**
 
-- **Objective:** You will be given a dataset with a semi-efficient schema and work with your interviewer to optimize the schema. (Or collect information and work towards getting necessary information for the user).
+- **Objective:** You will learn about a technical concept or component related to CockroachDB from a member of our engineering team and use what you've learned to respond to a support ticket.
 
-- **Candidate Prep:** To prepare for this exercise, think about how you can collaborate with engineers to solve customer issues. Review best practices in SQL queries, as well.
+- **Candidate Prep:** The purpose of this exercise is to assess how well you can learn unfamiliar technical concepts, ask questions to augment your understanding, and explain what you learned to a third party. To prepare, think about how best to effective gather information and synthesize it for a customer.
 
 ## **Title: Documentation**
 
