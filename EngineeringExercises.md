@@ -60,7 +60,7 @@ If you get stuck, our interviewer will provide clarity or hints to help you get 
 
 # Design Interviews
 
-Systems design interviews are important because they give us insight into how you think about scale. We expect you know the fundamentals of a system and can logically think through how to build one. This interview is a discussion between you and the interviewer, leveraging the whiteboard. 
+Systems design interviews are important because they give us insight into how you think about scale, complexity, robustness, and performance. We expect you to know the fundamentals of system design. This interview is a discussion between you and the interviewer, leveraging the whiteboard. 
 
 ## "Choose Your Own" Design
 
