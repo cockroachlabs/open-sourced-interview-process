@@ -71,7 +71,8 @@ The following are exercises for sales positions.
 
 **Objective:**  You will walk the interviewer through the take-home exercise and discuss the 4 objectives we shared with you.  
 
-**Candidate Prep:** The objectives of the exercise are: Describe pros/cons of CockroachDB install and monitoring and experience, throughput characteristics during the insert workload, pros/cons of elasticity and availability, and SE’s view on architectural constraints of CockroachDB design that resulted in observed pros/cons
+**Candidate Prep:** The objectives of the exercise are: 1. Describe the experience of installing and monitoring CRDB and the pros/cons to the approach you took 2. Describe your understanding of the pros and cons of CRDB’s distributed architecture 3. Failure scenarios: thoughts on how CRDB behaved when things went wrong 4. SE’s view on architectural constraints of CockroachDB design that resulted in observed pros/cons
+
 
 ## **Title: Documentation**
 
