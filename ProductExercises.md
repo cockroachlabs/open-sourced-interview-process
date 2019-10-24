@@ -30,11 +30,15 @@ The following are exercises for product positions.
 
 - **Candidate Prep:** This exercise will help us understand how you use data to tell a story. Feel free to ask any questions that better prepare you to present all necessary information to your audience.
 
-## **Title:** **Sales Engineering and Triaging Customer Needs**
+## **Title:** **Triaging Customer Requests**
 
-- **Objective:** You will be asked to review your take home exercise with the Head of Sales Engineering and to discuss past experiences with customer requests.
+- **Objective:** Be prepared to talk about two customer requests: one that made it onto the roadmap and one that did not. You will discuss how you made those decisions and managed the customer expectations either directly or indirectly through sales or some other team.
 
-- **Candidate Prep:** A critical component of product management is guiding decisions on feature development. To prepare for this exercise, reflect on past customer requests and be prepared to discuss your decision-making process for prioritizing them in your roadmap and how you communicated these decisions to customer.
+- **Candidate Prep:**
+
+- Part 1: Discuss a time when a customer came to you with a feature request and you solved their underlying problem in a different way than they had originally requested.
+
+- Part 2: Tell me about a time when you said no to an important customer. 
 
 ## **Title:** **Acceptance Testing**
 
