@@ -40,8 +40,4 @@ The following are exercises for product positions.
 
 - **Objective:** In this interview, you will be assessed on your ability to understand complex features, break out high-level user stories, and test them both personally and with end-users.
 
-- **Candidate Prep:** 
-
-- **Part 1:** You will brainstorm 2-3 user stories for a feature with the interviewer (the feature will be provided onsite and the user stories should include the persona, the need, and the motivation). You will walk through how you, as a product manager, would create a testing environment for confirming that the user stories were implemented properly and what areas you think would pay special attention to.
-
-- **Part 2:** How would you get customer feedback for this effort in order to increase the chance that it solves the original pain point? At what points during the product development cycle would you get this feedback? How would you collect this feedback in a way that was helpful to engineers?
+- **Candidate Prep:** Part 1: You will brainstorm 2-3 user stories for a feature with the interviewer (the feature will be provided onsite and the user stories should include the persona, the need, and the motivation). You will walk through how you, as a product manager, would create a testing environment for confirming that the user stories were implemented properly and what areas you think would pay special attention to. Part 2: How would you get customer feedback for this effort in order to increase the chance that it solves the original pain point? At what points during the product development cycle would you get this feedback? How would you collect this feedback in a way that was helpful to engineers?
