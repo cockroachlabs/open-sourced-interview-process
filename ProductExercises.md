@@ -30,7 +30,7 @@ The following are exercises for product positions.
 
 - **Candidate Prep:** This exercise will help us understand how you use data to tell a story. Feel free to ask any questions that better prepare you to present all necessary information to your audience.
 
-## **Title:** **Triaging Customer Requests**
+## **Title:** **Triaging Customer Requirements**
 
 - **Objective:** Be prepared to talk about two customer requests: one that made it onto the roadmap and one that did not. You will discuss how you made those decisions and managed the customer expectations either directly or indirectly through sales or some other team.
 
