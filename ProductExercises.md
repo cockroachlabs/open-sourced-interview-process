@@ -1,6 +1,6 @@
 The following are exercises for product positions.
 
-## **Title: Product Roadmap/Positioning - Work Exp - Tech**
+## **Title: Technical Work Experience**
 
 - **Objective:** You will be asked to pick a product (or feature) that you took from concept to public launch (preferably a technology-based product) and discuss this process with your interviewer.
 
@@ -18,7 +18,7 @@ The following are exercises for product positions.
 
 - **Candidate Prep:** In addition to traditional product management responsibilities, Cockroach Labs PMs are also responsible for positioning their features and producing raw content that can be leveraged by marketing and sales to help promote those enhancements. This exercise is meant to help us understand how PMs think about audiences, differentiation, and value creation. 
 
-## **Title:** **Product Roadmap - New/CRL Specific**
+## **Title:** **Product Case**
 
 - **Objective:** You will be asked to discuss product management basics and your favorite B2B product.
 
