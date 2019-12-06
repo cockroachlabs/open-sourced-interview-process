@@ -2,7 +2,7 @@ The following are exercises for administrative positions.
 
 ## **Title: Activity/Event Planning (1 hour)**
 
-- **Objective:** You will brainstorm 5 concepts for a company-wide summer event and plan one of those concepts in greater detail.
+- **Objective:** You will brainstorm and plan a company-wide celebration following a major milestone.
 
 - **Candidate Prep:** In order to successfully plan this event, keep in mind what you've learned about Cockroach Labs from your research and the interview process thus far. Consider what steps should be taken to ensure success before and during the event as well as what your event will accomplish for the company and your colleagues.
 
@@ -14,15 +14,15 @@ The following are exercises for administrative positions.
 - **Candidate Prep:** Prior to the interview, you will receive an invitation to take the Insights Discovery test. You will be expected to complete the test and review the results.
 
 
-## **Title: External Communication and Diplomacy (1 hour)**
+## **Title: Cross-team Collaboration (1 hour)**
 
-- **Objective:** You will resolve a communication misstep with a client ahead of an important meeting between the client and our founders.
+- **Objective:** You will draft communication to various internal teams about a cross-team collaboration activity.
 
-- **Candidate Prep:** Client service and professionalism are important elements of this role. For this exercise, think about how you would resolve miscommunication, prevent it from happening in the future, and ensure the client's continued confidence in the company. Be prepared to discuss the media you would use to resolve this issue.
+- **Candidate Prep:** Candidate should review Cockroach Labs’ values.
 
 
-## **Title:** **Internal Communication & Strategy (1 hour)**
+## **Title:** **Engagement Strategy (1 hour)**
 
-- **Objective:** You will devise a plan to provide our employees with snacks on a weekly basis.
+- **Objective:** Reviewing your take-home exercise, you will revise our current regular internal engagement schedule and make detailed suggestions for improvement.
 
-- **Candidate Prep:** In this exercise, you will need to think about how to cost-effectively stock our kitchen on a weekly basis, keeping in mind our objective to provide healthy fuel to our employees. Keep in mind that food is a sensitive subject and that you will need to balance the team's needs and size with budget constraints. You should be prepared to thoughtfully communicate your plan with our employees.
+- **Candidate Prep:** In this exercise, you will need to think about how to manage the varying needs of a diverse staff with frequent engagement. You should be prepared to thoughtfully communicate your plan with our employees.
