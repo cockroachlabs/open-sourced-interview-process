@@ -1,27 +1,36 @@
 The following are exercises for administrative positions.
 
-## **Title: Activity/Event Planning (45 minutes)**
+## **Title: Activity/Event Planning (1 hour)**
 
 - **Objective:** You will brainstorm 5 concepts for a company-wide summer event and plan one of those concepts in greater detail.
 
 - **Candidate Prep:** In order to successfully plan this event, keep in mind what you've learned about Cockroach Labs from your research and the interview process thus far. Consider what steps should be taken to ensure success before and during the event as well as what your event will accomplish for the company and your colleagues.
 
 
-## **Title: Client Meetings (45 minutes)**
+## **Title: How You Roll (via Insights Discovery) (1 hour)**
 
-- **Objective:** You will be scheduling two, one-hour client meetings with executives at Goldman Sachs and Oscar Health for our CTO, Peter Mattis, in order to demonstrate the support and coordination skills needed for this role.
+- **Objective:** For this interview, we are asking that you take a personality test based on Jungian psychology and a variety of psychometric models, Insights Discovery. At Cockroach Labs, we have every Roacher take the test so they can better understand how they operate as an individual and as part of a group.
 
-- **Candidate Prep:** As part of this exercise, you should be prepared to account for Peter's travel preferences, his schedule throughout the day, and to provide him with information on the people he will be meeting.
+  During the interview, your interviewer will dive into 3 areas:
+    - Possible Weaknesses
+    - Communication
+   - Strengths and Cockroach Labs Values
+
+- **Candidate Prep:** Prior to the interview, you will receive an invitation to take the Insights Discovery test. You will be expected to complete the test and review the results.
+
+  When reviewing the results, highlight the following:
+    - Under your key strengths and possible weaknesses, for both sections, highlight the top 3 that resonated with you. 
+   - Under strategies for communication, pick the top 3 that resonated with you. 
 
 
-## **Title: External Communication and Diplomacy (45 minutes)**
+## **Title: External Communication and Diplomacy (1 hour)**
 
 - **Objective:** You will resolve a communication misstep with a client ahead of an important meeting between the client and our founders.
 
 - **Candidate Prep:** Client service and professionalism are important elements of this role. For this exercise, think about how you would resolve miscommunication, prevent it from happening in the future, and ensure the client's continued confidence in the company. Be prepared to discuss the media you would use to resolve this issue.
 
 
-## **Title:** **Internal Communication & Strategy (45 minutes)**
+## **Title:** **Internal Communication & Strategy (1 hour)**
 
 - **Objective:** You will devise a plan to provide our employees with snacks on a weekly basis.
 
