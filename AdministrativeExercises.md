@@ -11,16 +11,7 @@ The following are exercises for administrative positions.
 
 - **Objective:** For this interview, we are asking that you take a personality test based on Jungian psychology and a variety of psychometric models, Insights Discovery. At Cockroach Labs, we have every Roacher take the test so they can better understand how they operate as an individual and as part of a group.
 
-  During the interview, your interviewer will dive into 3 areas:
-    - Possible Weaknesses
-    - Communication
-   - Strengths and Cockroach Labs Values
-
 - **Candidate Prep:** Prior to the interview, you will receive an invitation to take the Insights Discovery test. You will be expected to complete the test and review the results.
-
-  When reviewing the results, highlight the following:
-    - Under your key strengths and possible weaknesses, for both sections, highlight the top 3 that resonated with you. 
-   - Under strategies for communication, pick the top 3 that resonated with you. 
 
 
 ## **Title: External Communication and Diplomacy (1 hour)**
