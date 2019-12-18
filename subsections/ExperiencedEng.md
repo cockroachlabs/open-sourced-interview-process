@@ -24,7 +24,7 @@
 
 # Frontend Interviews
 
-. **Technical Screening Stage** (1 hrs total)
+1. **Technical Screening Stage** (1 hrs total)
     
     - Paired Programming Exercise (1 hr)
 
