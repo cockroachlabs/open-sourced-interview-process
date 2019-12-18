@@ -28,9 +28,9 @@ Coding interviews give the interviewer insight into your skills in the following
 
 All of our coding questions are technical concepts that our engineers focus on within their roles. While we don’t dive into the specifics of our coding questions, we encourage you to refresh core technical concepts. For all coding interviews, we recommend using a language that you are extremely familiar with rather than one that is new to you, like Go. 
 
-## Take-home Exercise
+## Technical Screening
 
-As part of initial steps in the engineering interview process, you will be sent a unique CoderPad link (a web-based code editor/build environment) that contains the coding question as well as tips and test cases to get you started. The exercise typically takes about ~1 hour to code and ~1 hour to debug and polish. The intent behind the take-home exercise is to make it as close to an on-the-job simulation as possible, working on your own tools if you wish, on your own schedule, to create a familiar environment in which you can do your best work.
+As part of initial steps in the engineering interview process, you may be given the option to either move directly to a 1-hour paired programming exercise or complete a take-home coding exercise. If you choose the latter, you will be sent a unique CoderPad link (a web-based code editor/build environment) that contains the coding question as well as tips and test cases to get you started. The exercise typically takes about ~1 hour to code and ~1 hour to debug and polish. The intent behind the take-home exercise is to make it as close to an on-the-job simulation as possible, working on your own tools if you wish, on your own schedule, to create a familiar environment in which you can do your best work.
 
 Once you have completed the question, you will submit the link via our applicant tracking system for a member of our engineering team to review. They’ll be looking at correctness, the completeness of your test cases, and the overall structure, cleanliness, and readability of your solution.
 
