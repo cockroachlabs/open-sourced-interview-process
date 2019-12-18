@@ -6,7 +6,7 @@
 
     - Take-home Exercise Phone Interview (1 hr)
     
-    **OR**
+     **OR**
     
     - Paired Programming Exercise (1 hr)
 
