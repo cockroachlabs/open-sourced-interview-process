@@ -9,7 +9,7 @@ Please note: We do not dive into the specifics of some of the questions that you
 - [Experienced and Specialized Engineering](/subsections/ExperiencedEng.md)
 - [New Graduates and Interns](/subsections/UniversityEng.md)
 
-**Total interview time: 7-8 hrs**
+**Total interview time: 7-8 hrs for full time roles, 2-3 hours for internships**
 
 # Coding Interviews
 
