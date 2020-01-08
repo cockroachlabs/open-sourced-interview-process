@@ -34,10 +34,10 @@
 
 # Internships
 
-1. **Technical Screening Phase 1** (1 hrs total)
+1. **Technical Screening Phase 1**
     
     - Paired Programming Exercise (1 hr)
 
-2. **Technical Screening Phase 1** (1 hrs total)
+2. **Technical Screening Phase 1**
     
     - Paired Programming Exercise (1 hr)
