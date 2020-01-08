@@ -31,3 +31,13 @@
     - Choose Your Own Adventure
 
     - Lunch (1 hr)
+
+# Internships
+
+1. **Technical Screening Phase 1** (1 hrs total)
+    
+    - Paired Programming Exercise (1 hr)
+
+2. **Technical Screening Phase 1** (1 hrs total)
+    
+    - Paired Programming Exercise (1 hr)
