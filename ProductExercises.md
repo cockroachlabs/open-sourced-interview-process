@@ -8,7 +8,7 @@ The following are exercises for product positions.
 
 ## **Title: Ops and Tools Takehome Exercise: MySQL Migration**
 
-- **Objective** One of the most important things we can do to drive adoption is to make database migrations frictionless. In this exercise, you will migrate a single table from MySQL to CockroachDB and describe how this process can be improved. This entire exercise should take under an hour. You will also be asked to suggest improvements to this function and write user stories to explain it.
+- **Objective:** One of the most important things we can do to drive adoption is to make database migrations frictionless. In this exercise, you will migrate a single table from MySQL to CockroachDB and describe how this process can be improved. This entire exercise should take under an hour. You will also be asked to suggest improvements to this function and write user stories to explain it.
 
 - **Candidate Prep:** In addition to the migration you will perform, think about how you evaluate areas of improvement, drive messaging, and ensure that expectations are aligned with reality for a product or feature.
 
