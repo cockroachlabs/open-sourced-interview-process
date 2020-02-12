@@ -30,7 +30,7 @@ The following content will provide both candidates and recruiters with valuable 
 
 **For Candidates:**
 
-- You will leave with a thorough understanding of the interview process at Cockroach Labs, along with visibility into real questions from our onsite interviews. Our recruiters will be happy to confirm which of these questions will be presented during the onsite interview. 
+- You will leave with a thorough understanding of the interview process at Cockroach Labs, along with visibility into real questions from our onsite interviews. Our recruiters will provide you with interview preparation specific to your role throughout the recruiting process.
 
 - Please note, around 10-20% of each interview is spent on a curve-ball question that we do not include in the exercises. While you can come prepared for a majority of the interview, we also like to see how you think on your feet.
 
