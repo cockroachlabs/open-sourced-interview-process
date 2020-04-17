@@ -13,3 +13,6 @@ On Week 1, we start off understanding how we operate at Cockroach Labs and why t
 On your second and fourth weeks, we give you an introduction into how other teams work at Cockroach Labs. The goal is to give you insight into what others teams do to support our mission of Make Data Easy. It’s a way to highlight work and roles that you may be unfamiliar with but also share ways that you can collaborate and support those departments.
 
 We onboard new hires every 2 weeks to keep a consistent onboarding cycle and to have new hires join with others. We know that ramping up at a new company takes time, so we encourage you to use your first month to learn, digest and ask questions.
+
+**Resources**
+- Learn about Welcome Docs [Welcome Docs: Getting Started at Cockroach Labs](https://www.cockroachlabs.com/blog/onboarding-starter-projects/).
