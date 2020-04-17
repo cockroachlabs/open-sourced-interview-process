@@ -22,8 +22,7 @@ At Cockroach Labs, we are exploring new ways to structure our interview process 
 
 - **To collaborate.** Let’s challenge our bias *together*. Let’s all pledge to do better than we have before. We welcome feedback on our interview process and encourage anyone reading this to contribute your ideas to our process as well!
 
-Learn more by reading our blog post, ‘[Welcome Docs: Getting Started at Cockroach Labs
-](https://www.cockroachlabs.com/blog/onboarding-starter-projects/).’
+Learn more by reading our blog post, ‘[Exercise Based Interviewing at Cockroach Labs](https://www.cockroachlabs.com/blog/exercise-based-interviewing/).’
 
 ## Getting Started
 
