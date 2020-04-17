@@ -15,4 +15,4 @@ On your second and fourth weeks, we give you an introduction into how other team
 We onboard new hires every 2 weeks to keep a consistent onboarding cycle and to have new hires join with others. We know that ramping up at a new company takes time, so we encourage you to use your first month to learn, digest and ask questions.
 
 **Resources**
-- Learn about Welcome Docs [Welcome Docs: Getting Started at Cockroach Labs](https://www.cockroachlabs.com/blog/onboarding-starter-projects/).
+- [Welcome Docs: Getting Started at Cockroach Labs](https://www.cockroachlabs.com/blog/onboarding-starter-projects/).
