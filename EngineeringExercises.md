@@ -9,7 +9,7 @@ Please note: We do not dive into the specifics of some of the questions that you
 - [Experienced and Specialized Engineering](/subsections/ExperiencedEng.md)
 - [New Graduates and Interns](/subsections/UniversityEng.md)
 
-**Total interview time: 7-8 hrs for full time roles, 2-3 hours for internships**
+**Total interview time: 6-7hrs for full time roles, 2-3 hours for internships**
 
 # Coding Interviews
 
@@ -28,17 +28,17 @@ Coding interviews give the interviewer insight into your skills in the following
 
 All of our coding questions are technical concepts that our engineers focus on within their roles. While we don’t dive into the specifics of our coding questions, we encourage you to refresh core technical concepts. For all coding interviews, we recommend using a language that you are extremely familiar with rather than one that is new to you, like Go. 
 
-## Technical Screening
+## Technical Screening: Phase 1
 
-As part of initial steps in the engineering interview process, you may be given the option to either move directly to a 1-hour paired programming exercise or complete a take-home coding exercise. If you choose the latter, you will be sent a unique CoderPad link (a web-based code editor/build environment) that contains the coding question as well as tips and test cases to get you started. The exercise typically takes about ~1 hour to code and ~1 hour to debug and polish. The intent behind the take-home exercise is to make it as close to an on-the-job simulation as possible, working on your own tools if you wish, on your own schedule, to create a familiar environment in which you can do your best work.
+Following an introductory phone screen with a recruiter, you may be invited to complete a technical screening consisting of two interviews, one of which will be on coding, the other on design. These are live, hourlong interviews with members of our engineering team.
 
-Once you have completed the question, you will submit the link via our applicant tracking system for a member of our engineering team to review. They’ll be looking at correctness, the completeness of your test cases, and the overall structure, cleanliness, and readability of your solution.
+## Technical Screening: Phase 2
 
-If the submitted solution looks good to the reviewer, we schedule a Google Hangout with the reviewer where you’ll revisit your code, again in a CoderPad session.  We’ll ask you to extend the problem with additional or changed functionality by modifying your previously submitted code. We think this is more representative of what we do most in our day to day work: modify *existing* code to add new features or handle changing product requirements, as opposed to starting from scratch every day.
+After reviewing feedback from Phase 1, the team will determine whether to move forward with a second pair of coding and design interviews. These interviews will be conducted in the same format as those in Phase 1, but the questions will be different.
 
-## Onsite Coding Interviews
+## Coding Interviews
 
-For onsite coding interviews, we will ask you to do a live coding exercise in either CoderPad or your own development environment if you prefer to bring your own computer.  Before diving in, we recommend you take a moment and repeat the question back to the interviewer to make sure that you understand the question. For some problems, it can help to jot down your design or the flow of your solution on the provided paper before getting started with the code. 
+For coding interviews, we will ask you to do a live coding exercise in either CoderPad or your own development environment if you prefer to bring your own computer.  Before diving in, we recommend you take a moment and repeat the question back to the interviewer to make sure that you understand the question. For some problems, it can help to jot down your design or the flow of your solution on the provided paper before getting started with the code. 
 
 If you get stuck, our interviewer will provide clarity or hints to help you get unblocked. Always think out loud and let us know what you’re working on or what you’re having trouble with. This not only invites the interviewer into your thought process but can help lead you toward the right path if things have gone astray.
 
