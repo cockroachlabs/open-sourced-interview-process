@@ -30,7 +30,7 @@ All of our coding questions are technical concepts that our engineers focus on w
 
 ## Technical Screening: Phase 1
 
-Following an introductory phone screen with a recruiter, you may be invited to complete a technical screening consisting of two interviews, one of which will be on coding, the other on design. These are live, hourlong interviews with members of our engineering team.
+Following an introductory phone screen with a recruiter, you may be invited to complete the first phase of our interview process for engineers: a technical screening consisting of two interviews, one of which will be on coding, the other on design. These are live, hourlong interviews with members of our engineering team.
 
 ## Technical Screening: Phase 2
 
