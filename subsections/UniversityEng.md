@@ -1,6 +1,6 @@
 # Backend Interviews
 
-1. **Technical Screening Stage** (1-3 hrs total)
+1. **Technical Screening Stage** (1 hr total)
     
     - Paired Programming Exercise (1 hr)
 
