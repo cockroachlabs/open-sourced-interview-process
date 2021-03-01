@@ -5,7 +5,7 @@
     - Paired Programming Exercise (1 hr)
     - System Design Exercise (1 hr)
 
-2. **Technical Screening: Phase 2** (5 hrs total)
+2. **Technical Screening: Phase 2** (2 hrs total)
 
     - Paired Programming Exercise (1 hr)
     - Paired Programming Exercise (1 hr)
