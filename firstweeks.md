@@ -14,3 +14,4 @@ We onboard new hires every 2 weeks to keep a consistent onboarding cycle and to 
 
 **Resources**
 - [Welcome Docs: Getting Started at Cockroach Labs](https://www.cockroachlabs.com/blog/onboarding-starter-projects/)
+- [Onboarding as a Team Sport](https://www.cockroachlabs.com/blog/onboarding-as-a-team-sport/)
