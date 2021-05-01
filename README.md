@@ -71,7 +71,7 @@ Throughout our interview process, it is important to remember that after the Rec
 
 7. **Hiring Committee Review:** After the onsite interview is complete, feedback from the interview process is shared across the interview team. Interview team members review the feedback and independently reach a decision of hire/no-hire based on the comprehensive feedback. At the HC review, the interview team reaches a consensus on whether to reject the candidate or proceed with reference calls.
 
-8. **Reference Calls:** The recruiting team will make reference calls for promising candidates. At a minimum, two reference calls will be completed.  One should be a candidate's manager and the other someone someone who has worked directly with the candidate and can speak to their past work. 
+8. **Reference Calls:** The recruiting team will make reference calls for promising candidates. At a minimum, two reference calls will be completed.  One should be a candidate's manager and the other someone who has worked directly with the candidate and can speak to their past work. 
 
 9. **Final Review:** After successful reference calls, the recruiter submits the employee packet to the CEO and Hiring Manager for final approval.
 
