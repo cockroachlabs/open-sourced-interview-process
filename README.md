@@ -48,7 +48,7 @@ The following content will provide both candidates and recruiters with valuable 
 
 ![](images/HiringProcess.png)
 
-We aim to have our interview process take an average of 3 weeks from start to finish.  Between each step of the interview process, we ask for at most 3 business days for us to to make a decision, but at any point during the interview process, please feel comfortable reaching out to us for updates on your candidacy. 
+We aim to have our interview process completed in as timely a fashion as possible, but at any point during the interview process, please feel comfortable reaching out to us for updates on your candidacy. 
 
 Throughout our interview process, it is important to remember that after the Recruiter Phone Screen, the candidate's resume and the recruiter's notes will not be shared with the hiring team. This is one of the ways that we focus on the skills candidates show during the exercises rather than their past experience. Learn more about this here: "[How We're Fighting Unconscious Bias](https://www.cockroachlabs.com/blog/fighting-unconscious-bias-cockroach-labs/)."
 
