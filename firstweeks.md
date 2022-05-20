@@ -2,7 +2,7 @@
 
 During your Month Of Learning Things (MOLT), you will transform from a new Roacher to a Roacher making impact day to day! This mirrors the process for actual cockroaches where baby cockroaches (nymphs) go through a molting process to shed their skin, create a hard outer shell and become an adult cockroach.
 
-![](images/MOLTing.png)
+![](images/Screen Shot 2022-05-20 at 1.19.43 PM.png)
 
 ## Onboarding at Cockroach Labs
 
