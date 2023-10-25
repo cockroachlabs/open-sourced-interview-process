@@ -54,7 +54,7 @@ You are informed of the question beforehand and you are expected to be able to d
 
 ## Infrastructure Design 
 
-You will be discussing the deployment of CRDB in a production environment as a service and how you would go through that process. You should be prepared to touch on security, alerting, monitoring, and access. For example, "how do you keep CRDB running?"
+You will be discussing the deployment of CockroachDB in a production environment as a service and how you would go through that process. You should be prepared to touch on security, alerting, monitoring, and access. For example, "How do you keep CockroachDB running?"
 
 ## Role-related System Design 
 
