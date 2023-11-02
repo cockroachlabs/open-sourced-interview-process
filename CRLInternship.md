@@ -17,18 +17,6 @@ The Manager of the team will also be accessible to your during your internship. 
 
 You are welcome to attend all and any Lunch and Learns, Reading Groups, Fireside Chats and workshops. During your last week, you will present the project that you have been working on for the duration of your internship.  This will be treated as a Lunch & Learn. 
 
-**NYC Stipend**
-
-Whether this is your first time living in NYC or you know the subway like the back of your hand, we want you to enjoy all of the fun that our city has to offer! Interns are granted $250 to spend over the course of their internship. Grab a fellow intern, your roachmate or your own NYC friend and start exploring! Below are some suggestions. Please expense your activities through Abacus, under Team Entertainment. Some ideas:
-
-- Food Tours
-- Museums
-- See a Broadway Show
-- Top of the Rock
-- See a comedy show
-- Chelsea Piers
-
-
 ## Feedback Timeline
 
 To set your expectations for your internship, here is a timeline of feedback loops leading up to receiving a potential offer to return.
